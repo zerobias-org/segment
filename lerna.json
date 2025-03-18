@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "package/**",
+    "segmentTypes"
+  ],
+  "command": {
+    "publish": {
+      "message": "chore(release): bump version"
+    }
+  },
+  "version": "independent"
+}

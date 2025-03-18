@@ -1,0 +1,14 @@
+id: a165595a-58c3-42a6-b27b-5af8d5231bdf
+name: Application Security
+description: Application security domain
+segmentType: domain
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-app_sec-segment.svg
+code: app_sec
+externalId: AppSec
+status: active
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com

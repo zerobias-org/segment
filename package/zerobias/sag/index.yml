@@ -1,0 +1,14 @@
+id: abe95edc-74fa-485e-b330-1c65ae05cc01
+name: Security Assurance & Governance
+description: Ensure applications remain in a secure, known-good state and address environment cleanup for initial secure state.
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-sag-segment.svg
+code: sag
+externalId: Security Assurance & Governance
+status: published
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com

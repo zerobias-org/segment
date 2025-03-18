@@ -1,0 +1,123 @@
+{
+    "domains": [
+        {
+            "folder_id": "D0001",
+            "folder_name": "Application Security",
+            "categories": [
+                {
+                    "folder_id": "C0001",
+                    "folder_name": "Static Infrastructure and Application Security",
+                    "description": "Analyze the code of the application and its infrastructure to detect security flaws.",
+                    "capabilities": [
+                        { "folder_id": "T0001", "acronym": "SAST",    "folder_name": "Static Application Security Testing"},
+                        { "folder_id": "T0002", "acronym": "SCA",     "folder_name": "Software Composition Analysis"},
+                        { "folder_id": "T0003", "acronym": "IaC Sec", "folder_name": "Infrastructure as Code Security"},
+                        { "folder_id": "T0004", "acronym": "Con Sec", "folder_name": "Container Security"}
+                    ]
+                },
+                {
+                    "folder_id": "C0002",
+                    "folder_name": "Runtime Infrastructure and Application Security",
+                    "description": "Read the configuration of the running environment, scan the running assets, and protect the application.",
+                    "capabilities": [
+                        { "folder_id": "T0008", "acronym": "IAST",    "folder_name": "Interactive Application Security Testing"},
+                        { "folder_id": "T0009", "acronym": "RASP",    "folder_name": "Runtime Application Self-Protection"},
+                        { "folder_id": "T0010", "acronym": "CWP",     "folder_name": "Cloud Workload Protection"},
+                        { "folder_id": "T0011", "acronym": "WAFs",    "folder_name": "Web Application Firewalls"},
+                        { "folder_id": "T0012", "acronym": "API Sec", "folder_name": "API Security"},
+                        { "folder_id": "T0013", "acronym": "ID Sec",  "folder_name": "Identity Security"},
+                        { "folder_id": "T0014", "acronym": "AI Sec",  "folder_name": "AI Security"},
+                        { "folder_id": "T0015", "acronym": "CDR",     "folder_name": "Cloud Detection and Response"},
+                        { "folder_id": "T0016", "acronym": "CIEM",    "folder_name": "Cloud Infrastructure Entitlement Management"},
+                        { "folder_id": "T0017", "acronym": "SIEM",    "folder_name": "Security Information and Event Management"}
+                    ]
+                },
+                {
+                    "folder_id":"C0003",
+                    "folder_name":"Management of Security Vulnerabilities",
+                    "description": "Consolidate, normalize, prioritize, track, and help remediate the security flaws that have been detected.",
+                    "capabilities": [
+                        { "folder_id": "T0005", "acronym": "ASPM", "folder_name": "Application Security Posture Management"},
+                        { "folder_id": "T0006", "acronym": "ASOC", "folder_name": "Application Security Orchestration and Correlation"},
+                        { "folder_id": "T0007", "acronym": "CVM",  "folder_name": "Continuous Vulnerability Management"}
+                    ]
+                },
+                {
+                    "folder_id": "C0004",
+                    "folder_name": "Security Assurance and Governance",
+                    "description": "Establish a known good state and ensure that there is no drift from that known good state.",
+                    "capabilities": [
+                        { "folder_id": "T0018", "acronym": "ASM",   "folder_name": "Application Security Management"},
+                        { "folder_id": "T0019", "acronym": "SBOM",  "folder_name": "Software Bill of Materials"},
+                        { "folder_id": "T0020", "acronym": "DAST",  "folder_name": "Dynamic Application Security Testing"},
+                        { "folder_id": "T0021", "acronym": "PTaaS", "folder_name": "Penetration Testing (Pentest) as a Service"},
+                        { "folder_id": "T0022", "acronym": "SSPM",  "folder_name": "SaaS Security Posture Management"},
+                        { "folder_id": "T0023", "acronym": "KSPM",  "folder_name": "Kubernetes Security Posture Management"},
+                        { "folder_id": "T0024", "acronym": "CSPM",  "folder_name": "Cloud Security Posture Management"},
+                        { "folder_id": "T0025", "acronym": "DSPM",  "folder_name": "Data Security Posture Management"},
+                        { "folder_id": "T0026", "acronym": "AI-SPM","folder_name": "Artificial Intelligence Security Posture Management"},
+                        { "folder_id": "T0027", "acronym": "",      "folder_name": "Bug Bounty"}
+                    ]
+                }
+            ]
+        },
+        {
+            "folder_id": "D0002",
+            "folder_name": "Endpoint Security",
+            "categories": [
+                {
+                    "folder_id": "C0101",
+                    "folder_name": "Detection and Response",
+                    "description": "Provide continuous monitoring of endpoints and real-time response to threats.",
+                    "capabilities": [
+                        { "folder_id": "T0101", "acronym": "EDR", "folder_name": "Endpoint Detection and Response"},
+                        { "folder_id": "T0102", "acronym": "XDR", "folder_name": "Extended Detection and Response"}
+                    ]
+                },
+                {
+                    "folder_id": "C0102",
+                    "folder_name": "AV, MDM, DLP, and more",
+                    "description": "n/a",
+                    "capabilities": [
+                        { "folder_id": "T0103", "acronym": "AV",           "folder_name": "Antivirus and antimalware software"},
+                        { "folder_id": "T0104", "acronym": "NGAV",         "folder_name": "Next-generation antivirus"},
+                        { "folder_id": "T0105", "acronym": "MDM",          "folder_name": "Mobile Device Management"},
+                        { "folder_id": "T0106", "acronym": "Endpoint DLP", "folder_name": "Endpoint Data Loss Prevention"},
+                        { "folder_id": "T0107", "acronym": "",             "folder_name": "Endpoint Patch Management"},
+                        { "folder_id": "T0108", "acronym": "",             "folder_name": "Endpoint Firewalls"},
+                        { "folder_id": "T0109", "acronym": "HIPS",         "folder_name": "Host-based Intrusion Prevention System"},
+                        { "folder_id": "T0110", "acronym": "",             "folder_name": "Device Control"},
+                        { "folder_id": "T0111", "acronym": "",             "folder_name": "Other"}
+                    ]
+                }
+            ]
+        },
+        {
+            "folder_id": "D0003",
+            "folder_name": "Network Security",
+            "categories": [
+                {
+                    "folder_id": "C0201",
+                    "folder_name": "Intrusion Prevention/Detection Systems",
+                    "description": "Monitor a network for malicious activity and take action to prevent it, including reporting, blocking, or dropping it, when it does occur.",
+                    "capabilities": [
+                        { "folder_id": "T0201", "acronym": "IDS",  "folder_name": "Intrusion Detection System"},
+                        { "folder_id": "T0202", "acronym": "NIPS", "folder_name": "Network Intrusion Protection System"},
+                        { "folder_id": "T0203", "acronym": "WIPS", "folder_name": "Wireless Intrusion Protection System"}
+                    ]
+                },
+                {
+                    "folder_id": "C0202",
+                    "folder_name": "Other",
+                    "description": "n/a",
+                    "capabilities": [
+                        { "folder_id": "T0204", "acronym": "Network DLP", "folder_name": "Network Data Loss Prevention"},
+                        { "folder_id": "T0205", "acronym": "FWs",         "folder_name": "Firewalls"},
+                        { "folder_id": "T0206", "acronym": "VPNs",        "folder_name": "Remote Access VPNs"},
+                        { "folder_id": "T0207", "acronym": "",            "folder_name": "Other"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
