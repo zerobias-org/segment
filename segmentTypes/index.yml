@@ -14,3 +14,13 @@ segmentTypes:
     description: Tool
     code: tool
     rank: 3
+  - id: 55ee46bf-e839-4519-b82d-a71ab1a1b1e3
+    name: Tool Feature Group
+    description: Tool Feature Group
+    code: tool_feature_groups
+    rank: 4
+  - id: 55ee46bf-e839-4519-b82d-a71ab1a1b1e3
+    name: Compliance Feature
+    description: Compliance Feature
+    code: compliance_feature
+    rank: 5
