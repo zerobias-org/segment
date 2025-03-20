@@ -1,6 +1,6 @@
 {
   "name": "@auditlogic/segment-zerobias-spao",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Security Processes and Operations segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",

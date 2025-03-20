@@ -1,6 +1,6 @@
 {
   "name": "@auditlogic/segment-zerobias-ns",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Network Security segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",

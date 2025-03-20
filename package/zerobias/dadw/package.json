@@ -1,6 +1,6 @@
 {
   "name": "@auditlogic/segment-zerobias-dadw",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Databases and Data Warehousing segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
