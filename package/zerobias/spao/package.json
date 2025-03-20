@@ -23,5 +23,9 @@
     "dataloader-version": "3.4.5",
     "import-artifact": "segment",
     "package": "zerobias.spao.segment"
+  },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "^1.0.0",
+    "@auditlogic/segment-zerobias-cs": "^1.0.0-rc.0"
   }
 }
