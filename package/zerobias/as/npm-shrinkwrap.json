@@ -9,6 +9,7 @@
       "version": "1.0.0-rc.1",
       "license": "ISC",
       "dependencies": {
+        "@auditlogic/segment_type-zerobias": "^1.0.0-rc.0",
         "@auditlogic/segment-zerobias-cs": "^1.0.0-rc.0",
         "@auditlogic/vendor-zerobias": "^1.0.0"
       }
