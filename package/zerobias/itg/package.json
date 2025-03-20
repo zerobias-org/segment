@@ -1,5 +1,5 @@
 {
-  "name": "@auditlogic/segment-zerobias-itpao",
+  "name": "@auditlogic/segment-zerobias-itg",
   "version": "1.0.0-rc.0",
   "description": "IT Processes and Operations segment artifact",
   "author": "team@zerobias.com",
@@ -7,7 +7,7 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:auditlogic/segment.git",
-    "directory": "package/zerobias/itpao/"
+    "directory": "package/zerobias/itg/"
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh"
@@ -22,6 +22,6 @@
   "auditmation": {
     "dataloader-version": "3.4.5",
     "import-artifact": "segment",
-    "package": "zerobias.itpao.segment"
+    "package": "zerobias.itg.segment"
   }
 }
