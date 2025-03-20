@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-rc.2](https://github.com/auditlogic/segment/compare/@auditlogic/segment_type-zerobias@1.0.0-rc.1...@auditlogic/segment_type-zerobias@1.0.0-rc.2) (2025-03-20)
+
+
+### Bug Fixes
+
+* update deps with parents ([512844f](https://github.com/auditlogic/segment/commit/512844fdc5a277dba774088c66cfc96abe64345d))
+
+
+
+
+
 # 1.0.0-rc.1 (2025-03-20)
 
 

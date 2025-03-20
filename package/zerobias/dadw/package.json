@@ -1,6 +1,6 @@
 {
   "name": "@auditlogic/segment-zerobias-dadw",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Databases and Data Warehousing segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -25,8 +25,8 @@
     "package": "zerobias.dadw.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@auditlogic/segment-zerobias-dm": "^1.0.0-rc.0",
-    "@auditlogic/segment_type-zerobias": "^1.0.0-rc.0"
+    "@auditlogic/segment-zerobias-dm": "^1.0.0-rc.2",
+    "@auditlogic/segment_type-zerobias": "^1.0.0-rc.2",
+    "@auditlogic/vendor-zerobias": "^1.0.0"
   }
 }
