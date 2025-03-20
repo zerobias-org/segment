@@ -1,0 +1,16 @@
+id: c7dce5a4-db88-40f9-8904-4f2b22ab6b12
+name: Data Science and Machine Learning
+description: Data Science and Machine Learning
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-dsaml-segment.svg
+code: dsaml
+externalId: Data Science and Machine Learning
+status: active
+parents:
+  - dm
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
