@@ -1,0 +1,42 @@
+{
+  "name": "@zerobias-org/segment-bundle",
+  "version": "0.0.2",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "@zerobias-org/segment-bundle",
+      "version": "0.0.2",
+      "license": "ISC",
+      "dependencies": {
+        "@zerobias-org/segment_type-zerobias": "1.0.2",
+        "@zerobias-org/segment-zerobias-ad": "1.0.2",
+        "@zerobias-org/segment-zerobias-as": "1.0.2",
+        "@zerobias-org/segment-zerobias-ba": "1.0.2",
+        "@zerobias-org/segment-zerobias-bdaa": "1.0.2",
+        "@zerobias-org/segment-zerobias-bpao": "1.0.2",
+        "@zerobias-org/segment-zerobias-bsap": "1.0.2",
+        "@zerobias-org/segment-zerobias-ci": "1.0.2",
+        "@zerobias-org/segment-zerobias-cs": "1.0.2",
+        "@zerobias-org/segment-zerobias-dadw": "1.0.2",
+        "@zerobias-org/segment-zerobias-dasd": "1.0.2",
+        "@zerobias-org/segment-zerobias-devices": "1.0.2",
+        "@zerobias-org/segment-zerobias-dg": "1.0.2",
+        "@zerobias-org/segment-zerobias-dm": "1.0.2",
+        "@zerobias-org/segment-zerobias-dsaml": "1.0.2",
+        "@zerobias-org/segment-zerobias-es": "1.0.2",
+        "@zerobias-org/segment-zerobias-is": "1.0.2",
+        "@zerobias-org/segment-zerobias-itg": "1.0.2",
+        "@zerobias-org/segment-zerobias-itm": "1.0.2",
+        "@zerobias-org/segment-zerobias-itpao": "1.0.2",
+        "@zerobias-org/segment-zerobias-nasa": "1.0.2",
+        "@zerobias-org/segment-zerobias-ns": "1.0.2",
+        "@zerobias-org/segment-zerobias-op": "1.0.2",
+        "@zerobias-org/segment-zerobias-saad": "1.0.2",
+        "@zerobias-org/segment-zerobias-se": "1.0.2",
+        "@zerobias-org/segment-zerobias-sg": "1.0.2",
+        "@zerobias-org/segment-zerobias-spao": "1.0.2"
+      }
+    }
+  }
+}
