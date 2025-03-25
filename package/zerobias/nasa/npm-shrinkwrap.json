@@ -1,42 +1,23 @@
 {
   "name": "@zerobias-org/segment-zerobias-nasa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-nasa",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.0",
-        "@zerobias-org/segment-zerobias-itm": "^1.0.0"
+        "@zerobias-org/segment_type-zerobias": "^1.0.1",
+        "@zerobias-org/segment-zerobias-itm": "^1.0.1"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
-    },
-    "node_modules/@zerobias-org/segment_type-zerobias": {
-      "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@zerobias-org/segment_type-zerobias/1.0.0/72a5b5616b8ad9d6a43f247ac8c85e7c20817ff7",
-      "integrity": "sha512-KTts5uiUK9mzpJoIl45r4ZtJnQAtZccjBxIIGnO0ZTW0rxLS5M+PoupXcGxJ0U1b2ferVCObEKWeg1MBrTEHzg==",
-      "license": "ISC",
-      "dependencies": {
-        "@auditlogic/vendor-zerobias": "^1.0.0"
-      }
-    },
-    "node_modules/@zerobias-org/segment-zerobias-itm": {
-      "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@zerobias-org/segment-zerobias-itm/1.0.0/00b69ffd1e7174d8f41eee0f25372554f4cde3e6",
-      "integrity": "sha512-MPisN+o76nlyp+EwU846MP5oIj61/UCgSrnVllmGXACe6JKPs5nFq+uRfFNEjYUzbMHcPtlYAqxyabQl6n0snQ==",
-      "license": "ISC",
-      "dependencies": {
-        "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.0"
-      }
     }
   },
   "dependencies": {
@@ -44,23 +25,6 @@
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
-    },
-    "@zerobias-org/segment_type-zerobias": {
-      "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@zerobias-org/segment_type-zerobias/1.0.0/72a5b5616b8ad9d6a43f247ac8c85e7c20817ff7",
-      "integrity": "sha512-KTts5uiUK9mzpJoIl45r4ZtJnQAtZccjBxIIGnO0ZTW0rxLS5M+PoupXcGxJ0U1b2ferVCObEKWeg1MBrTEHzg==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "^1.0.0"
-      }
-    },
-    "@zerobias-org/segment-zerobias-itm": {
-      "version": "1.0.0",
-      "resolved": "https://npm.pkg.github.com/download/@zerobias-org/segment-zerobias-itm/1.0.0/00b69ffd1e7174d8f41eee0f25372554f4cde3e6",
-      "integrity": "sha512-MPisN+o76nlyp+EwU846MP5oIj61/UCgSrnVllmGXACe6JKPs5nFq+uRfFNEjYUzbMHcPtlYAqxyabQl6n0snQ==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.0"
-      }
     }
   }
 }
