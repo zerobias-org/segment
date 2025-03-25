@@ -1,7 +1,7 @@
 {
-  "name": "segment",
+  "name": "@zerobias-org/segment",
   "version": "1.0.0",
-  "description": "Auditlogic segment artifacts",
+  "description": "Zerobias segment artifacts",
   "main": "main.js",
   "scripts": {
     "lerna:dry-run": "lerna version --no-git-tag-version --no-push --conventional-commits",
@@ -16,23 +16,25 @@
     "clean:full": "npx lerna exec \"rm -f npm-shrinkwrap.json package-lock.json\" --concurrency=10 && npx lerna run clean && npx lerna clean --yes && nx reset",
 	  "reset": "npm run clean:full && npx lerna bootstrap --concurrency=10 --include-dependencies && npm run build"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auditlogic/segment.git"
+    "url": "git+https://github.com/zerobias-org/segment.git"
   },
   "author": "dsolis@neverfail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/auditlogic/segment/issues"
+    "url": "https://github.com/zerobias-org/segment/issues"
   },
-  "homepage": "https://github.com/auditlogic/segment#readme",
+  "homepage": "https://github.com/zerobias-org/segment#readme",
   "devDependencies": {
-    "@auditmation/devops-tools": "^0.17.0",
+    "@auditmation/devops-tools": "^0.17.3",
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
-    "eslint": "^8.6.0",
-    "husky": "^7.0.4",
-    "lerna": "^6.3.0",
-    "nx": "^15.4.2"
+    "husky": "^5.1.3",
+    "lerna": "5.6.2",
+    "nx": "^15.4.5"
   }
 }

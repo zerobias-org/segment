@@ -1,0 +1,17 @@
+id: 18f74a8c-1b6b-4a84-9b11-ff98a70e5ee0
+name: Security Processes and Operations
+description: Security Processes and Operations
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-spao-segment.svg
+code: spao
+externalId: Security Processes and Operations
+status: active
+parents:
+  - cs
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

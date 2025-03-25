@@ -1,12 +1,12 @@
 {
-  "name": "@auditlogic/segment-bundle",
+  "name": "@zerobias-org/segment-bundle",
   "version": "0.0.1",
   "description": "All installable segments",
   "author": "team@auditmation.io",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:auditlogic/segment.git",
+    "url": "git@github.com:zerobias-org/segment.git",
     "directory": "bundle/"
   },
   "publishConfig": {

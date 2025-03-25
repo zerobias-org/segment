@@ -1,0 +1,31 @@
+{
+  "name": "@zerobias-org/segment-zerobias-dm",
+  "version": "1.0.0-rc.4",
+  "description": "Data Management segment artifact",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/segment.git",
+    "directory": "package/zerobias/dm/"
+  },
+  "scripts": {
+    "nx:publish": "../../../scripts/publish.sh"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "logo.svg"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.4.5",
+    "import-artifact": "segment",
+    "package": "zerobias.dm.segment"
+  },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "^1.0.0",
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.4"
+  }
+}

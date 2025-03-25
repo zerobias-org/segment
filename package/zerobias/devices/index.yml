@@ -1,0 +1,17 @@
+id: 1e9df3a1-b313-41fd-9954-9c65a7b5ceaf
+name: Devices
+description: Devices
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-devices-segment.svg
+code: devices
+externalId: Devices
+status: active
+parents:
+  - itm
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

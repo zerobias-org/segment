@@ -1,0 +1,17 @@
+id: 0b10ed8c-1df4-4d72-8bfc-45f0bd9e545d
+name: Security Governance
+description: Security Governance
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-sg-segment.svg
+code: sg
+externalId: Security Governance
+status: active
+parents:
+  - cs
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

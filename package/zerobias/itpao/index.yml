@@ -1,0 +1,17 @@
+id: c0ff971f-9ea4-4b6f-9df9-ffbd01a795d8
+name: IT Processes and Operations
+description: IT Processes and Operations
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-itpao-segment.svg
+code: itpao
+externalId: IT Processes and Operations
+status: active
+parents:
+  - itm
+created: '2024-08-15T10:43:45.277Z'
+updated: '2024-08-19T11:04:23.633Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

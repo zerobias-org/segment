@@ -1,0 +1,26 @@
+segmentTypes:
+  - id: 00455efe-06a7-4bee-a3a4-ea107b203029
+    name: Domain
+    description: Domain
+    code: domain
+    rank: 1
+  - id: 2902a366-d9a0-4c77-bf16-9cb211e6a511
+    name: Category
+    description: Category
+    code: category
+    rank: 2
+  - id: 8c3e3e68-f312-4340-ad9b-774b6c4547d5
+    name: Tool
+    description: Tool
+    code: tool
+    rank: 3
+  - id: 402da727-ad36-4620-bfd7-b5841ba6263c
+    name: Service
+    description: service
+    code: service
+    rank: 3
+  - id: 55ee46bf-e839-4519-b82d-a71ab1a1b1e3
+    name: Feature Group
+    description: Feature Group
+    code: feature_group
+    rank: 4
