@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-dadw@1.0.0-rc.4...@zerobias-org/segment-zerobias-dadw@1.0.0) (2025-03-25)
+
+
+### Bug Fixes
+
+* make all npmrc files symlinks ([8331b8c](https://github.com/zerobias-org/segment/commit/8331b8c815fa1ddc808b849e2797c254c5a62039))
+
+
+
+
+
 # [1.0.0-rc.4](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-dadw@1.0.0-rc.3...@zerobias-org/segment-zerobias-dadw@1.0.0-rc.4) (2025-03-25)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-dadw
