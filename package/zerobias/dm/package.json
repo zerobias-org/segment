@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-dm",
-  "version": "1.0.0-rc.3",
+  "version": "1.0.0-rc.4",
   "description": "Data Management segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.3"
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.4"
   }
 }
