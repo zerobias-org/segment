@@ -1,12 +1,12 @@
 {
-  "name": "@auditlogic/segment_type-zerobias",
-  "version": "1.0.0-rc.1",
+  "name": "@zerobias-org/segment_type-zerobias",
+  "version": "1.0.0-rc.2",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
-      "name": "@auditlogic/segment_type-zerobias",
-      "version": "1.0.0-rc.1",
+      "name": "@zerobias-org/segment_type-zerobias",
+      "version": "1.0.0-rc.2",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0"

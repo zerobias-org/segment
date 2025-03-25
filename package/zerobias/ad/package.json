@@ -1,12 +1,12 @@
 {
-  "name": "@auditlogic/segment-zerobias-ad",
+  "name": "@zerobias-org/segment-zerobias-ad",
   "version": "1.0.0-rc.2",
   "description": "Application Development (web, mobile, desktop) segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:auditlogic/segment.git",
+    "url": "git@github.com:zerobias-org/segment.git",
     "directory": "package/zerobias/ad/"
   },
   "scripts": {
@@ -25,8 +25,8 @@
     "package": "zerobias.ad.segment"
   },
   "dependencies": {
-    "@auditlogic/segment-zerobias-se": "^1.0.0-rc.2",
-    "@auditlogic/segment_type-zerobias": "^1.0.0-rc.2",
+    "@zerobias-org/segment-zerobias-se": "^1.0.0-rc.2",
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.2",
     "@auditlogic/vendor-zerobias": "^1.0.0"
   }
 }

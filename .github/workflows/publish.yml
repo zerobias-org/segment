@@ -1,11 +1,9 @@
 name: Publish
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
-  repository_dispatch:
-    types: 
-      - publish
 
 permissions:
   contents: write
@@ -15,5 +13,7 @@ permissions:
 
 jobs:
   publish:
-    uses: auditlogic/content-workflows/.github/workflows/publish-reusable.yml@main
+    uses: zerobias-org/devops/.github/workflows/publish-reusable.yml@main
     secrets: inherit
+    with:
+      skip-publish-announcement: 'true'

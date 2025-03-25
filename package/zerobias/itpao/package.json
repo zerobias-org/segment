@@ -1,12 +1,12 @@
 {
-  "name": "@auditlogic/segment-zerobias-itpao",
+  "name": "@zerobias-org/segment-zerobias-itpao",
   "version": "1.0.0-rc.2",
   "description": "IT Processes and Operations segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:auditlogic/segment.git",
+    "url": "git@github.com:zerobias-org/segment.git",
     "directory": "package/zerobias/itpao/"
   },
   "scripts": {
@@ -25,8 +25,8 @@
     "package": "zerobias.itpao.segment"
   },
   "dependencies": {
-    "@auditlogic/segment-zerobias-itm": "^1.0.0-rc.2",
-    "@auditlogic/segment_type-zerobias": "^1.0.0-rc.2",
+    "@zerobias-org/segment-zerobias-itm": "^1.0.0-rc.2",
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.2",
     "@auditlogic/vendor-zerobias": "^1.0.0"
   }
 }

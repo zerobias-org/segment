@@ -1,12 +1,12 @@
 {
-  "name": "@auditlogic/segment-zerobias-ba",
+  "name": "@zerobias-org/segment-zerobias-ba",
   "version": "1.0.0-rc.2",
   "description": "Business Applications segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:auditlogic/segment.git",
+    "url": "git@github.com:zerobias-org/segment.git",
     "directory": "package/zerobias/ba/"
   },
   "scripts": {
@@ -25,7 +25,7 @@
     "package": "zerobias.ba.segment"
   },
   "dependencies": {
-    "@auditlogic/segment_type-zerobias": "^1.0.0-rc.2",
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.2",
     "@auditlogic/vendor-zerobias": "^1.0.0"
   }
 }
