@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-dsaml",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0-rc.3",
   "description": "Data Science and Machine Learning segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -25,8 +25,8 @@
     "package": "zerobias.dsaml.segment"
   },
   "dependencies": {
-    "@zerobias-org/segment-zerobias-dm": "^1.0.0-rc.2",
-    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.2",
-    "@auditlogic/vendor-zerobias": "^1.0.0"
+    "@auditlogic/vendor-zerobias": "^1.0.0",
+    "@zerobias-org/segment-zerobias-dm": "^1.0.0-rc.3",
+    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.3"
   }
 }
