@@ -1,17 +1,17 @@
 {
   "name": "@zerobias-org/segment-zerobias-as",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-as",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.3",
-        "@zerobias-org/segment-zerobias-cs": "^1.0.3"
+        "@zerobias-org/segment_type-zerobias": "^1.0.4",
+        "@zerobias-org/segment-zerobias-cs": "^1.0.4"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
