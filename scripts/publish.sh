@@ -12,5 +12,5 @@ LATEST=$(npm view $NAME dist-tags.latest) || echo ""
 
 if [ "$VERSION" != "$LATEST" ]; then
   NPM_TOKEN=$READ_TOKEN npm i
-  npm publish
+  ZB_TOKEN=$ZB_TOKEN npm publish
 fi
