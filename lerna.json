@@ -5,7 +5,8 @@
   ],
   "command": {
     "publish": {
-      "message": "chore(release): bump version"
+      "message": "chore(release): bump version",
+      "registry": "https://npm.pkg.github.com"
     }
   },
   "version": "independent"
