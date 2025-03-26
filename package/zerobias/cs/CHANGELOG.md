@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-cs@1.0.2...@zerobias-org/segment-zerobias-cs@1.0.4) (2025-03-26)
+
+
+### Bug Fixes
+
+* reset ran ([dc9f7f8](https://github.com/zerobias-org/segment/commit/dc9f7f8b88051a0b885df6807b341ee7065d4457))
+
+
+
+
+
 ## [1.0.2](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-cs@1.0.1...@zerobias-org/segment-zerobias-cs@1.0.2) (2025-03-25)
 
 
