@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-spao",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Security Processes and Operations segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-cs": "^1.0.4",
-    "@zerobias-org/segment_type-zerobias": "^1.0.4"
+    "@zerobias-org/segment-zerobias-cs": "^1.0.5",
+    "@zerobias-org/segment_type-zerobias": "^1.0.5"
   }
 }
