@@ -18,6 +18,7 @@ segmentTypes:
     name: Service
     description: service
     code: service
+    isService: true
     rank: 3
   - id: 55ee46bf-e839-4519-b82d-a71ab1a1b1e3
     name: Feature Group
