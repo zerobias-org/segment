@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-sg@1.0.6...@zerobias-org/segment-zerobias-sg@1.0.8) (2025-03-28)
+
+
+### Bug Fixes
+
+* some more fixes and workflow change ([5f9b5e1](https://github.com/zerobias-org/segment/commit/5f9b5e163104603ae2ecd9425b9e8d92926464c0))
+
+
+
+
+
 ## [1.0.6](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-sg@1.0.4...@zerobias-org/segment-zerobias-sg@1.0.6) (2025-03-28)
 
 
