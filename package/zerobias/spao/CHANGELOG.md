@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-spao@1.0.4...@zerobias-org/segment-zerobias-spao@1.0.6) (2025-03-28)
+
+
+### Bug Fixes
+
+* full patch bump ([58c41c6](https://github.com/zerobias-org/segment/commit/58c41c653cfbb06a985282feb95b46c91a14b853))
+* last tru ([d2b6c32](https://github.com/zerobias-org/segment/commit/d2b6c322848d3781b0b23ff1c16df2f4c5de53ed))
+
+
+
+
+
 ## [1.0.4](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-spao@1.0.2...@zerobias-org/segment-zerobias-spao@1.0.4) (2025-03-26)
 
 

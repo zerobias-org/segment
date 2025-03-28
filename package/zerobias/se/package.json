@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-se",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Software Engineering segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment_type-zerobias": "^1.0.5"
+    "@zerobias-org/segment_type-zerobias": "^1.0.6"
   }
 }
