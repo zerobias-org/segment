@@ -1,10 +1,10 @@
-id: d5978c90-8c9c-433d-8e7f-ef36a4d47759
+id: e67f8e95-5d06-4e1a-81c2-67977407943a
 name: DevOps and Software Delivery
 description: DevOps and Software Delivery
 segmentType: category
 ownerId: 00000000-0000-0000-0000-000000000000
-imageUrl: https://cdn.auditmation.io/logos/zerobias-daad-segment.svg
-code: daad
+imageUrl: https://cdn.auditmation.io/logos/zerobias-dasd-segment.svg
+code: dasd
 externalId: DevOps and Software Delivery
 status: active
 parents:
