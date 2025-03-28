@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-bundle",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-bundle",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/segment_type-zerobias": "1.0.8",
@@ -29,7 +29,7 @@
         "@zerobias-org/segment-zerobias-itg": "1.0.8",
         "@zerobias-org/segment-zerobias-itm": "1.0.8",
         "@zerobias-org/segment-zerobias-itpao": "1.0.8",
-        "@zerobias-org/segment-zerobias-nasa": "1.0.8",
+        "@zerobias-org/segment-zerobias-nasa": "1.0.9",
         "@zerobias-org/segment-zerobias-ns": "1.0.8",
         "@zerobias-org/segment-zerobias-op": "1.0.8",
         "@zerobias-org/segment-zerobias-saad": "1.0.8",
@@ -238,9 +238,9 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-nasa": {
-      "version": "1.0.8",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-nasa/-/segment-zerobias-nasa-1.0.8.tgz",
-      "integrity": "sha512-vU3c8mRBtneZ3UI9oVAfdGp0NLCrP9TkHwGDvxfFcDv4O07asprHptS95XN5LC1IyuL9IEqew33GMATBbMQqgw==",
+      "version": "1.0.9",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-nasa/-/segment-zerobias-nasa-1.0.9.tgz",
+      "integrity": "sha512-/62PhzBFAFSP9ONi7xTi49f5uzahlXPK3gFfz9BFQk9BGGfyZsuaA93uI+TumrGWtljoF7UIf/dtsUqlHN4+AQ==",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
         "@zerobias-org/segment_type-zerobias": "^1.0.8",
@@ -508,9 +508,9 @@
       }
     },
     "@zerobias-org/segment-zerobias-nasa": {
-      "version": "1.0.8",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-nasa/-/segment-zerobias-nasa-1.0.8.tgz",
-      "integrity": "sha512-vU3c8mRBtneZ3UI9oVAfdGp0NLCrP9TkHwGDvxfFcDv4O07asprHptS95XN5LC1IyuL9IEqew33GMATBbMQqgw==",
+      "version": "1.0.9",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-nasa/-/segment-zerobias-nasa-1.0.9.tgz",
+      "integrity": "sha512-/62PhzBFAFSP9ONi7xTi49f5uzahlXPK3gFfz9BFQk9BGGfyZsuaA93uI+TumrGWtljoF7UIf/dtsUqlHN4+AQ==",
       "requires": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
         "@zerobias-org/segment_type-zerobias": "^1.0.8",
