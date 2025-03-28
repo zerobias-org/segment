@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.9](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment_type-zerobias@1.0.8...@zerobias-org/segment_type-zerobias@1.0.9) (2025-03-28)
+
+
+### Bug Fixes
+
+* update serve segment type ([2185652](https://github.com/zerobias-org/segment/commit/2185652e0a44a0156277e90e1369035b81fed9f2))
+
+
+
+
+
 ## [1.0.8](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment_type-zerobias@1.0.6...@zerobias-org/segment_type-zerobias@1.0.8) (2025-03-28)
 
 
