@@ -1,0 +1,17 @@
+id: 228625c9-b146-4cc4-b93c-1f677d0f5184
+name: Cloud Infrastructure
+description: Cloud Infrastructure
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ci-segment.svg
+code: c_ci
+externalId: Cloud Infrastructure
+status: active
+parents: 
+  - d_itm
+created: '2025-04-02T04:23:38.229217Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

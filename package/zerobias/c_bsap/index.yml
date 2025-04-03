@@ -1,0 +1,17 @@
+id: 34b0727d-dbc2-41b3-802b-c93a278ae0da
+name: Business Strategy and Planning
+description: Business Strategy and Planning
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_bsap-segment.svg
+code: c_bsap
+externalId: Business Strategy and Planning
+status: active
+parents: 
+  - d_ba
+created: '2025-03-31T07:10:04.609724Z'
+updated: '2025-04-02T04:42:34.704000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

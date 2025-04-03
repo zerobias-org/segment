@@ -1,0 +1,17 @@
+id: 67f66d15-a896-43d0-ab8e-e04964978cc0
+name: Mobile Device Management (MDM)
+description: Mobile Device Management (MDM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_mdm-segment.svg
+code: t_mdm
+externalId: Mobile Device Management
+status: active
+parents: 
+  - c_devices
+created: '2025-04-02T04:23:38.561795Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

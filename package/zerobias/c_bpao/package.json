@@ -1,0 +1,32 @@
+{
+  "name": "@zerobias-org/segment-c_bpao",
+  "version": "1.0.9",
+  "description": "Business Processes and Operations segment artifact",
+  "author": "opignault@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/segment.git",
+    "directory": "package/zerobias/c_bpao/"
+  },
+  "scripts": {
+    "nx:publish": "../../../scripts/publish.sh"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "logo.svg"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.4.5",
+    "import-artifact": "segment",
+    "package": "zerobias.c_bpao.segment"
+  },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "^1.0.0",
+    "@zerobias-org/segment-zerobias-d_ba": "^1.0.9",
+    "@zerobias-org/segment_type-zerobias": "^1.0.9"
+  }
+}

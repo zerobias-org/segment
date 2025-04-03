@@ -1,0 +1,16 @@
+id: 96f61a1a-3cb2-44af-9d44-5d572b0d3063
+name: IT Management
+description: IT Management
+segmentType: domain
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-d_itm-segment.svg
+code: d_itm
+externalId: IT Management
+status: active
+parents: 
+created: '2025-04-02T04:23:31.840580Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

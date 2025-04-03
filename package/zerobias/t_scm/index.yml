@@ -1,0 +1,17 @@
+id: 7c363233-3a79-4ab8-bd65-8b0778b79087
+name: Supply Chain Management (SCM)
+description: Supply Chain Management (SCM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_scm-segment.svg
+code: t_scm
+externalId: Supply Chain Management
+status: active
+parents: 
+  - c_bpao
+created: '2025-03-31T07:10:04.482587Z'
+updated: '2025-04-02T04:42:34.279000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

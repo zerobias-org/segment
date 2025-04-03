@@ -1,0 +1,17 @@
+id: 647b5603-8693-4170-b1a0-01491c6f54b8
+name: Note-Taking and Organization
+description: Note-Taking and Organization
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ntao-segment.svg
+code: t_ntao
+externalId: Note-Taking and Organization
+status: active
+parents: 
+  - c_op
+created: '2025-03-31T07:10:05.063553Z'
+updated: '2025-04-02T04:42:36.073000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
