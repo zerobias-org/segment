@@ -1,0 +1,11 @@
+id: {id}
+name: {name}
+description: {description}
+segmentType: {segmentType}
+imageUrl: https://cdn.auditmation.io/logos/zerobias-{code}-segment.svg
+code: {code}
+externalId: {externalId}
+status: active
+parents: []
+tags: []
+aliases: []
