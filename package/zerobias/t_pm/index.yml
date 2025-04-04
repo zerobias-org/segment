@@ -1,0 +1,18 @@
+id: 18b93453-ce62-44de-b39b-4c8cb5016420
+name: Patch Management
+description: Patch Management
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pm-segment.svg
+code: t_pm
+externalId: Patch Management
+status: active
+parents: 
+  - c_nasa
+  - c_devices
+created: '2025-04-02T04:23:37.446659Z'
+updated: '2025-04-02T04:23:39.573000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

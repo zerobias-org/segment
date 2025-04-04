@@ -1,0 +1,17 @@
+id: 7e8db059-0a1b-43d3-9a57-192360bfd177
+name: Enterprise Resource Planning (ERP)
+description: Enterprise Resource Planning (ERP)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_erp-segment.svg
+code: t_erp
+externalId: Enterprise Resource Planning
+status: active
+parents: 
+  - c_bpao
+created: '2025-03-31T07:10:04.333288Z'
+updated: '2025-04-02T04:42:33.893000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 61b9cc64-3a81-4d9d-a0e7-d03e7da94cfe
+name: Office Productivity
+description: Office Productivity
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_op-segment.svg
+code: c_op
+externalId: Office Productivity
+status: active
+parents: 
+  - d_ba
+created: '2025-03-31T07:10:04.805362Z'
+updated: '2025-04-02T04:42:35.299000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 68b27b61-d5a2-41b3-96de-904f44f756b1
+name: Business Processes and Operations
+description: Business Processes and Operations
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_bpao-segment.svg
+code: c_bpao
+externalId: Business Processes and Operations
+status: active
+parents: 
+  - d_ba
+created: '2025-03-31T07:10:04.264227Z'
+updated: '2025-04-02T04:42:33.711000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

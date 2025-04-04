@@ -1,0 +1,17 @@
+id: 95b615de-2d38-4219-8a1a-03bc3e9c1bda
+name: IT Asset Management (ITAM)
+description: IT Asset Management (ITAM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itam-segment.svg
+code: t_itam
+externalId: IT Asset Management
+status: active
+parents: 
+  - c_itpao
+created: '2025-04-02T04:23:33.582384Z'
+updated: '2025-04-02T04:23:33.582384Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

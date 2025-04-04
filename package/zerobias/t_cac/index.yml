@@ -1,0 +1,17 @@
+id: acbec4ca-9b20-47c6-8d83-17b6819cca87
+name: Collaboration and Communication
+description: Collaboration and Communication
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cac-segment.svg
+code: t_cac
+externalId: Collaboration and Communication
+status: active
+parents: 
+  - c_op
+created: '2025-03-31T07:10:04.868795Z'
+updated: '2025-04-02T04:42:35.495000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: d015279f-6ea4-46ff-8a12-201f7fa69f22
+name: Customer Relationship Management (CRM)
+description: Customer Relationship Management (CRM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_crm-segment.svg
+code: t_crm
+externalId: Customer Relationship Management
+status: active
+parents: 
+  - c_bpao
+created: '2025-03-31T07:10:04.404927Z'
+updated: '2025-04-02T04:42:34.082000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

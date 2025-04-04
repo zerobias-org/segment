@@ -1,0 +1,17 @@
+id: 8368ef8e-1026-426b-80ac-4fcd051e51d1
+name: Identity and Access Management (IAM)
+description: Identity and Access Management (IAM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iam-segment.svg
+code: t_iam
+externalId: Identity and Access Management
+status: active
+parents: 
+  - c_itg
+created: '2025-04-02T04:23:40.200235Z'
+updated: '2025-04-02T04:23:40.200235Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
