@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-cs",
-  "version": "1.0.9",
+  "version": "1.0.10-rc.1",
   "description": "Cybersecurity segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -22,7 +22,8 @@
   "auditmation": {
     "dataloader-version": "3.4.5",
     "import-artifact": "segment",
-    "package": "zerobias.cs.segment"
+    "package": "zerobias.cs.segment",
+    "deprecated": true
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",

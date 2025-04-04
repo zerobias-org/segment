@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-devices",
-  "version": "1.0.9",
+  "version": "1.0.10-rc.1",
   "description": "Devices segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -22,11 +22,12 @@
   "auditmation": {
     "dataloader-version": "3.4.5",
     "import-artifact": "segment",
-    "package": "zerobias.devices.segment"
+    "package": "zerobias.devices.segment",
+    "deprecated": true
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-itm": "^1.0.9",
+    "@zerobias-org/segment-zerobias-itm": "^1.0.10-rc.1",
     "@zerobias-org/segment_type-zerobias": "^1.0.9"
   }
 }
