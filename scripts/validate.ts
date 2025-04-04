@@ -38,7 +38,12 @@ async function readAndParseFile(file: string, fullPathFile: string): Promise<any
   throw new Error(`File type not supported: ${file}`);
 }
 
-async function processIndexYml(indexFile: Record<string, any>): Promise<string> {
+function processPackageJson(packageFile: Record<string, any>, code: string): void {
+  const check = packageFile.name !== undefined && packageFile.name !== null && packageFile.name !== '{name}'
+    ? packageFile.name : new Error('name not found in package.json');
+}
+
+function processIndexYml(indexFile: Record<string, any>): string {
   const code = indexFile.code !== undefined && indexFile.code !== null && indexFile.code !== '{code}' ? indexFile.code
     : new Error('code not found in index.yml');
   if (typeof code !== 'string') {
@@ -66,30 +71,30 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
     throw new Error('segmentType in index.yml needs replacement from {segmentType}');
   }
 
-  check = indexFile.imageUrl !== undefined && indexFile.imageUrl !== null && indexFile.imageUrl !== '{imageUrl}'
-    ? new URL(indexFile.imageUrl) : true;
+  check = indexFile.imageUrl !== undefined && indexFile.imageUrl !== null ? new URL(indexFile.imageUrl) : true;
+  check = indexFile.status !== undefined && indexFile.status !== null ? VspStatusEnum.from(indexFile.status)
+    : new Error('status not found in index.yml');
   check = indexFile.externalId !== undefined && indexFile.externalId !== null && indexFile.externalId !== '{externalId}'
     ? indexFile.externalId : new Error('externalId not found in index.yml');
   if (typeof check !== 'string') {
     throw new Error('externalId in index.yml needs replacement from {externalId}');
   }
 
+  check = indexFile.aliases !== undefined && indexFile.aliases !== null ? indexFile.aliases : [];
+  for (const alias of check) {
+    if (typeof alias !== 'string') {
+      throw new Error('aliases in index.yml needs to be a string[]');
+    }
+  }
+
+  check = indexFile.parents !== undefined && indexFile.parents !== null ? indexFile.parents : [];
+  for (const parent of check) {
+    if (typeof parent !== 'string') {
+      throw new Error('parents in index.yml needs to be a string[]');
+    }
+  }
+ 
   return code;
-}
-// id: d1091a01-ea04-4f7f-887a-610357ef830a
-// name: {name}
-// description: {description}
-// segmentType: {segmentType}
-// imageUrl: https://cdn.auditmation.io/logos/zerobias-d_test-segment.svg
-// code: d_test
-// externalId: {externalId}
-// status: active
-// parents: []
-// tags: []
-// aliases: []
-
-async function processPackageJson(packageFile: Record<string, any>, code: string): Promise<void> {
-
 }
 
 async function processArtifact(directory: string) {
@@ -112,7 +117,7 @@ async function processArtifact(directory: string) {
     throw new Error('Unable to parse index.yml');
   }
 
-  const code = await processIndexYml(indexYml);
+  const code = processIndexYml(indexYml);
   const checkPackageJson = await fs.lstat(path.join(directory, 'package.json'))
     .catch(() => undefined);
 
@@ -125,7 +130,7 @@ async function processArtifact(directory: string) {
     throw new Error('Unable to parse package.json');
   }
 
-  await processPackageJson(packageJson, code);
+  processPackageJson(packageJson, code);
   const checkNpmrc = await fs.lstat(path.join(directory, '.npmrc'))
     .catch(() => undefined);
 
