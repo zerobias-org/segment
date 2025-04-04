@@ -11,7 +11,7 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "validate": "ts-node ../../../scripts/validate.sh"
+    "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
