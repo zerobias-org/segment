@@ -1,17 +1,17 @@
 {
   "name": "@zerobias-org/segment-zerobias-bsap",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-bsap",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
         "@zerobias-org/segment_type-zerobias": "^1.0.9",
-        "@zerobias-org/segment-zerobias-ba": "^1.0.9"
+        "@zerobias-org/segment-zerobias-ba": "^1.0.10"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
@@ -28,9 +28,9 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-ba": {
-      "version": "1.0.9",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-ba/-/segment-zerobias-ba-1.0.9.tgz",
-      "integrity": "sha512-H3AqJ/fln5Lc1LlahX9HnOHr+cc+dtLM3a6Zxeo+NEgtYBFNjkdos1mNDwneK7vsKa56maCTUUouUTzYArkxdA==",
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-ba/-/segment-zerobias-ba-1.0.10.tgz",
+      "integrity": "sha512-qF7V0MnnQl2wXb5UUojJt7Q3cgtork7y8sZxA4tdDfvPPkHf8vzDRMY5g5/z0dFoUVUOTKD8yYl5fbauEQ/kxQ==",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
         "@zerobias-org/segment_type-zerobias": "^1.0.9"
@@ -52,9 +52,9 @@
       }
     },
     "@zerobias-org/segment-zerobias-ba": {
-      "version": "1.0.9",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-ba/-/segment-zerobias-ba-1.0.9.tgz",
-      "integrity": "sha512-H3AqJ/fln5Lc1LlahX9HnOHr+cc+dtLM3a6Zxeo+NEgtYBFNjkdos1mNDwneK7vsKa56maCTUUouUTzYArkxdA==",
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-ba/-/segment-zerobias-ba-1.0.10.tgz",
+      "integrity": "sha512-qF7V0MnnQl2wXb5UUojJt7Q3cgtork7y8sZxA4tdDfvPPkHf8vzDRMY5g5/z0dFoUVUOTKD8yYl5fbauEQ/kxQ==",
       "requires": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
         "@zerobias-org/segment_type-zerobias": "^1.0.9"

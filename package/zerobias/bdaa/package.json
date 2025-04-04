@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-bdaa",
-  "version": "1.0.10-rc.1",
+  "version": "1.0.10",
   "description": "Big Data and Analytics segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-dm": "^1.0.10-rc.1",
+    "@zerobias-org/segment-zerobias-dm": "^1.0.10",
     "@zerobias-org/segment_type-zerobias": "^1.0.9"
   }
 }
