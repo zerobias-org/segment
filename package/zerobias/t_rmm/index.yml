@@ -1,0 +1,18 @@
+id: bbc15863-6ff0-4b4b-8ee9-dce601e8a04b
+name: Remote Monitoring and Management (RMM)
+description: Remote Monitoring and Management (RMM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rmm-segment.svg
+code: t_rmm
+externalId: Remote Monitoring and Management
+status: active
+parents: 
+  - c_nasa
+  - c_devices
+created: '2025-04-02T04:23:36.383143Z'
+updated: '2025-04-02T04:23:39.406000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 9c1ba430-4454-4495-8a56-4ebd2c04a5fc
+name: Networking and Systems Administration
+description: Networking and Systems Administration
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_nasa-segment.svg
+code: c_nasa
+externalId: Networking and Systems Administration
+status: active
+parents: 
+  - d_itm
+created: '2025-04-02T04:23:36.210926Z'
+updated: '2025-04-02T04:23:36.210926Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

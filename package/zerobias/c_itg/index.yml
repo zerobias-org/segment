@@ -1,0 +1,17 @@
+id: 1435545b-8d1d-452b-9a6c-582ef4bd71e2
+name: IT Governance
+description: IT Governance
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_itg-segment.svg
+code: c_itg
+externalId: IT Governance
+status: active
+parents: 
+  - d_itm
+created: '2025-04-02T04:23:40.036639Z'
+updated: '2025-04-02T04:23:40.036639Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
