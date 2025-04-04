@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.10-rc.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-dsaml@1.0.9...@zerobias-org/segment-zerobias-dsaml@1.0.10-rc.0) (2025-04-04)
+
+
+### Bug Fixes
+
+* deprecate all old segments before OPs work starts coming in ([e09e559](https://github.com/zerobias-org/segment/commit/e09e55913f3c74f60068c73d4c94618274b0d87c))
+
+
+
+
+
 ## [1.0.9](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-dsaml@1.0.8...@zerobias-org/segment-zerobias-dsaml@1.0.9) (2025-03-28)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-dsaml
