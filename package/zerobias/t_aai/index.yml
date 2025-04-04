@@ -1,0 +1,17 @@
+id: 3e46490c-cc36-4373-b9db-5bba445d7061
+name: Automation and Integration
+description: Automation and Integration
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aai-segment.svg
+code: t_aai
+externalId: Automation and Integration
+status: active
+parents: 
+  - c_op
+created: '2025-03-31T07:10:05.127264Z'
+updated: '2025-04-02T04:42:36.247000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

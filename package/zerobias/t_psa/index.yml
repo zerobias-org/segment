@@ -1,0 +1,17 @@
+id: 27863999-d065-43c0-b2d8-f73a4970c442
+name: Professional Services Automation (PSA)
+description: Professional Services Automation (PSA)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_psa-segment.svg
+code: t_psa
+externalId: Professional Services Automation
+status: active
+parents: 
+  - c_itpao
+created: '2025-04-02T04:23:34.769728Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

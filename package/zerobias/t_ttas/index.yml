@@ -1,0 +1,17 @@
+id: 94cb1fea-975c-4ee1-baed-25a8e037cca8
+name: Time Tracking and Scheduling
+description: Time Tracking and Scheduling
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ttas-segment.svg
+code: t_ttas
+externalId: Time Tracking and Scheduling
+status: active
+parents: 
+  - c_op
+created: '2025-03-31T07:10:04.998955Z'
+updated: '2025-04-02T04:42:35.873000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

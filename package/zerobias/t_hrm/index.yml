@@ -1,0 +1,17 @@
+id: e5d6eb30-0755-42f9-8e3b-69d89db5d1b6
+name: Human Resources Management (HRM)
+description: Human Resources Management (HRM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_hrm-segment.svg
+code: t_hrm
+externalId: Human Resources Management
+status: active
+parents: 
+  - c_bpao
+created: '2025-03-31T07:10:04.548771Z'
+updated: '2025-04-02T04:42:34.471000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

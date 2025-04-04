@@ -1,0 +1,17 @@
+id: 1bb20327-eb5b-4816-ba36-d28ea9d420c8
+name: IT Service Management (ITSM)
+description: IT Service Management (ITSM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itsm-segment.svg
+code: t_itsm
+externalId: IT Service Management
+status: active
+parents: 
+  - c_itpao
+created: '2025-04-02T04:23:32.192515Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

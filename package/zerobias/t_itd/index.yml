@@ -1,0 +1,17 @@
+id: c2310f50-3af7-4611-9e92-251087df44e5
+name: IT Documentation
+description: IT Documentation
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itd-segment.svg
+code: t_itd
+externalId: IT Documentation
+status: active
+parents: 
+  - c_itpao
+created: '2025-04-02T04:23:35.726984Z'
+updated: ''
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

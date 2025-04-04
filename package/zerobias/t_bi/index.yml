@@ -1,0 +1,17 @@
+id: dfec8557-8dbc-4116-8250-891d8c5b20d9
+name: Business Intelligence (BI)
+description: Business Intelligence (BI)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_bi-segment.svg
+code: t_bi
+externalId: Business Intelligence
+status: active
+parents: 
+  - c_bsap
+created: '2025-03-31T07:10:04.675663Z'
+updated: '2025-04-02T04:42:34.897000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
