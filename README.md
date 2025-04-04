@@ -11,6 +11,46 @@ Set `ZB_TOKEN` in your environment variables to authenticate with npm registry.
 
 **Please run `npm install` in the root directory as soon as the repository is cloned, this will setup husky hooks**
 
+## Creating a new segment
+
+### Create new segment folder
+
+Create a folder for your new segment with the following naming convention:
+{segmentTypeAbbreviation}\_{nameFirstLetters}\_{possibleIncrement} (ex. c_bad)
+* segmentTypeAbbreviation: first letter of the segmentType being created - d (domain), c (category), t (tool), s (service), fg (feature_group)
+* nameFirstLetters: first letter of each word in the segment name made lowercase: ex. bad (Business Application Development)
+* possibleIncrement: If there is a duplicate folder with {segmentTypeAbbreviation}_{nameFirstLetters}, add increment number until unique
+
+### Run create new segment script
+
+Run the folowing script `sh scripts/createNewSegment.sh <folder_path>`
+* folder_path: the path to the folder you created above from the root of the repository, ex. package/zerobias/c_bad
+* This will copy needed templates and files into your new directory with some automatic string replacements
+* You will need to edit the index.yml file anywhere you see a {variable}
+  * {name}: Replace this with the name of your segment
+  * {description}: Replace this with the description of your segment
+  * {segmentType}: Replace this with the segmentType of your segment
+  * {externalId}: Replace this with a external view name of the segment, can just use name
+  * Add parents if you would like this segment to be a child of any segments
+  * Add aliases if you would like any aliases set for this segment
+* You will need to edit the package.json file
+  * {segmentName}: Replace this with the name of your segment
+  * If you added parents in the index.yml, you will need to add these as dependencies (ex. "@zerobias-org/segment-zerobias-d_ab": "latest")
+
+### Install and Shrinkwrap
+
+Run the following commands to update npm for your new segment
+* `cd <folder_path>` cd into your new segment directory
+* `npm install` run npm install
+* `npm shrinkwrap` run npm shrinkwrap
+
+### Validate new segments
+
+In the root of the respository run the follow command to validate all edit or added segments
+* `npm run validate` If any errors, edit what is needed and rerun
+
+**Now you can commit your changes following the instructions below, then open a PR against the main repository branch**
+
 ## Commit conventions and Version management
 ### Versioning: [lerna](https://github.com/lerna/lerna)
 

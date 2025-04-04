@@ -1,5 +1,5 @@
 {
-  "name": "@zerobias-org/segment-zerobias-{segmentCode}",
+  "name": "@zerobias-org/segment-zerobias-{code}",
   "version": "1.0.0-rc.1",
   "description": "{segmentName}",
   "author": "team@zerobias.com",
@@ -7,10 +7,11 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:zerobias-org/segment.git",
-    "directory": "package/zerobias/{segmentCode}/"
+    "directory": "package/zerobias/{code}/"
   },
   "scripts": {
-    "nx:publish": "../../../scripts/publish.sh"
+    "nx:publish": "../../../scripts/publish.sh",
+    "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -20,9 +21,9 @@
     "logo.svg"
   ],
   "auditmation": {
-    "dataloader-version": "3.4.5",
+    "dataloader-version": "3.29.26",
     "import-artifact": "segment",
-    "package": "zerobias.{segmentCode}.segment"
+    "package": "zerobias.{code}.segment"
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
