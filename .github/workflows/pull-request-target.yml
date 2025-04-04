@@ -1,11 +1,9 @@
 name: Pull Request
 on:
-  pull_request:
+  pull_request_target:
     types:
-      - opened
-      - reopened
-      - synchronize
       - labeled
+      - synchronize
 
 permissions:
   contents: write
@@ -15,7 +13,7 @@ permissions:
 
 jobs:
   pull-request:
-    uses: zerobias-org/devops/.github/workflows/pull-request-reusable.yml@main
+    uses: zerobias-org/devops/.github/workflows/pull-request-reusable.yml@forked
     secrets: inherit
     with:
       run-integration-tests: 'false'
