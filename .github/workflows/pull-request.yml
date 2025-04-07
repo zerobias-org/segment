@@ -12,16 +12,9 @@ permissions:
   pull-requests: write
 
 jobs:
-  # pull-request:
-  #   if: github.repository == 'zerobias-org/segment'
-  #   uses: zerobias-org/devops/.github/workflows/pull-request-reusable.yml@main
-  #   secrets: inherit
-  #   with:
-  #     run-integration-tests: 'false'
-  
   pull-request:
-    steps:
-      - name: check out code
-        shell: bash
-        run: |
-          echo -e We are hacking this action
+    if: github.repository == 'zerobias-org/segment'
+    uses: zerobias-org/devops/.github/workflows/pull-request-reusable.yml@main
+    secrets: inherit
+    with:
+      run-integration-tests: 'false'
