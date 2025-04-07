@@ -24,7 +24,8 @@
   "auditmation": {
     "dataloader-version": "3.29.26",
     "import-artifact": "segment",
-    "package": "zerobias.d_test.segment"
+    "package": "zerobias.d_test.segment",
+    "deprecated": true
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
