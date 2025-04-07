@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-rc.6](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-d_test@1.0.0-rc.5...@zerobias-org/segment-zerobias-d_test@1.0.0-rc.6) (2025-04-07)
+
+
+### Bug Fixes
+
+* deprecate and merge ([c15a1ed](https://github.com/zerobias-org/segment/commit/c15a1ed6e9537cf34fe379de98b6602cf65a38fc))
+
+
+
+
+
 # [1.0.0-rc.5](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-d_test@1.0.0-rc.4...@zerobias-org/segment-zerobias-d_test@1.0.0-rc.5) (2025-04-07)
 
 
