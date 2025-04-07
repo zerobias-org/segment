@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment_type-zerobias",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Artifact containing segment types",
   "author": "team@zerobias.com",
   "license": "ISC",
