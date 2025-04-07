@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_erm",
-  "version": "1.0.10-rc.0",
+  "version": "1.0.11",
   "description": "Enterprise Risk Management (ERM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-c_bsap": "^1.0.10-rc.0",
-    "@zerobias-org/segment_type-zerobias": "^1.0.10-rc.0"
+    "@zerobias-org/segment-zerobias-c_bsap": "^1.0.11",
+    "@zerobias-org/segment_type-zerobias": "^1.0.11"
   }
 }
