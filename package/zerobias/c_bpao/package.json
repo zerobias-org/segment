@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_bpao",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Business Processes and Operations segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-d_ba": "^1.0.13",
-    "@zerobias-org/segment_type-zerobias": "^1.0.13"
+    "@zerobias-org/segment-zerobias-d_ba": "^1.0.14",
+    "@zerobias-org/segment_type-zerobias": "^1.0.14"
   }
 }
