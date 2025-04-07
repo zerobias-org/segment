@@ -1,23 +1,50 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cac",
-  "version": "1.0.10-rc.0",
+  "version": "1.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-t_cac",
-      "version": "1.0.10-rc.0",
+      "version": "1.0.10",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.10-rc.0",
-        "@zerobias-org/segment-zerobias-c_op": "^1.0.10-rc.0"
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-c_op": "^1.0.10"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
+    },
+    "node_modules/@zerobias-org/segment_type-zerobias": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.10.tgz",
+      "integrity": "sha512-SzdOgwCi5SdIlnPX8IVppKzoSKr5H7ep9YJpWZRHCu6hiAgNepebp52X4zTDhdLrVa9nV2Z9pcundZ5Anu/fEg==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/segment-zerobias-c_op": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_op/-/segment-zerobias-c_op-1.0.10.tgz",
+      "integrity": "sha512-Fkv+WLmIHpYD0F0t/XMTWflm08W54fhN2QdnmwD9GJk/3TMdRkQ70dJ83U5rT6WuwowGXb9Jdkb8vPDRbvhi0g==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-d_ba": "^1.0.10"
+      }
+    },
+    "node_modules/@zerobias-org/segment-zerobias-d_ba": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_ba/-/segment-zerobias-d_ba-1.0.10.tgz",
+      "integrity": "sha512-4kS+PDQ51gLUg7t+ynf5xwy8DcvGsUqyRw71cPyv9k1dh7+8/RPlNtdzRHXyqHuF7JlWbpvIKBJXFj71JucXFA==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10"
+      }
     }
   },
   "dependencies": {
@@ -25,6 +52,33 @@
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
+    },
+    "@zerobias-org/segment_type-zerobias": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.10.tgz",
+      "integrity": "sha512-SzdOgwCi5SdIlnPX8IVppKzoSKr5H7ep9YJpWZRHCu6hiAgNepebp52X4zTDhdLrVa9nV2Z9pcundZ5Anu/fEg==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0"
+      }
+    },
+    "@zerobias-org/segment-zerobias-c_op": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_op/-/segment-zerobias-c_op-1.0.10.tgz",
+      "integrity": "sha512-Fkv+WLmIHpYD0F0t/XMTWflm08W54fhN2QdnmwD9GJk/3TMdRkQ70dJ83U5rT6WuwowGXb9Jdkb8vPDRbvhi0g==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-d_ba": "^1.0.10"
+      }
+    },
+    "@zerobias-org/segment-zerobias-d_ba": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_ba/-/segment-zerobias-d_ba-1.0.10.tgz",
+      "integrity": "sha512-4kS+PDQ51gLUg7t+ynf5xwy8DcvGsUqyRw71cPyv9k1dh7+8/RPlNtdzRHXyqHuF7JlWbpvIKBJXFj71JucXFA==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10"
+      }
     }
   }
 }

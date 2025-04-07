@@ -1,23 +1,50 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_iam",
-  "version": "1.0.10-rc.0",
+  "version": "1.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-t_iam",
-      "version": "1.0.10-rc.0",
+      "version": "1.0.10",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.10-rc.0",
-        "@zerobias-org/segment-zerobias-c_itg": "^1.0.10-rc.0"
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-c_itg": "^1.0.10"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
+    },
+    "node_modules/@zerobias-org/segment_type-zerobias": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.10.tgz",
+      "integrity": "sha512-SzdOgwCi5SdIlnPX8IVppKzoSKr5H7ep9YJpWZRHCu6hiAgNepebp52X4zTDhdLrVa9nV2Z9pcundZ5Anu/fEg==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0"
+      }
+    },
+    "node_modules/@zerobias-org/segment-zerobias-c_itg": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_itg/-/segment-zerobias-c_itg-1.0.10.tgz",
+      "integrity": "sha512-w6+cKurmwAuGzFfpJGBPARVies6Cjpi6RbzxnBu7G+XtdComYbTzuklSLsHaO8uFaRhk5TkVV9q2LVAJ+0DxXQ==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-d_itm": "^1.0.10"
+      }
+    },
+    "node_modules/@zerobias-org/segment-zerobias-d_itm": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_itm/-/segment-zerobias-d_itm-1.0.10.tgz",
+      "integrity": "sha512-6AU57OeF0oyOA4nIuCahILoyh09Km6TKLgSGrX/u3MYWIQuI65JWwEVKv4h0n4cYxehwQvLdcmMghpL4aCprFg==",
+      "dependencies": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10"
+      }
     }
   },
   "dependencies": {
@@ -25,6 +52,33 @@
       "version": "1.0.0",
       "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
       "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
+    },
+    "@zerobias-org/segment_type-zerobias": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.10.tgz",
+      "integrity": "sha512-SzdOgwCi5SdIlnPX8IVppKzoSKr5H7ep9YJpWZRHCu6hiAgNepebp52X4zTDhdLrVa9nV2Z9pcundZ5Anu/fEg==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0"
+      }
+    },
+    "@zerobias-org/segment-zerobias-c_itg": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_itg/-/segment-zerobias-c_itg-1.0.10.tgz",
+      "integrity": "sha512-w6+cKurmwAuGzFfpJGBPARVies6Cjpi6RbzxnBu7G+XtdComYbTzuklSLsHaO8uFaRhk5TkVV9q2LVAJ+0DxXQ==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10",
+        "@zerobias-org/segment-zerobias-d_itm": "^1.0.10"
+      }
+    },
+    "@zerobias-org/segment-zerobias-d_itm": {
+      "version": "1.0.10",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_itm/-/segment-zerobias-d_itm-1.0.10.tgz",
+      "integrity": "sha512-6AU57OeF0oyOA4nIuCahILoyh09Km6TKLgSGrX/u3MYWIQuI65JWwEVKv4h0n4cYxehwQvLdcmMghpL4aCprFg==",
+      "requires": {
+        "@auditlogic/vendor-zerobias": "^1.0.0",
+        "@zerobias-org/segment_type-zerobias": "^1.0.10"
+      }
     }
   }
 }
