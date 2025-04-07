@@ -1,6 +1,17 @@
 # Segment mono-repo
 Monorepo of segments.
 
+# Starting Development
+##  Fork Repository
+
+Under the [zerobias-org/segment](https://github.com/zerobias-org/segment) repo, click the Fork button toward top right of the screen
+* Under owner choose your personal account for development, and leave the repository name as segment
+* Make sure the `Copy the main branch only` is unchecked, this is important
+* Click the `Create Fork` button
+
+Once you have forked the repository change, your working environment to the `dev` branch.
+* Any PRs made against the `zerobias-org/segment` repo should be agaisnt it's dev branch or they will be rejected.
+
 ## NPM Packages authentication
 **ZB_TOKEN**
 
