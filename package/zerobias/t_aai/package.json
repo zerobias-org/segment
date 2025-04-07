@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_aai",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Automation and Integration segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-c_op": "^1.0.11",
-    "@zerobias-org/segment_type-zerobias": "^1.0.11"
+    "@zerobias-org/segment-zerobias-c_op": "^1.0.12",
+    "@zerobias-org/segment_type-zerobias": "^1.0.12"
   }
 }
