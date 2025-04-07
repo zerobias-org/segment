@@ -1,9 +1,11 @@
-name: Pull Request
+name: Pull Request Targeted to Dev Branch
 on:
   pull_request_target:
     types:
       - synchronize
       - labeled
+    branches:
+      - dev
 
 permissions:
   contents: write
@@ -14,7 +16,7 @@ permissions:
 jobs:
   pull-request:
     if: github.repository == 'zerobias-org/segment'
-    uses: zerobias-org/devops/.github/workflows/pull-request-reusable.yml@main
+    uses: zerobias-org/devops/.github/workflows/pull-request-target-reusable.yml@main
     secrets: inherit
     with:
       run-integration-tests: 'false'
