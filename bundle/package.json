@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-bundle",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "All installable segments",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -28,6 +28,7 @@
     "@zerobias-org/segment-zerobias-c_op": "1.0.14",
     "@zerobias-org/segment-zerobias-d_ba": "1.0.14",
     "@zerobias-org/segment-zerobias-d_itm": "1.0.14",
+    "@zerobias-org/segment-zerobias-d_test": "1.0.0",
     "@zerobias-org/segment-zerobias-t_aai": "1.0.14",
     "@zerobias-org/segment-zerobias-t_bi": "1.0.14",
     "@zerobias-org/segment-zerobias-t_cac": "1.0.14",
