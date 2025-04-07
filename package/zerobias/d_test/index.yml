@@ -1,0 +1,11 @@
+id: 1afb1cc3-da24-420b-a515-1b40b463a117
+name: Test
+description: Test
+segmentType: domain
+imageUrl: https://cdn.auditmation.io/logos/zerobias-d_test-segment.svg
+code: d_test
+externalId: Test
+status: active
+parents: []
+tags: []
+aliases: []
