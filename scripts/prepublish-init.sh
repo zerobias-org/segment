@@ -33,7 +33,7 @@ TMPDIR=$(mktemp -d)
 cd $TMPDIR
 npm pack $CONTENT_PACKAGE@latest --loglevel=error --silent
 if ls auditmation-platform-content* 1> /dev/null 2>&1; then
-  # 
+  echo -e "npm pack succedded on latest content"
 else
   echo -e "failed npm pack $CONTENT_PACKAGE@latest"
   exit 1
