@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-nasa",
-  "version": "1.0.11",
+  "version": "1.0.12-rc.0",
   "description": "Networking and Systems Administration segment artifact",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -10,7 +10,9 @@
     "directory": "package/zerobias/nasa/"
   },
   "scripts": {
-    "nx:publish": "../../../scripts/publish.sh"
+    "nx:publish": "../../../scripts/publish.sh",
+    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -27,7 +29,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-itm": "^1.0.10",
-    "@zerobias-org/segment_type-zerobias": "^1.0.9"
+    "@zerobias-org/segment-zerobias-itm": "^1.0.11-rc.0",
+    "@zerobias-org/segment_type-zerobias": "^1.0.10-rc.0"
   }
 }

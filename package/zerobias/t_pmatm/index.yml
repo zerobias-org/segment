@@ -1,0 +1,17 @@
+id: 06ded8ce-224e-4c5f-b21f-49558641a3c5
+name: Project Management and Task Management
+description: Project Management and Task Management
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pmatm-segment.svg
+code: t_pmatm
+externalId: Project Management and Task Management
+status: active
+parents: 
+  - c_op
+created: '2025-03-31T07:10:04.935309Z'
+updated: '2025-04-02T04:42:35.684000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 564ad513-e317-4ec4-9c36-164095fbb780
+name: IT Risk Management (ITRM)
+description: IT Risk Management (ITRM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itrm-segment.svg
+code: t_itrm
+externalId: IT Risk Management
+status: active
+parents: 
+  - c_itg
+created: '2025-04-02T04:23:41.170156Z'
+updated: '2025-04-02T04:23:41.170156Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
