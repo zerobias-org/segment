@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-bundle",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-bundle",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/segment_type-zerobias": "1.0.9",
