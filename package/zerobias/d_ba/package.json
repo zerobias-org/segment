@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-d_ba",
-  "version": "1.0.14",
+  "version": "1.0.15-rc.0",
   "description": "Business Applications segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment_type-zerobias": "^1.0.14"
+    "@zerobias-org/segment_type-zerobias": "^1.0.15-rc.0"
   }
 }
