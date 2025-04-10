@@ -1,0 +1,17 @@
+id: 6c374d51-27b5-45e6-a8be-40d3efbd6d08
+name: Container Orchestration Platform Security
+description: Container Orchestration Platform Security
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cops-segment.svg
+code: t_cops
+externalId: Container Orchestration Platform Security
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:42.292529Z'
+updated: '2025-04-09T22:33:42.292529Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

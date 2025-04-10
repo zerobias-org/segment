@@ -1,0 +1,17 @@
+id: e2030bbd-3156-41e6-89d4-0ab6e80f7932
+name: Risk-Based Vulnerability Management (RBVM)
+description: Risk-Based Vulnerability Management (RBVM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rbvm-segment.svg
+code: t_rbvm
+externalId: Risk-Based Vulnerability Management
+status: active
+parents: 
+  - c_em
+created: '2025-04-09T22:33:24.712317Z'
+updated: '2025-04-09T22:33:24.712317Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

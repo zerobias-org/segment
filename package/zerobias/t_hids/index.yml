@@ -1,0 +1,17 @@
+id: 0cda4317-2013-45ad-b6bf-c99d5efd4c4b
+name: Host Intrusion Detection System (HIDS)
+description: Host Intrusion Detection System (HIDS)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_hids-segment.svg
+code: t_hids
+externalId: Host Intrusion Detection System
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:42.526341Z'
+updated: '2025-04-09T22:33:42.526341Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

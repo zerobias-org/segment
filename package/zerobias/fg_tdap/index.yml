@@ -1,0 +1,17 @@
+id: 21034770-ed7d-43b3-99b0-50437bbb1c45
+name: Threat Detection and Prevention
+description: Threat Detection and Prevention
+segmentType: feature_group
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tdap-segment.svg
+code: fg_tdap
+externalId: Threat Detection and Prevention
+status: active
+parents: 
+  - t_rasp
+created: '2025-04-09T22:33:53.092248Z'
+updated: '2025-04-09T22:33:53.092248Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

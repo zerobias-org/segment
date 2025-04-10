@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.15-rc.1](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_bi@1.0.15-rc.0...@zerobias-org/segment-zerobias-t_bi@1.0.15-rc.1) (2025-04-10)
+
+
+### Bug Fixes
+
+* add 59 segments for cybersecurity domain ([c2cb0e0](https://github.com/zerobias-org/segment/commit/c2cb0e0c1f1eabb51d7f5a6ae6db98c1516fcdbe))
+
+
+
+
+
+## [1.0.15-rc.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_bi@1.0.14...@zerobias-org/segment-zerobias-t_bi@1.0.15-rc.0) (2025-04-08)
+
+**Note:** Version bump only for package @zerobias-org/segment-zerobias-t_bi
+
+
+
+
+
 ## 1.0.14 (2025-04-07)
 
 
