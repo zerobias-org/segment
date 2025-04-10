@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-fg_tm",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Threat Monitoring (aka Proactive Threat Hunting) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,13 +28,13 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_cbids": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_cspm": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_edr": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_hids": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_ids": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_rasp": "^1.0.0-rc.2",
-    "@zerobias-org/segment-zerobias-t_siem": "^1.0.0-rc.2",
+    "@zerobias-org/segment-zerobias-t_cbids": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_cspm": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_edr": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_hids": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_ids": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_rasp": "^1.0.0",
+    "@zerobias-org/segment-zerobias-t_siem": "^1.0.0",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }
