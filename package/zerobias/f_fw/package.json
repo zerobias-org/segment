@@ -27,8 +27,8 @@
     "package": "zerobias.f_fw.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "^1.0.0-rc.0",
+    "@auditlogic/vendor-zerobias": "latest",
     "@zerobias-org/segment-zerobias-c_ns": "^1.0.0-rc.0",
-    "@zerobias-org/segment_type-zerobias": "^1.0.0-rc.0"
+    "@zerobias-org/segment_type-zerobias": "latest"
   }
 }
