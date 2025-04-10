@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-fg_ar",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Automated Remediation (aka Automated Response) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_edr": "^1.0.0-rc.1",
+    "@zerobias-org/segment-zerobias-t_edr": "^1.0.0-rc.2",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_is",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Infrastructure Security segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-d_cs": "^1.0.0-rc.1",
+    "@zerobias-org/segment-zerobias-d_cs": "^1.0.0-rc.2",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }
