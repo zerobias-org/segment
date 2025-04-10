@@ -1,0 +1,17 @@
+id: ea83c64d-6596-4d3c-8f3c-b6e6361a7a83
+name: Software Composition Analysis (SCA)
+description: Software Composition Analysis (SCA)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_sca-segment.svg
+code: t_sca
+externalId: Software Composition Analysis
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:51.657411Z'
+updated: '2025-04-09T22:33:51.657411Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

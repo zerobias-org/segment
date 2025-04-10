@@ -1,4 +1,4 @@
-id: b199f396-0ee5-4a86-916f-d68873b63483
+id: 155cd70b-b13a-4fd1-80eb-92fe3134ae6e
 name: Mobile Device Management (MDM)
 description: Mobile Device Management (MDM)
 segmentType: tool
@@ -8,9 +8,9 @@ code: t_mdm
 externalId: Mobile Device Management
 status: active
 parents: 
-  - c_devices
-created: '2025-04-02T04:23:38.561795Z'
-updated: '2025-04-02T04:23:38.561795Z'
+  - c_es
+created: '2025-04-09T22:33:49.697361Z'
+updated: '2025-04-09T22:33:49.697361Z'
 tags: []
 environment: prod
 hostname: https://api.app.zerobias.com

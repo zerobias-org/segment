@@ -1,0 +1,17 @@
+id: 9097926c-d31f-4f05-990b-8b71d109e22a
+name: Endpoint Firewalls
+description: Endpoint Firewalls
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ef-segment.svg
+code: t_ef
+externalId: Endpoint Firewalls
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:50.381106Z'
+updated: '2025-04-09T22:33:50.381106Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

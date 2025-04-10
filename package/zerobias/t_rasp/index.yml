@@ -1,0 +1,17 @@
+id: 918af823-4b0f-438c-a93b-8596274abb7e
+name: Runtime Application Self-Protection (RASP)
+description: Runtime Application Self-Protection (RASP)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rasp-segment.svg
+code: t_rasp
+externalId: Runtime Application Self-Protection
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:52.591442Z'
+updated: '2025-04-09T22:33:52.591442Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

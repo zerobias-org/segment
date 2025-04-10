@@ -1,0 +1,17 @@
+id: 298b9180-1338-49d2-b36f-4ef836b039a9
+name: Cloud Workload Protection (CWP)
+description: Cloud Workload Protection (CWP)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cwp-segment.svg
+code: t_cwp
+externalId: Cloud Workload Protection
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:44.562478Z'
+updated: '2025-04-09T22:33:44.562478Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

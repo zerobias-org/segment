@@ -1,0 +1,17 @@
+id: 6ea96c60-c4f8-4ffe-b559-4d19c5d04473
+name: Remote Access VPNs
+description: Remote Access VPNs
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ravpn-segment.svg
+code: f_ravpn
+externalId: Remote Access VPNs
+status: active
+parents: 
+  - c_ns
+created: '2025-04-09T22:33:38.021838Z'
+updated: '2025-04-09T22:33:38.021838Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

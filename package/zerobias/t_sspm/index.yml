@@ -1,0 +1,17 @@
+id: a5ae4f27-a72a-47d5-8d28-55db4fa7fba3
+name: SaaS Security Posture Management (SSPM)
+description: SaaS Security Posture Management (SSPM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_sspm-segment.svg
+code: t_sspm
+externalId: SaaS Security Posture Management
+status: active
+parents: 
+  - c_sg
+created: '2025-04-09T22:33:59.672689Z'
+updated: '2025-04-09T22:33:59.672689Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

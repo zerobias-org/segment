@@ -1,0 +1,17 @@
+id: 7a8033a0-030d-4bdc-a6fb-c48c2803c0ca
+name: Interactive Application Security Testing
+description: Interactive Application Security Testing
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iast-segment.svg
+code: t_iast
+externalId: Interactive Application Security Testing
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:52.360463Z'
+updated: '2025-04-09T22:33:52.360463Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

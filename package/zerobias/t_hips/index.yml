@@ -1,0 +1,17 @@
+id: 16902e4e-43a7-41bb-a0a0-6562e7c89b72
+name: Host-based Intrusion Prevention System (HIPS)
+description: Host-based Intrusion Prevention System (HIPS)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_hips-segment.svg
+code: t_hips
+externalId: Host-based Intrusion Prevention System
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:50.610475Z'
+updated: '2025-04-09T22:33:50.610475Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 017ecfa6-0892-40e9-9e80-0c7d81b97f76
+name: Identity Security (ID Sec)
+description: Identity Security (ID Sec)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_idsec-segment.svg
+code: t_idsec
+externalId: Identity Security
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:54.658684Z'
+updated: '2025-04-09T22:33:54.658684Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

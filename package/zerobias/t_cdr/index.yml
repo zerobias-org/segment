@@ -1,0 +1,17 @@
+id: 6caa8cd8-14a0-4963-b88f-8d13afde73cd
+name: Cloud Detection and Response (CDR)
+description: Cloud Detection and Response (CDR)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cdr-segment.svg
+code: t_cdr
+externalId: Cloud Detection and Response
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:45.130780Z'
+updated: '2025-04-09T22:33:45.130780Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

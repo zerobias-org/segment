@@ -1,0 +1,17 @@
+id: c0c445a3-e717-46cd-be2c-aec20f1598e1
+name: Infrastructure Security
+description: Infrastructure Security
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_is-segment.svg
+code: c_is
+externalId: Infrastructure Security
+status: active
+parents: 
+  - d_cs
+created: '2025-04-09T22:33:38.249311Z'
+updated: '2025-04-09T22:33:38.249311Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 6fad4aad-8de7-46dd-a7bb-ba3b9ebe11cf
+name: Cloud Infrastructure Entitlement Management (CIEM)
+description: Cloud Infrastructure Entitlement Management (CIEM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ciem-segment.svg
+code: t_ciem
+externalId: Cloud Infrastructure Entitlement Management
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:45.358892Z'
+updated: '2025-04-09T22:33:45.358892Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

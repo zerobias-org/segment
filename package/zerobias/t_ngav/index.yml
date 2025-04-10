@@ -1,0 +1,17 @@
+id: 83d61629-6ac5-4ba5-82ce-65b1bb57397c
+name: Next-generation antivirus (NGAV)
+description: Next-generation antivirus (NGAV)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ngav-segment.svg
+code: t_ngav
+externalId: Next-generation antivirus
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:49.177346Z'
+updated: '2025-04-09T22:33:49.177346Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

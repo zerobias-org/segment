@@ -1,0 +1,17 @@
+id: d95e4f71-3dc4-4bf6-a584-2d15340c693f
+name: Data Security Posture Management (DSPM)
+description: Data Security Posture Management (DSPM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_dspm-segment.svg
+code: t_dspm
+externalId: Data Security Posture Management
+status: active
+parents: 
+  - c_sg
+created: '2025-04-09T22:33:58.998907Z'
+updated: '2025-04-09T22:33:58.998907Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

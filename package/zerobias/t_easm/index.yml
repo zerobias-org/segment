@@ -1,0 +1,17 @@
+id: efd65d99-e09d-49b1-8524-3c06baa75172
+name: External Attack Surface Management (EASM)
+description: External Attack Surface Management (EASM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_easm-segment.svg
+code: t_easm
+externalId: External Attack Surface Management
+status: active
+parents: 
+  - c_em
+created: '2025-04-09T22:33:24.055366Z'
+updated: '2025-04-09T22:33:24.055366Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

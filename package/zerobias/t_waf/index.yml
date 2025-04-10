@@ -1,0 +1,17 @@
+id: ee964fca-588a-41aa-bfd9-d628e4e782a0
+name: Web Application Firewalls (WAFs)
+description: Web Application Firewalls (WAFs)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_waf-segment.svg
+code: t_waf
+externalId: Web Application Firewalls
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:44.911534Z'
+updated: '2025-04-09T22:33:44.911534Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
