@@ -1,4 +1,4 @@
-id: c8468bce-1e6a-4012-a4a7-d4b824e6e27c
+id: da9f392a-de06-4d6c-a607-22a941dd3a19
 name: Cybersecurity
 description: Cybersecurity
 segmentType: domain
@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-d_cs-segment.svg
 code: d_cs
 externalId: Cybersecurity
 status: active
-parents: 
+parents: []
 created: '2025-04-09T22:33:22.557611Z'
 updated: '2025-04-09T22:33:22.557611Z'
 tags: []
