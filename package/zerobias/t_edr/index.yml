@@ -1,0 +1,17 @@
+id: fb70097c-4f8b-4a3b-9b5f-d4917670a46a
+name: Endpoint Detection and Response (EDR)
+description: Endpoint Detection and Response (EDR)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_edr-segment.svg
+code: t_edr
+externalId: Endpoint Detection and Response
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:45.809165Z'
+updated: '2025-04-09T22:33:45.809165Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

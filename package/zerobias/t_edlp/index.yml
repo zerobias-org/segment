@@ -1,0 +1,17 @@
+id: a85e89cf-68fd-4a49-8760-6aab75e0ada9
+name: Endpoint Data Loss Prevention (DLP)
+description: Endpoint Data Loss Prevention (DLP)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_edlp-segment.svg
+code: t_edlp
+externalId: Endpoint Data Loss Prevention
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:49.923598Z'
+updated: '2025-04-09T22:33:49.923598Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

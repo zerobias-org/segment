@@ -1,0 +1,17 @@
+id: 546180f3-2f2c-4183-ae62-f04a97eb51bf
+name: Application Security
+description: Application Security
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_as-segment.svg
+code: c_as
+externalId: Application Security
+status: active
+parents: 
+  - d_cs
+created: '2025-04-09T22:33:51.136417Z'
+updated: '2025-04-09T22:33:51.136417Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

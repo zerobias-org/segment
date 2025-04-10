@@ -1,0 +1,17 @@
+id: 3b00a75a-81b3-4602-99b4-ba1a0db12631
+name: Artificial Intelligence Security Posture Management (AI-SPM)
+description: Artificial Intelligence Security Posture Management (AI-SPM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aispm-segment.svg
+code: t_aispm
+externalId: Artificial Intelligence Security Posture Management
+status: active
+parents: 
+  - c_sg
+created: '2025-04-09T22:33:59.213462Z'
+updated: '2025-04-09T22:33:59.213462Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

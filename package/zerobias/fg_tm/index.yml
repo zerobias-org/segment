@@ -1,0 +1,23 @@
+id: 4c4b35da-56af-4fe8-a158-aa3b61602f58
+name: Threat Monitoring (aka Proactive Threat Hunting)
+description: Threat Monitoring (aka Proactive Threat Hunting)
+segmentType: feature_group
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tm-segment.svg
+code: fg_tm
+externalId: Threat Monitoring
+status: active
+parents: 
+  - t_siem
+  - t_ids
+  - t_hids
+  - t_cbids
+  - t_edr
+  - t_rasp
+  - t_cspm
+created: '2025-04-09T22:33:33.437980Z'
+updated: '2025-04-09T22:33:58.430000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

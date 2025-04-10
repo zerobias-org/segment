@@ -1,0 +1,17 @@
+id: 212f6b1a-2ff7-479b-a794-cb7b17723544
+name: Device Control
+description: Device Control
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_dc-segment.svg
+code: t_dc
+externalId: Device Control
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:50.914236Z'
+updated: '2025-04-09T22:33:50.914236Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

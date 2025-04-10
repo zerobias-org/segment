@@ -1,0 +1,17 @@
+id: d5b7c826-ad4c-4757-866e-05e90ef2ea64
+name: Firewalls
+description: Firewalls
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_fw-segment.svg
+code: t_fw
+externalId: Firewalls
+status: active
+parents: 
+  - c_ns
+created: '2025-04-09T22:33:37.788183Z'
+updated: '2025-04-09T22:33:37.788183Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

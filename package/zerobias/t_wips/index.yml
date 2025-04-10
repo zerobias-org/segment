@@ -1,0 +1,17 @@
+id: 170dab70-57e9-4fe4-84a9-eb07ad63db67
+name: Wireless Intrusion Protection System (WIPS)
+description: Wireless Intrusion Protection System (WIPS)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_wips-segment.svg
+code: t_wips
+externalId: Wireless Intrusion Protection System
+status: active
+parents: 
+  - c_ns
+created: '2025-04-09T22:33:37.328109Z'
+updated: '2025-04-09T22:33:37.328109Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

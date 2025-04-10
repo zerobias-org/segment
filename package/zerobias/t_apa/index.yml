@@ -1,0 +1,17 @@
+id: 5c524e7a-366b-40fa-9944-174192a11619
+name: Attack Path Analysis (APA)
+description: Attack Path Analysis (APA)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_apa-segment.svg
+code: t_apa
+externalId: Attack Path Analysis
+status: active
+parents: 
+  - c_em
+created: '2025-04-09T22:33:26.374323Z'
+updated: '2025-04-09T22:33:26.374323Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

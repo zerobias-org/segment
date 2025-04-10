@@ -1,0 +1,17 @@
+id: 62fe7e11-d437-4896-8c31-5ca8a202031f
+name: Kubernetes Security Posture Management (KSPM)
+description: Kubernetes Security Posture Management (KSPM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_kspm-segment.svg
+code: t_kspm
+externalId: Kubernetes Security Posture Management
+status: active
+parents: 
+  - c_sg
+created: '2025-04-09T22:33:58.733675Z'
+updated: '2025-04-09T22:33:58.733675Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: a7b1a667-3af2-413f-9949-e764b3fb38cb
+name: Container Security
+description: Container Security
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cs-segment.svg
+code: t_cs
+externalId: Container Security
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:39.723827Z'
+updated: '2025-04-09T22:33:39.723827Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

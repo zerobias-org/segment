@@ -1,0 +1,17 @@
+id: aa3cb683-1442-4ca6-915b-cef591ed7bb4
+name: Network Intrusion Protection System (NIPS)
+description: Network Intrusion Protection System (NIPS)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_nips-segment.svg
+code: t_nips
+externalId: Network Intrusion Protection System
+status: active
+parents: 
+  - c_ns
+created: '2025-04-09T22:33:37.062386Z'
+updated: '2025-04-09T22:33:37.062386Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
