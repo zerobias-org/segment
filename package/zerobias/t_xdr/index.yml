@@ -1,0 +1,17 @@
+id: 3206fbc8-9c7b-468a-9950-cd3bbe579436
+name: Extended Detection and Response (XDR)
+description: Extended Detection and Response (XDR)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_xdr-segment.svg
+code: t_xdr
+externalId: Extended Detection and Response
+status: active
+parents: 
+  - c_es
+created: '2025-04-09T22:33:48.703054Z'
+updated: '2025-04-09T22:33:48.703054Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

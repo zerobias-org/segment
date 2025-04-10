@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_scm",
-  "version": "1.0.14",
+  "version": "1.0.15-rc.2",
   "description": "Supply Chain Management (SCM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-c_bpao": "^1.0.14",
-    "@zerobias-org/segment_type-zerobias": "^1.0.14"
+    "@zerobias-org/segment-zerobias-c_bpao": "^1.0.15-rc.2",
+    "@zerobias-org/segment_type-zerobias": "^1.0.15-rc.1"
   }
 }

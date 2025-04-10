@@ -1,0 +1,17 @@
+id: f317ba35-575f-4770-9571-bc37ebdb47a5
+name: Application Security Management (ASM)
+description: Application Security Management (ASM)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_asm-segment.svg
+code: t_asm
+externalId: Application Security Management
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:51.368126Z'
+updated: '2025-04-09T22:33:51.368126Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

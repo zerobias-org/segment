@@ -1,0 +1,17 @@
+id: 7bdf5d59-c4eb-44f8-bb99-2b0af8652b94
+name: Network Data Loss Prevention (Network DLP)
+description: Network Data Loss Prevention (Network DLP)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ndlp-segment.svg
+code: t_ndlp
+externalId: Network Data Loss Prevention
+status: active
+parents: 
+  - c_ns
+created: '2025-04-09T22:33:37.553078Z'
+updated: '2025-04-09T22:33:37.553078Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

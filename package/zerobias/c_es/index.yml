@@ -1,0 +1,17 @@
+id: 68a36e2c-ffd8-467f-ac66-a169bc493f15
+name: Endpoint Security
+description: Endpoint Security
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_es-segment.svg
+code: c_es
+externalId: Endpoint Security
+status: active
+parents: 
+  - d_cs
+created: '2025-04-09T22:33:45.586825Z'
+updated: '2025-04-09T22:33:45.586825Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

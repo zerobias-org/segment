@@ -1,0 +1,17 @@
+id: 45331c7b-ee6e-4f79-8b11-06b230c2d71b
+name: AI Security (AI Sec)
+description: AI Security (AI Sec)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aisec-segment.svg
+code: t_aisec
+externalId: AI Security
+status: active
+parents: 
+  - c_as
+created: '2025-04-09T22:33:54.889119Z'
+updated: '2025-04-09T22:33:54.889119Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

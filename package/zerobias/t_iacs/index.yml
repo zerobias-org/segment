@@ -1,0 +1,17 @@
+id: e469ac93-ab89-4dd4-abc4-b7ccab8a3545
+name: Infrastructure as Code Security (IaC Sec)
+description: Infrastructure as Code Security (IaC Sec)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iacs-segment.svg
+code: t_iacs
+externalId: Infrastructure as Code Security
+status: active
+parents: 
+  - c_is
+created: '2025-04-09T22:33:38.482263Z'
+updated: '2025-04-09T22:33:38.482263Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
