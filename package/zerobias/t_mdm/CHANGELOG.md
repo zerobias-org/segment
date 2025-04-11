@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_mdm@1.0.0...@zerobias-org/segment-zerobias-t_mdm@1.0.1) (2025-04-11)
+
+
+### Bug Fixes
+
+* correct id on a bad overref ([d7f6f4d](https://github.com/zerobias-org/segment/commit/d7f6f4d365bf43ac640e38c6ba2512d54e7a24cb))
+
+
+
+
+
 # [1.0.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_mdm@1.0.0-rc.2...@zerobias-org/segment-zerobias-t_mdm@1.0.0) (2025-04-10)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-t_mdm
