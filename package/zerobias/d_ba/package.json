@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-d_ba",
-  "version": "1.0.15",
+  "version": "1.0.16-rc.0",
   "description": "Business Applications segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_bsap",
-  "version": "1.0.15",
+  "version": "1.0.16-rc.0",
   "description": "Business Strategy and Planning segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-d_ba": "^1.0.15",
+    "@zerobias-org/segment-zerobias-d_ba": "^1.0.16-rc.0",
     "@zerobias-org/segment_type-zerobias": "^1.0.15"
   }
 }
