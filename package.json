@@ -9,7 +9,7 @@
     "lerna:test": "lerna run test",
     "lerna:version": "lerna version --no-git-tag-version --no-push --conventional-commits --yes",
     "nx:publish": "lerna run nx:publish --since && ./scripts/commit.sh",
-    "nx:prepublish": "lerna run nx:prepublish --since --parallel --concurrency 10",
+    "nx:prepublish": "lerna run nx:prepublish --since --concurrency 10",
     "validate": "npx lerna run validate --since --concurrency 10",
     "postinstall": "husky install",
     "build": "npx lerna run transpile --since && npx lerna exec \"npm shrinkwrap\" --since --concurrency=10",
