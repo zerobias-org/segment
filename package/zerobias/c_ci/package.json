@@ -11,7 +11,7 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
