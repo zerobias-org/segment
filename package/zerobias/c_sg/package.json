@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_sg",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.0",
   "description": "Security Governance segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-d_cs": "^1.0.0",
+    "@zerobias-org/segment-zerobias-d_cs": "^1.0.1-rc.0",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }
