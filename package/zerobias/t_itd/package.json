@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_itd",
-  "version": "1.0.17-rc.0",
+  "version": "1.0.17",
   "description": "IT Documentation segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-c_capm": "^1.0.0-rc.1",
+    "@zerobias-org/segment-zerobias-c_capm": "latest",
     "@zerobias-org/segment-zerobias-c_itpao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_rbvm",
-  "version": "1.0.2-rc.0",
+  "version": "1.0.2",
   "description": "Risk-Based Vulnerability Management (RBVM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_masf",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "Mocking and Stubbing Framework segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-c_taqa": "^1.0.0-rc.1",
+    "@zerobias-org/segment-zerobias-c_taqa": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }

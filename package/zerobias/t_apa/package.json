@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_apa",
-  "version": "1.0.2-rc.0",
+  "version": "1.0.2",
   "description": "Attack Path Analysis (APA) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-fg_tdap",
-  "version": "1.0.2-rc.0",
+  "version": "1.0.2",
   "description": "Threat Detection and Prevention segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
