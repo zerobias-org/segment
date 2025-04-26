@@ -1,0 +1,17 @@
+id: 04f6e607-252b-4084-ad85-b1b74d6b11db
+name: Game Development
+description: Game Development
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_gd-segment.svg
+code: t_gd
+externalId: Game Development
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:37.561000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

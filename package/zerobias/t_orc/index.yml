@@ -1,0 +1,17 @@
+id: ce32fde9-b58d-4a7c-9dc5-0d86ddc37438
+name: Orchestration
+description: Orchestration
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_orc-segment.svg
+code: t_orc
+externalId: Orchestration
+status: active
+parents: 
+  - c_dai
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:30.562000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

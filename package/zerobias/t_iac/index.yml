@@ -1,0 +1,17 @@
+id: c89ac583-be31-433f-a148-76f5ea51f28c
+name: Infrastructure as Code (IaC)
+description: Infrastructure as Code (IaC)
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iac-segment.svg
+code: t_iac
+externalId: Infrastructure as Code
+status: active
+parents: 
+  - c_dai
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:30.930000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

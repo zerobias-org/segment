@@ -1,0 +1,17 @@
+id: 216815ee-499f-42b4-accd-f886bf17e145
+name: Package Hosting Service
+description: Package Hosting Service
+segmentType: service
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_phs-segment.svg
+code: s_phs
+externalId: Package Hosting Service
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:17.721000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

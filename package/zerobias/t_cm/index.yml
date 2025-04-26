@@ -1,0 +1,17 @@
+id: a45aca5e-7539-40f5-8a79-acfb836a45b9
+name: Configuration Management
+description: Configuration Management
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cm-segment.svg
+code: t_cm
+externalId: Configuration Management
+status: active
+parents: 
+  - c_dai
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:31.302000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

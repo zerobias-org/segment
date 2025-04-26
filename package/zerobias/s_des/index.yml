@@ -1,0 +1,17 @@
+id: cf210bc9-db2e-4638-b4a0-2821f7434398
+name: Development Environment Service
+description: Development Environment Service
+segmentType: service
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_des-segment.svg
+code: s_des
+externalId: Development Environment Service
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:17.004000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

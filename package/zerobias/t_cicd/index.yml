@@ -1,0 +1,17 @@
+id: b5704a21-cbef-4df5-83ba-89e838d5c91a
+name: Continuous Integration and Continuous Deployment (CI/CD)
+description: CI/CD tools (like Jenkins, GitLab CI/CD, GitHub Actions, CircleCI, Travis CI, Azure DevOps Pipelines) automate the software development process, from code integration to delivery and deployment.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cicd-segment.svg
+code: t_cicd
+externalId: Continuous Integration and Continuous Deployment
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:11.117000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

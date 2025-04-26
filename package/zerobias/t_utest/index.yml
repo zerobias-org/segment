@@ -1,0 +1,17 @@
+id: 0b621147-5c87-4b43-9ecc-daf82817bf24
+name: Unit Testing
+description: Unit Testing tools (like JUnit, TestNG (for Java), Pytest, unittest (for Python), NUnit, xUnit.net (for .NET), Mocha, Jest (for JavaScript)) help streamline the development process with automated test execution, mocking and stubbing, code coverage analysis, assertions for verifying results, detailed test reports, and integration with CI/CD pipelines. These features enable developers to effectively isolate and test individual code units, leading to improved code quality and faster bug detection.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_utest-segment.svg
+code: t_utest
+externalId: Unit Testing
+status: active
+parents: 
+  - c_taqa
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:19.100000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

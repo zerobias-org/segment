@@ -9,9 +9,9 @@
       "version": "1.0.16",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "^1.0.0",
-        "@zerobias-org/segment_type-zerobias": "^1.0.15",
-        "@zerobias-org/segment-zerobias-c_op": "^1.0.16"
+        "@auditlogic/vendor-zerobias": "latest",
+        "@zerobias-org/segment_type-zerobias": "latest",
+        "@zerobias-org/segment-zerobias-c_op": "latest"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {

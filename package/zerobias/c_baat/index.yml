@@ -1,0 +1,17 @@
+id: 3b3f4fcf-5033-4b51-9ef6-1648bafe716a
+name: Build and Automation
+description: Build and Automation
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_baat-segment.svg
+code: c_baat
+externalId: Build and Automation
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:06.717000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

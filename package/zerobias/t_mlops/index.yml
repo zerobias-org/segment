@@ -1,0 +1,17 @@
+id: 757fb420-c908-4526-a17e-b5ed5f411518
+name: MLOps
+description: MLOps
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_mlops-segment.svg
+code: t_mlops
+externalId: MLOps
+status: active
+parents: 
+  - c_dai
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:31.678000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
