@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2-rc.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_asoc@1.0.1...@zerobias-org/segment-zerobias-t_asoc@1.0.2-rc.0) (2025-04-26)
+
+
+### Bug Fixes
+
+* redid ops work, made sure new scripts are in ([345f34e](https://github.com/zerobias-org/segment/commit/345f34ec926029dc141943b3e321676adb4a2888))
+
+
+
+
+
 ## [1.0.1](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_asoc@1.0.1-rc.0...@zerobias-org/segment-zerobias-t_asoc@1.0.1) (2025-04-25)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-t_asoc

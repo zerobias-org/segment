@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_vcs",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Version Control Systems (VCS) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-d_sd": "^1.0.0-rc.0",
+    "@zerobias-org/segment-zerobias-d_sd": "^1.0.0-rc.1",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
 }
