@@ -9,8 +9,9 @@ externalId: Dynamic Application Security Testing
 status: active
 parents: 
   - c_as
+  - c_taqa
 created: '2025-04-09T22:33:52.139135Z'
-updated: '2025-04-09T22:33:52.139135Z'
+updated: '2025-04-21T06:23:26.177000Z'
 tags: []
 environment: prod
 hostname: https://api.app.zerobias.com

@@ -1,0 +1,17 @@
+id: b6c5dfab-fdf0-4bbc-ae09-f0f5e32aaea1
+name: UI/UX Design
+description: UI/UX Design
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_uiuxd-segment.svg
+code: t_uiuxd
+externalId: UI/UX Design
+status: active
+parents: 
+  - c_dam
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:29.092000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

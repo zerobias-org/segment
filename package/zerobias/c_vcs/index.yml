@@ -1,0 +1,17 @@
+id: 24a63195-e677-42bd-8e4f-8e3916ca5e7c
+name: Version Control Systems (VCS)
+description: Version Control Systems (VCS)
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_vcs-segment.svg
+code: c_vcs
+externalId: Version Control Systems
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.344000Z'
+updated: '2025-04-21T06:22:56.111000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

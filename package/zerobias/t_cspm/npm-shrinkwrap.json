@@ -11,7 +11,7 @@
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-c_sg": "^1.0.1"
+        "@zerobias-org/segment-zerobias-c_sg": "latest"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {

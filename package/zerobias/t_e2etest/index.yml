@@ -1,0 +1,17 @@
+id: 793605e6-fd01-4f2e-9cef-676df43959a7
+name: End-to-End Testing
+description: End-to-end (E2E) Testing tools (like Selenium, Cypress, TestCafe, Playwright, Tricentis Tosca, Datadog Automated Testing) help streamline the development process with automated test generation and execution, cross-platform and cross-browser compatibility testing, visual platform testing, test reports, and integration with CI/CD pipelines.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_e2etest-segment.svg
+code: t_e2etest
+externalId: End-to-End Testing
+status: active
+parents: 
+  - c_taqa
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:22.130000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

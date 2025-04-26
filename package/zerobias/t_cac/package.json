@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cac",
-  "version": "1.0.16",
+  "version": "1.0.17-rc.0",
   "description": "Collaboration and Communication segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -12,14 +12,14 @@
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
     "prepublishtest": "../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
-    "index.yml",
-    "logo.svg"
+    "index.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",
@@ -27,8 +27,9 @@
     "package": "zerobias.t_cac.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "^1.0.0",
-    "@zerobias-org/segment-zerobias-c_op": "^1.0.16",
-    "@zerobias-org/segment_type-zerobias": "^1.0.15"
+    "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/segment-zerobias-c_capm": "^1.0.0-rc.1",
+    "@zerobias-org/segment-zerobias-c_op": "latest",
+    "@zerobias-org/segment_type-zerobias": "latest"
   }
 }

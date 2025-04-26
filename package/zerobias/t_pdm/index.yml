@@ -1,0 +1,17 @@
+id: 74e42317-354a-4a30-a180-01dea2f6381e
+name: Project Dependency Management
+description: Project Dependency Management tools (like GitHub Dependabot) automate the management of project dependencies, ensuring they are kept up-to-date and secure. They do this by automatically creating pull requests to update dependencies when new versions are available or when vulnerabilities are detected.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pdm-segment.svg
+code: t_pdm
+externalId: Project Dependency Management
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:09.817000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

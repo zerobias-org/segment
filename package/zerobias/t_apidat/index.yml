@@ -1,0 +1,17 @@
+id: 3afc7116-6721-4078-a68a-14f36fe7a08b
+name: API Development and Testing
+description: API Development and Testing
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_apidat-segment.svg
+code: t_apidat
+externalId: API Development and Testing
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:36.813000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

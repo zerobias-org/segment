@@ -1,0 +1,17 @@
+id: f6b3d71b-fc29-49b0-84ab-bd04a4d0ea54
+name: Containerization
+description: Containerization
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_con-segment.svg
+code: t_con
+externalId: Containerization
+status: active
+parents: 
+  - c_dai
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:30.202000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

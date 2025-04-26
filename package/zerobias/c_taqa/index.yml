@@ -1,0 +1,17 @@
+id: c7a6558e-4f33-45a3-aaa3-f5379bafeec4
+name: Testing and Quality Assurance
+description: Testing and Quality Assurance
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_taqa-segment.svg
+code: c_taqa
+externalId: Testing and Quality Assurance
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:18.740000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

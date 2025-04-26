@@ -1,0 +1,17 @@
+id: dde13690-28e5-41ff-81cd-aacb644456cf
+name: Development Framework
+description: Development Framework
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_df-segment.svg
+code: t_df
+externalId: Development Framework
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:36.459000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

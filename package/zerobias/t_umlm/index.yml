@@ -1,0 +1,17 @@
+id: 5656d005-444f-4658-996b-4715b4517f7e
+name: UML Modeling
+description: UML Modeling
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_umlm-segment.svg
+code: t_umlm
+externalId: UML Modeling
+status: active
+parents: 
+  - c_dam
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:28.682000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

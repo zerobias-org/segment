@@ -1,0 +1,17 @@
+id: 6affdd31-c653-48b5-a0d3-b608bddfe629
+name: Integrated Development Environment (IDE)
+description: IDE tools (like IntelliJ IDEA, Visual Studio, Eclipse, PyCharm, VS Code) provide an integrated environment for writing, testing, and debugging code.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ide-segment.svg
+code: t_ide
+externalId: Integrated Development Environment
+status: active
+parents: 
+  - c_de
+created: '2025-04-21T06:22:52.343000Z'
+updated: '2025-04-21T06:22:53.663000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

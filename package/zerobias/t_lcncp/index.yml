@@ -1,0 +1,17 @@
+id: d8f7a18a-e9f4-4339-9fa7-9c655f70740d
+name: Low-Code/No-Code Platform
+description: Low-Code/No-Code Platform
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_lcncp-segment.svg
+code: t_lcncp
+externalId: Low-Code/No-Code Platform
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:35.740000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

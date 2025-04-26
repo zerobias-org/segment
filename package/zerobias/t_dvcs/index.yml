@@ -1,0 +1,17 @@
+id: 479884a4-c12f-4c00-80fe-d177d3f2ac4d
+name: Distributed VCS
+description: Distributed VCS tools (like Git, Mercurial) manage changes to code over time, allowing for collaboration and tracking history.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_dvcs-segment.svg
+code: t_dvcs
+externalId: Distributed VCS
+status: active
+parents: 
+  - c_vcs
+created: '2025-04-21T06:22:52.344000Z'
+updated: '2025-04-21T06:22:57.239000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

@@ -1,0 +1,17 @@
+id: 92d7cdfc-f7cd-4662-a4b9-5acc9f63e651
+name: Mocking and Stubbing Framework
+description: Mocking and Stubbing Framework
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_masf-segment.svg
+code: t_masf
+externalId: Mocking and Stubbing Framework
+status: active
+parents: 
+  - c_taqa
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:26.530000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

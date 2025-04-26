@@ -1,0 +1,16 @@
+id: 61cbad35-4a81-4848-8a15-a476f7b16d0e
+name: Software Development
+description: Software Development
+segmentType: domain
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-d_sd-segment.svg
+code: d_sd
+externalId: Software Development
+status: active
+parents: []
+created: '2025-04-21T06:22:52.343000Z'
+updated: '2025-04-21T06:22:52.844000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

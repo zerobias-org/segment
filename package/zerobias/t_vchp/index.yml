@@ -1,0 +1,17 @@
+id: 9f902198-8bf1-48a1-93f8-e00de5a0e459
+name: Version Control Hosting Platform
+description: Version Control Hosting Platforms (like GitHub, GitLab, Bitbucket, Azure DevOps Repos) build upon the core functionalities of Version Control Systems (VCS) like Git and offer a range of collaborative and management features.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_vchp-segment.svg
+code: t_vchp
+externalId: Version Control Hosting Platform
+status: active
+parents: 
+  - c_vcs
+created: '2025-04-21T06:22:52.344000Z'
+updated: '2025-04-21T06:22:57.884000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []
