@@ -1,0 +1,17 @@
+id: 5addb2d2-b5c6-457f-83f8-4e7a490c19f8
+name: AI/ML Development
+description: AI/ML Development
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aimld-segment.svg
+code: t_aimld
+externalId: AI/ML Development
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:37.920000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

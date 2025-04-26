@@ -1,0 +1,17 @@
+id: 302f3422-b9cb-4d8f-9189-0de299d7996c
+name: Build Tool
+description: Build tools (like Make (for C/C++), Maven (for Java), Gradle (for Java, Android, etc.), Ant (for Java), MSBuild (.NET), Webpack, Parcel, Rollup (for JavaScript)) automate the process of transforming source code into a finished product, like an executable or a deployable package. They handle tasks like compiling, linking, packaging, and managing dependencies, making the development process more efficient and less prone to errors.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_bt-segment.svg
+code: t_bt
+externalId: Build Tool
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:07.099000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

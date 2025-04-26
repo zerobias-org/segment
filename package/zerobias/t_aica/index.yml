@@ -1,0 +1,17 @@
+id: 428bfdc1-ea92-45dc-8ea3-21f0f3d6a2cc
+name: AI Coding Assistant
+description: AI Coding Assistant
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aica-segment.svg
+code: t_aica
+externalId: AI Coding Assistant
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:36.102000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

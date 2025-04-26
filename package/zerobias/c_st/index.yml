@@ -1,0 +1,17 @@
+id: 8e06fe1a-6f18-47a1-a327-7b4be308e028
+name: Specialized Tools
+description: Specialized Tools
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_st-segment.svg
+code: c_st
+externalId: Specialized Tools
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:35.374000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

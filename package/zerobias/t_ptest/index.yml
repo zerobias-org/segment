@@ -1,0 +1,17 @@
+id: 836d3f1c-d8ab-43f5-b836-f0589cb4e77c
+name: Performance Testing
+description: Performance Testing tools (like Apache JMeter, OpenText LoadRunner, Tricentis NeoLoad, Locust) help streamline the development process with automated test generation and execution, test scripting (for complex test scenarios), load simulation, real browser simulation, performance metrics analysis, test reports, and integration with CI/CD pipelines.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ptest-segment.svg
+code: t_ptest
+externalId: Performance Testing
+status: active
+parents: 
+  - c_taqa
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:24.412000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

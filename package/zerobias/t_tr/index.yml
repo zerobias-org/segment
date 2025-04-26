@@ -1,0 +1,17 @@
+id: 5ee784b2-ac89-4b5f-993d-d4913e03c9ee
+name: Task Runner
+description: Task Runner tools (like Grunt (for Node.js, JavaScript), Gulp, Broccoli (for web applications)) automate repetitive tasks in a development workflow, like compiling code, optimizing images, or minifying JavaScript. They help streamline the build process and improve developer productivity by defining, managing, and executing tasks in a systematic way.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_tr-segment.svg
+code: t_tr
+externalId: Task Runner
+status: active
+parents: 
+  - c_baat
+created: '2025-04-21T06:22:52.345000Z'
+updated: '2025-04-21T06:23:08.459000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

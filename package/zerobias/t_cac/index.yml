@@ -9,8 +9,9 @@ externalId: Collaboration and Communication
 status: active
 parents: 
   - c_op
+  - c_capm
 created: '2025-03-31T07:10:04.868795Z'
-updated: '2025-04-02T04:42:35.495000Z'
+updated: '2025-04-21T06:23:27.252000Z'
 tags: []
 environment: prod
 hostname: https://api.app.zerobias.com

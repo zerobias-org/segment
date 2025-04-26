@@ -1,0 +1,17 @@
+id: 01a8044d-3621-43a8-9477-f974ce6ccb8f
+name: Development Environment
+description: Development Environment
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_de-segment.svg
+code: c_de
+externalId: Development Environment
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.343000Z'
+updated: '2025-04-21T06:22:53.258000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

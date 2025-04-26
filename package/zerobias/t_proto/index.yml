@@ -1,0 +1,17 @@
+id: 57734c15-7097-4c44-8da3-9c3e0426a1d5
+name: Prototyping
+description: Prototyping
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_proto-segment.svg
+code: t_proto
+externalId: Prototyping
+status: active
+parents: 
+  - c_dam
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:29.489000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

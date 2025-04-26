@@ -1,0 +1,17 @@
+id: 40fe5e0f-fae5-441c-825b-3767d9f58605
+name: Integration Testing
+description: Integration Testing tools (like Citrus, Selenium, LDRA) help streamline the development process with automated test execution, multi-protocol support, version control, test data management, test management, parallel test execution, test reports, and integration with CI/CD pipelines.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itest-segment.svg
+code: t_itest
+externalId: Integration Testing
+status: active
+parents: 
+  - c_taqa
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:20.310000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

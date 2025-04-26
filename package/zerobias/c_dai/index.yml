@@ -1,0 +1,17 @@
+id: b8a9e6df-d8e6-42fd-a43b-474ca0ae8ac0
+name: Deployment and Infrastructure
+description: Deployment and Infrastructure
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_dai-segment.svg
+code: c_dai
+externalId: Deployment and Infrastructure
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:29.850000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

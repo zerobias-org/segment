@@ -1,0 +1,17 @@
+id: 07965f44-47d4-44f4-a229-c802a6d08382
+name: Mobile Development
+description: Mobile Development
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_md-segment.svg
+code: t_md
+externalId: Mobile Development
+status: active
+parents: 
+  - c_st
+created: '2025-04-21T06:22:52.347000Z'
+updated: '2025-04-21T06:23:37.170000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

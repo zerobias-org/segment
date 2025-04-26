@@ -1,0 +1,17 @@
+id: 20fcad7d-f442-4ded-a42d-577ed6e9e13a
+name: Design and Modeling
+description: Design and Modeling
+segmentType: category
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_dam-segment.svg
+code: c_dam
+externalId: Design and Modeling
+status: active
+parents: 
+  - d_sd
+created: '2025-04-21T06:22:52.346000Z'
+updated: '2025-04-21T06:23:28.329000Z'
+tags: []
+environment: prod
+hostname: https://api.app.zerobias.com
+aliases: []

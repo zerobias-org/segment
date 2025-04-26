@@ -11,13 +11,13 @@
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-t_cbids": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_cspm": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_edr": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_hids": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_ids": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_rasp": "^1.0.1",
-        "@zerobias-org/segment-zerobias-t_siem": "^1.0.1"
+        "@zerobias-org/segment-zerobias-t_cbids": "latest",
+        "@zerobias-org/segment-zerobias-t_cspm": "latest",
+        "@zerobias-org/segment-zerobias-t_edr": "latest",
+        "@zerobias-org/segment-zerobias-t_hids": "latest",
+        "@zerobias-org/segment-zerobias-t_ids": "latest",
+        "@zerobias-org/segment-zerobias-t_rasp": "latest",
+        "@zerobias-org/segment-zerobias-t_siem": "latest"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
