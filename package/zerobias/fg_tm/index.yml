@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tm-segment.svg
 code: fg_tm
 externalId: Threat Monitoring
-status: active
+status: published
 parents: 
   - t_siem
   - t_ids

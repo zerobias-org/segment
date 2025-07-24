@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cwp-segment.svg
 code: t_cwp
 externalId: Cloud Workload Protection
-status: active
+status: published
 parents: 
   - c_is
 created: '2025-04-09T22:33:44.562478Z'

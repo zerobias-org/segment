@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itd-segment.svg
 code: t_itd
 externalId: IT Documentation
-status: active
+status: published
 parents: 
   - c_itpao
   - c_capm

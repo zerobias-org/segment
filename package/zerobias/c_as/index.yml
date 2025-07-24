@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_as-segment.svg
 code: c_as
 externalId: Application Security
-status: active
+status: published
 parents: 
   - d_cs
 created: '2025-04-09T22:33:51.136417Z'
