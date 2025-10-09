@@ -1,0 +1,7 @@
+supports:
+  - complianceFeature: f_lm
+    status: supported
+    strength: high
+  - complianceFeature: f_rta
+    status: supported
+    strength: high

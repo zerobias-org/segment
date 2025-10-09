@@ -1,0 +1,22 @@
+supports:
+  - complianceFeature: f_carm
+    status: supported
+    strength: high
+  - complianceFeature: f_cm
+    status: supported
+    strength: high
+  - complianceFeature: f_im
+    status: supported
+    strength: high
+  - complianceFeature: f_km
+    status: supported
+    strength: high
+  - complianceFeature: f_raa
+    status: supported
+    strength: high
+  - complianceFeature: f_slm
+    status: supported
+    strength: high
+  - complianceFeature: f_swa
+    status: supported
+    strength: high

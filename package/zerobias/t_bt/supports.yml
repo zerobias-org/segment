@@ -1,0 +1,10 @@
+supports:
+  - complianceFeature: f_clap
+    status: supported
+    strength: high
+  - complianceFeature: f_dmfsp
+    status: supported
+    strength: high
+  - complianceFeature: f_tawa
+    status: supported
+    strength: high

@@ -1,0 +1,7 @@
+supports:
+  - complianceFeature: f_adai
+    status: supported
+    strength: high
+  - complianceFeature: f_asm
+    status: supported
+    strength: high

@@ -29,6 +29,10 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_asfmp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pdsaa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raa": "latest",
     "@zerobias-org/segment-zerobias-c_devices": "latest",
     "@zerobias-org/segment-zerobias-c_nasa": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
