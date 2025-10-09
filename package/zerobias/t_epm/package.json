@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_epm",
-  "version": "1.0.3-rc.0",
+  "version": "1.0.3-rc.1",
   "description": "Endpoint Patch Management segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
