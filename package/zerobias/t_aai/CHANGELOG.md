@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.18-rc.2](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_aai@1.0.18-rc.0...@zerobias-org/segment-zerobias-t_aai@1.0.18-rc.2) (2025-10-09)
+
+
+### Bug Fixes
+
+* bump version to republish ([192de7c](https://github.com/zerobias-org/segment/commit/192de7cbd9def53cddf621deb870f8397cddeb93))
+
+
+
+
+
 ## [1.0.18-rc.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_aai@1.0.17...@zerobias-org/segment-zerobias-t_aai@1.0.18-rc.0) (2025-10-09)
 
 
