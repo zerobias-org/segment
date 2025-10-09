@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_cvm2
+    status: supported
+    strength: high

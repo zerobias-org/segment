@@ -1,0 +1,10 @@
+supports:
+  - complianceFeature: f_atcksm
+    status: supported
+    strength: high
+  - complianceFeature: f_atckss
+    status: supported
+    strength: high
+  - complianceFeature: f_rp
+    status: supported
+    strength: high

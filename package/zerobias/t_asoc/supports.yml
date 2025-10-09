@@ -1,0 +1,13 @@
+supports:
+  - complianceFeature: f_aap
+    status: supported
+    strength: high
+  - complianceFeature: f_cvm
+    status: supported
+    strength: high
+  - complianceFeature: f_fvs
+    status: supported
+    strength: high
+  - complianceFeature: f_ri
+    status: supported
+    strength: high

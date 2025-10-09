@@ -1,0 +1,31 @@
+supports:
+  - complianceFeature: f_cfw
+    status: supported
+    strength: high
+  - complianceFeature: f_dspc
+    status: supported
+    strength: high
+  - complianceFeature: f_ir
+    status: supported
+    strength: high
+  - complianceFeature: f_isav
+    status: supported
+    strength: high
+  - complianceFeature: f_ns
+    status: supported
+    strength: high
+  - complianceFeature: f_rbac
+    status: supported
+    strength: high
+  - complianceFeature: f_rbpa
+    status: supported
+    strength: high
+  - complianceFeature: f_rtm
+    status: supported
+    strength: high
+  - complianceFeature: f_sr
+    status: supported
+    strength: high
+  - complianceFeature: f_vs
+    status: supported
+    strength: high

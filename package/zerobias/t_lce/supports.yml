@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_ce
+    status: supported
+    strength: high

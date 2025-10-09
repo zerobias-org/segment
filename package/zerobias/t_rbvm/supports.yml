@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_fim
+    status: supported
+    strength: high
+  - complianceFeature: f_rp
+    status: supported
+    strength: high
+  - complianceFeature: f_rs
+    status: supported
+    strength: high
+  - complianceFeature: f_va
+    status: supported
+    strength: high
+  - complianceFeature: f_vs
+    status: supported
+    strength: high

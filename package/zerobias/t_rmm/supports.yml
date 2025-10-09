@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_cvwd
+    status: supported
+    strength: high
+  - complianceFeature: f_raa
+    status: supported
+    strength: high
+  - complianceFeature: f_rta
+    status: supported
+    strength: high
+  - complianceFeature: f_rtm
+    status: supported
+    strength: high
+  - complianceFeature: f_ta
+    status: supported
+    strength: high

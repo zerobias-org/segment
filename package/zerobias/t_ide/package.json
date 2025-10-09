@@ -28,6 +28,10 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ce": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_deb": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pro": "latest",
     "@zerobias-org/segment-zerobias-c_de": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

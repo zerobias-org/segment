@@ -1,0 +1,13 @@
+supports:
+  - complianceFeature: f_cs
+    status: supported
+    strength: high
+  - complianceFeature: f_pace
+    status: supported
+    strength: high
+  - complianceFeature: f_sca
+    status: supported
+    strength: high
+  - complianceFeature: f_vcaa
+    status: supported
+    strength: high
