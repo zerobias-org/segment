@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_hips",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.0",
   "description": "Host-based Intrusion Prevention System (HIPS) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

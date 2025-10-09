@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_em",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.0",
   "description": "Exposure Management segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

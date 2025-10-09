@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_siem",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.0",
   "description": "Security Information and Event Management (SIEM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
