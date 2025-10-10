@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itrm-segment.svg
 code: t_itrm
 externalId: IT Risk Management
-status: active
+status: published
 parents: 
   - c_itg
 created: '2025-04-02T04:23:41.170156Z'

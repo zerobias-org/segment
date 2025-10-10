@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_siem",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Security Information and Event Management (SIEM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_lm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
     "@zerobias-org/segment-zerobias-c_spao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

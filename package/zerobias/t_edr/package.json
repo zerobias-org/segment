@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_edr",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Endpoint Detection and Response (EDR) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_acm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ti": "latest",
     "@zerobias-org/segment-zerobias-c_es": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

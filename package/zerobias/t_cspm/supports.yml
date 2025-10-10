@@ -1,0 +1,34 @@
+supports:
+  - complianceFeature: f_acm
+    status: supported
+    strength: high
+  - complianceFeature: f_ca
+    status: supported
+    strength: high
+  - complianceFeature: f_cadai
+    status: supported
+    strength: high
+  - complianceFeature: f_cm3
+    status: supported
+    strength: high
+  - complianceFeature: f_cvwd
+    status: supported
+    strength: high
+  - complianceFeature: f_ri
+    status: supported
+    strength: high
+  - complianceFeature: f_rp
+    status: supported
+    strength: high
+  - complianceFeature: f_rta
+    status: supported
+    strength: high
+  - complianceFeature: f_spe
+    status: supported
+    strength: high
+  - complianceFeature: f_vmm
+    status: supported
+    strength: high
+  - complianceFeature: f_vr
+    status: supported
+    strength: high

@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iam-segment.svg
 code: t_iam
 externalId: Identity and Access Management
-status: active
+status: published
 parents: 
   - c_itg
 created: '2025-04-02T04:23:40.200235Z'

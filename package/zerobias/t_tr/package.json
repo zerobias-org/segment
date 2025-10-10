@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_tr",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.2",
   "description": "Task Runner segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_tawa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_uocf": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_uop": "latest",
     "@zerobias-org/segment-zerobias-c_baat": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-fg_ar",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Automated Remediation (aka Automated Response) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,12 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_frm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ivs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_krp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pvs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_qf": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rep": "latest",
     "@zerobias-org/segment-zerobias-t_edr": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

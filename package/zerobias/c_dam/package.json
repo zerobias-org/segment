@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_dam",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.2",
   "description": "Design and Modeling segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_apidat",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.2",
   "description": "API Development and Testing segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

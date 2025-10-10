@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_rmm",
-  "version": "1.0.17",
+  "version": "1.0.18-rc.2",
   "description": "Remote Monitoring and Management (RMM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,11 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rtm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ta": "latest",
     "@zerobias-org/segment-zerobias-c_devices": "latest",
     "@zerobias-org/segment-zerobias-c_nasa": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"

@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_asm
+    status: supported
+    strength: high

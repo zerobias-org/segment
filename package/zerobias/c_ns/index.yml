@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ns-segment.svg
 code: c_ns
 externalId: Network Security
-status: active
+status: published
 parents: 
   - d_cs
 created: '2025-04-09T22:33:35.810025Z'

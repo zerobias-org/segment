@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_nasa-segment.svg
 code: c_nasa
 externalId: Networking and Systems Administration
-status: active
+status: published
 parents: 
   - d_itm
 created: '2025-04-02T04:23:36.210926Z'

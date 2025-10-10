@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_itest",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.2",
   "description": "Integration Testing segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,11 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ate": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ddt": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cicd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raafct": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_tm": "latest",
     "@zerobias-org/segment-zerobias-c_taqa": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

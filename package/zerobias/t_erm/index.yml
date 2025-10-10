@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_erm-segment.svg
 code: t_erm
 externalId: Enterprise Risk Management
-status: active
+status: published
 parents: 
   - c_bsap
 created: '2025-03-31T07:10:04.738940Z'

@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tdap-segment.svg
 code: fg_tdap
 externalId: Threat Detection and Prevention
-status: active
+status: published
 parents: 
   - t_rasp
 created: '2025-04-09T22:33:53.092248Z'

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cspm",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Cloud Security Posture Management (CSPM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,17 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_acm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ca": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cadai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cm3": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ri": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_spe": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vmm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vr": "latest",
     "@zerobias-org/segment-zerobias-c_sg": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

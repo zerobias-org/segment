@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_st",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.2",
   "description": "Specialized Tools segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

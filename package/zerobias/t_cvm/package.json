@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cvm",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Continuous Vulnerability Management (CVM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,18 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_acm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_adai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ti": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_va": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vmm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vr": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vs": "latest",
     "@zerobias-org/segment-zerobias-c_spao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

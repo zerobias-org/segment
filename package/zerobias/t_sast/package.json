@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_sast",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Static Application Security Testing (SAST) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

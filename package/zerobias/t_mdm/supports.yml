@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_amarod
+    status: supported
+    strength: high
+  - complianceFeature: f_dtag
+    status: supported
+    strength: high
+  - complianceFeature: f_rdcau
+    status: supported
+    strength: high
+  - complianceFeature: f_rwflosd
+    status: supported
+    strength: high
+  - complianceFeature: f_spe
+    status: supported
+    strength: high

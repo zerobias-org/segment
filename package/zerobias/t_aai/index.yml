@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aai-segment.svg
 code: t_aai
 externalId: Automation and Integration
-status: active
+status: published
 parents: 
   - c_op
 created: '2025-03-31T07:10:05.127264Z'

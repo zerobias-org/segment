@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_psa",
-  "version": "1.0.17",
+  "version": "1.0.18-rc.2",
   "description": "Professional Services Automation (PSA) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,11 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ba": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rapm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_swa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_tt": "latest",
     "@zerobias-org/segment-zerobias-c_itpao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

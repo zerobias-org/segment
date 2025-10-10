@@ -1,0 +1,19 @@
+supports:
+  - complianceFeature: f_frm
+    status: supported
+    strength: high
+  - complianceFeature: f_ivs
+    status: supported
+    strength: high
+  - complianceFeature: f_krp
+    status: supported
+    strength: high
+  - complianceFeature: f_pvs
+    status: supported
+    strength: high
+  - complianceFeature: f_qf
+    status: supported
+    strength: high
+  - complianceFeature: f_rep
+    status: supported
+    strength: high

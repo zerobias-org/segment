@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_waf-segment.svg
 code: t_waf
 externalId: Web Application Firewalls
-status: active
+status: published
 parents: 
   - c_is
 created: '2025-04-09T22:33:44.911534Z'

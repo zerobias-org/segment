@@ -1,0 +1,13 @@
+supports:
+  - complianceFeature: f_cai
+    status: supported
+    strength: high
+  - complianceFeature: f_ce
+    status: supported
+    strength: high
+  - complianceFeature: f_deb
+    status: supported
+    strength: high
+  - complianceFeature: f_pro
+    status: supported
+    strength: high

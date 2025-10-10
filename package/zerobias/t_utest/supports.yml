@@ -1,0 +1,10 @@
+supports:
+  - complianceFeature: f_ate
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cicd
+    status: supported
+    strength: high
+  - complianceFeature: f_raafct
+    status: supported
+    strength: high

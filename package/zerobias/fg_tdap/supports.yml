@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_rd
+    status: supported
+    strength: high
+  - complianceFeature: f_sqlip
+    status: supported
+    strength: high
+  - complianceFeature: f_uap
+    status: supported
+    strength: high
+  - complianceFeature: f_xssp
+    status: supported
+    strength: high
+  - complianceFeature: f_zdp
+    status: supported
+    strength: high

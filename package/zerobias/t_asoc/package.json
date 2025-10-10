@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_asoc",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.2",
   "description": "Application Security Orchestration and Correlation (ASOC) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,10 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_aap": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_fvs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ri": "latest",
     "@zerobias-org/segment-zerobias-c_spao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

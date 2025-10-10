@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_ar-segment.svg
 code: fg_ar
 externalId: Automated Remediation
-status: active
+status: published
 parents: 
   - t_edr
 created: '2025-04-09T22:33:47.067724Z'

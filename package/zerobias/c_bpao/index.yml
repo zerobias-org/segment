@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_bpao-segment.svg
 code: c_bpao
 externalId: Business Processes and Operations
-status: active
+status: published
 parents: 
   - d_ba
 created: '2025-03-31T07:10:04.264227Z'

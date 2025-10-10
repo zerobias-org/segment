@@ -5,7 +5,7 @@ segmentType: {segmentType}
 imageUrl: https://cdn.auditmation.io/logos/zerobias-{code}-segment.svg
 code: {code}
 externalId: {externalId}
-status: active
+status: published
 parents: []
 tags: []
 aliases: []

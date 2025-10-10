@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_iam",
-  "version": "1.0.17",
+  "version": "1.0.18-rc.2",
   "description": "Identity and Access Management (IAM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,11 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cupad": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rbac": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ssomfa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_uaaa": "latest",
     "@zerobias-org/segment-zerobias-c_itg": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

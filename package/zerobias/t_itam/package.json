@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_itam",
-  "version": "1.0.17",
+  "version": "1.0.18-rc.2",
   "description": "IT Asset Management (ITAM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,12 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_adai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_alm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cm2": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_raa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_slm2": "latest",
     "@zerobias-org/segment-zerobias-c_itpao": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }
