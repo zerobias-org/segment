@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_bi",
-  "version": "1.0.18-rc.3",
+  "version": "1.0.18",
   "description": "Business Intelligence (BI) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

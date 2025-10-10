@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_aispm",
-  "version": "1.0.3-rc.3",
+  "version": "1.0.3",
   "description": "Artificial Intelligence Security Posture Management (AI-SPM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

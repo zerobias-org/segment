@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_psa",
-  "version": "1.0.18-rc.3",
+  "version": "1.0.18",
   "description": "Professional Services Automation (PSA) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
