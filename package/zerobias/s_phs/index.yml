@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-s_phs-segment.svg
 code: s_phs
 externalId: Package Hosting Service
-status: active
+status: published
 parents: 
   - c_baat
 created: '2025-04-21T06:22:52.345000Z'

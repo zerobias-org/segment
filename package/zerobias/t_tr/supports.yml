@@ -1,0 +1,10 @@
+supports:
+  - complianceFeature: f_tawa
+    status: supported
+    strength: high
+  - complianceFeature: f_uocf
+    status: supported
+    strength: high
+  - complianceFeature: f_uop
+    status: supported
+    strength: high

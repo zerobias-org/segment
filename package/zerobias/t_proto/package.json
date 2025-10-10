@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_proto",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.3",
   "description": "Prototyping segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

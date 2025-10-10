@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_edlp",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.3",
   "description": "Endpoint Data Loss Prevention (DLP) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_dvcs-segment.svg
 code: t_dvcs
 externalId: Distributed VCS
-status: active
+status: published
 parents: 
   - c_vcs
 created: '2025-04-21T06:22:52.344000Z'

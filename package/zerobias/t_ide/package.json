@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_ide",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.3",
   "description": "Integrated Development Environment (IDE) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,10 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ce": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_deb": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pro": "latest",
     "@zerobias-org/segment-zerobias-c_de": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

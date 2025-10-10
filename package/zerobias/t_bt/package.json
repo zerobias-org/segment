@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_bt",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.3",
   "description": "Build Tool segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_clap": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_dmfsp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_tawa": "latest",
     "@zerobias-org/segment-zerobias-c_baat": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

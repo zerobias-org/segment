@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_cupad
+    status: supported
+    strength: high
+  - complianceFeature: f_raa
+    status: supported
+    strength: high
+  - complianceFeature: f_rbac
+    status: supported
+    strength: high
+  - complianceFeature: f_ssomfa
+    status: supported
+    strength: high
+  - complianceFeature: f_uaaa
+    status: supported
+    strength: high

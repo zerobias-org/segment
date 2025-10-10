@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_lcncp-segment.svg
 code: t_lcncp
 externalId: Low-Code/No-Code Platform
-status: active
+status: published
 parents: 
   - c_st
 created: '2025-04-21T06:22:52.347000Z'

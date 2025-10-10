@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_orc",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.3",
   "description": "Orchestration segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

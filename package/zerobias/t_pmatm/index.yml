@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pmatm-segment.svg
 code: t_pmatm
 externalId: Project Management and Task Management
-status: active
+status: published
 parents: 
   - c_op
   - c_capm

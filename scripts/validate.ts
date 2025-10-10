@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import yaml from 'yaml';
 import { UUID, URL } from '@auditmation/types-core-js';
-import { VspStatusEnum } from '@auditmation/module-auditmation-auditmation-portal';
+import { CatalogPublishStatusEnum } from '@auditmation/module-auditmation-auditmation-portal';
 
 const segmentTypes: Record<string, number> = {};
 
@@ -96,7 +96,7 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<{ code: 
   }
 
   check = indexFile.imageUrl !== undefined && indexFile.imageUrl !== null ? new URL(indexFile.imageUrl) : true;
-  check = indexFile.status !== undefined && indexFile.status !== null ? VspStatusEnum.from(indexFile.status)
+  check = indexFile.status !== undefined && indexFile.status !== null ? CatalogPublishStatusEnum.from(indexFile.status)
     : new Error('status not found in index.yml');
   check = indexFile.externalId !== undefined && indexFile.externalId !== null && indexFile.externalId !== '{externalId}'
     ? indexFile.externalId : new Error('externalId not found in index.yml');

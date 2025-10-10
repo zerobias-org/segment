@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_siwfsp
+    status: supported
+    strength: high

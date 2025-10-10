@@ -1,0 +1,10 @@
+supports:
+  - complianceFeature: f_aufsd
+    status: supported
+    strength: high
+  - complianceFeature: f_dmfsp
+    status: supported
+    strength: high
+  - complianceFeature: f_safsd
+    status: supported
+    strength: high

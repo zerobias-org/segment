@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_apidat-segment.svg
 code: t_apidat
 externalId: API Development and Testing
-status: active
+status: published
 parents: 
   - c_st
 created: '2025-04-21T06:22:52.347000Z'

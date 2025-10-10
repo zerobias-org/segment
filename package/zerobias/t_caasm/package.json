@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_caasm",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.3",
   "description": "Cyber Asset Attack Surface Management (CAASM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_adai": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_asm": "latest",
     "@zerobias-org/segment-zerobias-c_em": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

@@ -1,0 +1,67 @@
+supports:
+  - complianceFeature: f_2fa
+    status: supported
+    strength: high
+  - complianceFeature: f_acfcr
+    status: supported
+    strength: high
+  - complianceFeature: f_afcr
+    status: supported
+    strength: high
+  - complianceFeature: f_al
+    status: supported
+    strength: high
+  - complianceFeature: f_cbam
+    status: supported
+    strength: high
+  - complianceFeature: f_ce2
+    status: supported
+    strength: high
+  - complianceFeature: f_chfcr
+    status: supported
+    strength: high
+  - complianceFeature: f_cs2
+    status: supported
+    strength: high
+  - complianceFeature: f_dfcr
+    status: supported
+    strength: high
+  - complianceFeature: f_it
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cicd
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cp
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_des
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_it
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_pdm
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_phs
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_vcs
+    status: supported
+    strength: high
+  - complianceFeature: f_naafcr
+    status: supported
+    strength: high
+  - complianceFeature: f_rm
+    status: supported
+    strength: high
+  - complianceFeature: f_sp
+    status: supported
+    strength: high
+  - complianceFeature: f_ss
+    status: supported
+    strength: high
+  - complianceFeature: f_vhad
+    status: supported
+    strength: high

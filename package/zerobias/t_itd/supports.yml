@@ -1,0 +1,7 @@
+supports:
+  - complianceFeature: f_aat
+    status: supported
+    strength: high
+  - complianceFeature: f_cds
+    status: supported
+    strength: high

@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ciem-segment.svg
 code: t_ciem
 externalId: Cloud Infrastructure Entitlement Management
-status: active
+status: published
 parents: 
   - c_is
 created: '2025-04-09T22:33:45.358892Z'

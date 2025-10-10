@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-t_bi-segment.svg
 code: t_bi
 externalId: Business Intelligence
-status: active
+status: published
 parents: 
   - c_bsap
 created: '2025-03-31T07:10:04.675663Z'

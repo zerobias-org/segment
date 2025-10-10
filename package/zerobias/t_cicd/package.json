@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cicd",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.3",
   "description": "Continuous Integration and Continuous Deployment (CI/CD) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -28,6 +28,22 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ab": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_aipf": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_al": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_am": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_da": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_em": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cp2": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_ss": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_tt": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_vcs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_naafp": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pac": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_pdam": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rc": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_shoc": "latest",
     "@zerobias-org/segment-zerobias-c_baat": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

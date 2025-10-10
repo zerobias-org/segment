@@ -1,0 +1,28 @@
+supports:
+  - complianceFeature: f_ec
+    status: supported
+    strength: high
+  - complianceFeature: f_hbm
+    status: supported
+    strength: high
+  - complianceFeature: f_ilm
+    status: supported
+    strength: high
+  - complianceFeature: f_ma
+    status: supported
+    strength: high
+  - complianceFeature: f_nta
+    status: supported
+    strength: high
+  - complianceFeature: f_rbpa
+    status: supported
+    strength: high
+  - complianceFeature: f_sa
+    status: supported
+    strength: high
+  - complianceFeature: f_sbtd
+    status: supported
+    strength: high
+  - complianceFeature: f_ueba
+    status: supported
+    strength: high

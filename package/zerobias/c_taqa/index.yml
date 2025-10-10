@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_taqa-segment.svg
 code: c_taqa
 externalId: Testing and Quality Assurance
-status: active
+status: published
 parents: 
   - d_sd
 created: '2025-04-21T06:22:52.345000Z'

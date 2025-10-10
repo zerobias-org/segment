@@ -1,0 +1,49 @@
+supports:
+  - complianceFeature: f_ab
+    status: supported
+    strength: high
+  - complianceFeature: f_aipf
+    status: supported
+    strength: high
+  - complianceFeature: f_al
+    status: supported
+    strength: high
+  - complianceFeature: f_am
+    status: supported
+    strength: high
+  - complianceFeature: f_da
+    status: supported
+    strength: high
+  - complianceFeature: f_em
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cm
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cp2
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_ss
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_tt
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_vcs
+    status: supported
+    strength: high
+  - complianceFeature: f_naafp
+    status: supported
+    strength: high
+  - complianceFeature: f_pac
+    status: supported
+    strength: high
+  - complianceFeature: f_pdam
+    status: supported
+    strength: high
+  - complianceFeature: f_rc
+    status: supported
+    strength: high
+  - complianceFeature: f_shoc
+    status: supported
+    strength: high

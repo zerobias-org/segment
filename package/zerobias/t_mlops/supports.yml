@@ -1,0 +1,13 @@
+supports:
+  - complianceFeature: f_dmafs
+    status: supported
+    strength: high
+  - complianceFeature: f_etam3
+    status: supported
+    strength: high
+  - complianceFeature: f_mdas
+    status: supported
+    strength: high
+  - complianceFeature: f_woapm
+    status: supported
+    strength: high

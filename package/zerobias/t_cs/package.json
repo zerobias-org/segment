@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cs",
-  "version": "1.0.2",
+  "version": "1.0.3-rc.3",
   "description": "Container Security segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,6 +29,16 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_cfw": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_dspc": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ir": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_isav": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ns": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rbac": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rbpa": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_rtm": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_sr": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_vs": "latest",
     "@zerobias-org/segment-zerobias-c_is": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
   }

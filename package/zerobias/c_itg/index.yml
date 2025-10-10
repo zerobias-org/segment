@@ -6,7 +6,7 @@ ownerId: 00000000-0000-0000-0000-000000000000
 imageUrl: https://cdn.auditmation.io/logos/zerobias-c_itg-segment.svg
 code: c_itg
 externalId: IT Governance
-status: active
+status: published
 parents: 
   - d_itm
 created: '2025-04-02T04:23:40.036639Z'

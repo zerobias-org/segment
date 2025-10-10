@@ -5,7 +5,7 @@ segmentType: domain
 imageUrl: https://cdn.auditmation.io/logos/zerobias-d_test-segment.svg
 code: d_test
 externalId: Test
-status: active
+status: published
 parents: []
 tags: []
 aliases: []
