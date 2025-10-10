@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_iacs",
-  "version": "1.0.3-rc.2",
+  "version": "1.0.3-rc.3",
   "description": "Infrastructure as Code Security (IaC Sec) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

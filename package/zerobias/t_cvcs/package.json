@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cvcs",
-  "version": "1.0.1-rc.2",
+  "version": "1.0.1-rc.3",
   "description": "Centralized VCS segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

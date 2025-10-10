@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_asoc",
-  "version": "1.0.3-rc.2",
+  "version": "1.0.3-rc.3",
   "description": "Application Security Orchestration and Correlation (ASOC) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
