@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_pmatm",
-  "version": "1.0.18",
+  "version": "1.0.19-rc.1",
   "description": "Project Management and Task Management segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -19,7 +19,8 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "files": [
-    "index.yml"
+    "index.yml",
+    "supports.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",

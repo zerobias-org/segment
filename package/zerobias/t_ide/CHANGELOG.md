@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2-rc.1](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_ide@1.0.2-rc.0...@zerobias-org/segment-zerobias-t_ide@1.0.2-rc.1) (2025-10-14)
+
+**Note:** Version bump only for package @zerobias-org/segment-zerobias-t_ide
+
+
+
+
+
+## [1.0.2-rc.0](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_ide@1.0.1...@zerobias-org/segment-zerobias-t_ide@1.0.2-rc.0) (2025-10-14)
+
+
+### Bug Fixes
+
+* was missing supports.yml in files ([8c10c34](https://github.com/zerobias-org/segment/commit/8c10c34209c39bc6f0573555bfcb7c88e9ed7f38))
+
+
+
+
+
 ## [1.0.1](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-t_ide@1.0.1-rc.3...@zerobias-org/segment-zerobias-t_ide@1.0.1) (2025-10-10)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-t_ide
