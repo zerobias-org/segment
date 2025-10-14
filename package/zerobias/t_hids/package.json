@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_hids",
-  "version": "1.0.4-rc.0",
+  "version": "1.0.4-rc.1",
   "description": "Host Intrusion Detection System (HIDS) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

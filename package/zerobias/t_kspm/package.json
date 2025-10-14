@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_kspm",
-  "version": "1.0.4-rc.0",
+  "version": "1.0.4-rc.1",
   "description": "Kubernetes Security Posture Management (KSPM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

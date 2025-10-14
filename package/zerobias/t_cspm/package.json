@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cspm",
-  "version": "1.0.4-rc.0",
+  "version": "1.0.4-rc.1",
   "description": "Cloud Security Posture Management (CSPM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
