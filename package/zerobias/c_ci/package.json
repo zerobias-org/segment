@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_ci",
-  "version": "1.0.18",
+  "version": "1.0.19-rc.0",
   "description": "Cloud Infrastructure segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -20,7 +20,8 @@
   },
   "files": [
     "index.yml",
-    "logo.svg"
+    "logo.svg",
+    "supports.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",

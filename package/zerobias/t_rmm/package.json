@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_rmm",
-  "version": "1.0.18",
+  "version": "1.0.19-rc.0",
   "description": "Remote Monitoring and Management (RMM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -20,7 +20,8 @@
   },
   "files": [
     "index.yml",
-    "logo.svg"
+    "logo.svg",
+    "supports.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",

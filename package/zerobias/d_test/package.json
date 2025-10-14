@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-d_test",
-  "version": "1.0.4",
+  "version": "1.0.5-rc.0",
   "description": "Test1",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -20,7 +20,8 @@
   },
   "files": [
     "index.yml",
-    "logo.svg"
+    "logo.svg",
+    "supports.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.29.26",
