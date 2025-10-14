@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_cs",
-  "version": "1.0.4-rc.1",
+  "version": "1.0.4",
   "description": "Container Security segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

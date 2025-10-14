@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_dc",
-  "version": "1.0.4-rc.1",
+  "version": "1.0.4",
   "description": "Device Control segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

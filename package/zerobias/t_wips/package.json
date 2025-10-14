@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_wips",
-  "version": "1.0.4-rc.1",
+  "version": "1.0.4",
   "description": "Wireless Intrusion Protection System (WIPS) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_ttas",
-  "version": "1.0.19-rc.1",
+  "version": "1.0.19",
   "description": "Time Tracking and Scheduling segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
