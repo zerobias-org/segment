@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_ids",
-  "version": "1.0.3",
+  "version": "1.0.4-rc.0",
   "description": "Intrusion Detection System (IDS) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

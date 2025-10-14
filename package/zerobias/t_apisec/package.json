@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_apisec",
-  "version": "1.0.3",
+  "version": "1.0.4-rc.0",
   "description": "API Security (API Sec) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

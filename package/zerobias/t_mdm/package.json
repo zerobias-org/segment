@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_mdm",
-  "version": "1.0.4",
+  "version": "1.0.5-rc.0",
   "description": "Mobile Device Management (MDM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
