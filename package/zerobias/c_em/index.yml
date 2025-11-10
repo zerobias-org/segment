@@ -1,17 +1,25 @@
-id: 002c28d7-69b9-4fcd-ad91-950e5ccbe40e
+id: e02305b9-add0-5390-8d79-87d95c29f5bd
 name: Exposure Management
-description: Exposure Management
-segmentType: category
-ownerId: 00000000-0000-0000-0000-000000000000
-imageUrl: https://cdn.auditmation.io/logos/zerobias-c_em-segment.svg
 code: c_em
+description: Exposure Management
+status: publishing
 externalId: Exposure Management
-status: published
-parents: 
-  - d_cs
-created: '2025-04-09T22:33:22.874564Z'
-updated: '2025-04-09T22:33:22.874564Z'
+imageUrl: 'https://cdn.auditmation.io/logos/zerobias-c_em-segment.svg'
+ownerId: 28efd6b5-fd17-5b56-a45e-fe3263189666
 tags: []
-environment: prod
-hostname: https://api.app.zerobias.com
-aliases: []
+parents:
+  - d_cs
+segmentType: category
+aliases:
+  - c_em
+  - C_EM
+  - Exposure Management
+  - exposure management
+  - EXPOSURE MANAGEMENT
+  - Exposure Management
+  - exposure management
+  - EXPOSURE MANAGEMENT
+created: '2025-08-25T10:56:34.562Z'
+updated: '2025-11-10T18:14:55.334Z'
+environment: dev
+hostname: 'https://api.ci.zerobias.com'

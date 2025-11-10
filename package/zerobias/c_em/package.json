@@ -20,17 +20,13 @@
   },
   "files": [
     "index.yml",
-    "logo.svg",
-    "supports.yml"
+    "supports.yml",
+    "logo.*"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",
     "import-artifact": "segment",
     "package": "zerobias.c_em.segment"
   },
-  "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-d_cs": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
-  }
+  "dependencies": {}
 }

@@ -1,0 +1,7 @@
+supports:
+  - complianceFeature: f_ma
+    status: partially_supported
+    strength: low
+  - complianceFeature: f_iw_cp
+    status: unknown
+    strength: medium
