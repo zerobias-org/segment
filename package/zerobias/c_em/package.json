@@ -28,5 +28,11 @@
     "import-artifact": "segment",
     "package": "zerobias.c_em.segment"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@zerobias-org/segment_type-zerobias": "latest",
+    "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/segment-zerobias-d_cs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest"
+  }
 }

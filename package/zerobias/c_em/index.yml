@@ -1,11 +1,11 @@
-id: e02305b9-add0-5390-8d79-87d95c29f5bd
+id: 002c28d7-69b9-4fcd-ad91-950e5ccbe40e
 name: Exposure Management
 code: c_em
 description: Exposure Management
-status: publishing
+status: published
 externalId: Exposure Management
 imageUrl: 'https://cdn.auditmation.io/logos/zerobias-c_em-segment.svg'
-ownerId: 28efd6b5-fd17-5b56-a45e-fe3263189666
+ownerId: 00000000-0000-0000-0000-000000000000
 tags: []
 parents:
   - d_cs
@@ -16,10 +16,5 @@ aliases:
   - Exposure Management
   - exposure management
   - EXPOSURE MANAGEMENT
-  - Exposure Management
-  - exposure management
-  - EXPOSURE MANAGEMENT
-created: '2025-08-25T10:56:34.562Z'
-updated: '2025-11-10T18:14:55.334Z'
 environment: dev
 hostname: 'https://api.ci.zerobias.com'
