@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-bundle",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-bundle",
-      "version": "0.0.20",
+      "version": "0.0.21",
       "license": "ISC",
       "dependencies": {
         "@zerobias-org/segment_type-zerobias": "1.0.15",
@@ -20,7 +20,7 @@
         "@zerobias-org/segment-zerobias-c_dam": "1.0.2",
         "@zerobias-org/segment-zerobias-c_de": "1.0.2",
         "@zerobias-org/segment-zerobias-c_devices": "1.0.19",
-        "@zerobias-org/segment-zerobias-c_em": "1.0.4",
+        "@zerobias-org/segment-zerobias-c_em": "1.0.5",
         "@zerobias-org/segment-zerobias-c_es": "1.0.4",
         "@zerobias-org/segment-zerobias-c_is": "1.0.4",
         "@zerobias-org/segment-zerobias-c_itg": "1.0.19",
@@ -1383,11 +1383,13 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_em": {
-      "version": "1.0.4",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_em/-/segment-zerobias-c_em-1.0.4.tgz",
-      "integrity": "sha512-W0EqcDVyqrshDpOlDgdWzzRjcZpiwcHYUnGkX8NY8JOnRT6G+CJdbSuofO8P69vvlPuwMZnLnwnacpqxGrnIzw==",
+      "version": "1.0.5",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_em/-/segment-zerobias-c_em-1.0.5.tgz",
+      "integrity": "sha512-Hfx6vo6VQhQCwY+lpj4giLE/wQmuiFxtJ3HTUO+9tApNmdcLmwLwXjIVA/61rCBxlUZsc6xJo8gcLufBgUjErQ==",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
+        "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest",
+        "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
         "@zerobias-org/segment-zerobias-d_cs": "latest"
       }
@@ -4027,11 +4029,13 @@
       }
     },
     "@zerobias-org/segment-zerobias-c_em": {
-      "version": "1.0.4",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_em/-/segment-zerobias-c_em-1.0.4.tgz",
-      "integrity": "sha512-W0EqcDVyqrshDpOlDgdWzzRjcZpiwcHYUnGkX8NY8JOnRT6G+CJdbSuofO8P69vvlPuwMZnLnwnacpqxGrnIzw==",
+      "version": "1.0.5",
+      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_em/-/segment-zerobias-c_em-1.0.5.tgz",
+      "integrity": "sha512-Hfx6vo6VQhQCwY+lpj4giLE/wQmuiFxtJ3HTUO+9tApNmdcLmwLwXjIVA/61rCBxlUZsc6xJo8gcLufBgUjErQ==",
       "requires": {
         "@auditlogic/vendor-zerobias": "latest",
+        "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest",
+        "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
         "@zerobias-org/segment-zerobias-d_cs": "latest"
       }
