@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_em",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Exposure Management segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,10 +29,10 @@
     "package": "zerobias.c_em.segment"
   },
   "dependencies": {
-    "@zerobias-org/segment_type-zerobias": "latest",
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-d_cs": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest",
     "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest"
+    "@zerobias-org/segment-zerobias-d_cs": "latest",
+    "@zerobias-org/segment_type-zerobias": "latest"
   }
 }

@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-c_em@1.0.4...@zerobias-org/segment-zerobias-c_em@1.0.5) (2025-11-12)
+
+
+### Bug Fixes
+
+* publishing new artifact @zerbobias-org/segment-zerobias-c_em ([4651839](https://github.com/zerobias-org/segment/commit/4651839e147e076cb88e99a1d7a05beeede33a7a))
+* publishing new artifact @zerbobias-org/segment-zerobias-c_em ([42bc00b](https://github.com/zerobias-org/segment/commit/42bc00bee7badf15e140998b8d8dd5dea64888e7))
+
+
+
+
+
 ## [1.0.4](https://github.com/zerobias-org/segment/compare/@zerobias-org/segment-zerobias-c_em@1.0.4-rc.1...@zerobias-org/segment-zerobias-c_em@1.0.4) (2025-10-14)
 
 **Note:** Version bump only for package @zerobias-org/segment-zerobias-c_em
