@@ -1,0 +1,13 @@
+id: 39f898c6-28bf-491a-997d-e3e89d16e4d9 # Unique UUID
+name: Telemetry Pipeline
+description: Telemetry Pipeline tools provide a scalable and efficient way to collect, process, and deliver security telemetry from diverse sources to security analytics platforms for analysis and threat detection.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_tp-segment.png
+code: t_tp
+externalId: Telemetry Pipeline
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []

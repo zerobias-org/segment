@@ -1,0 +1,13 @@
+id: c1b3e9c5-9594-43aa-a034-c2d1960d55af # Unique UUID
+name: Cloud-Native Application Protection Platform (CNAPP)
+description: Cloud-Native Application Protection Platform (CNAPP) tools provide comprehensive security for cloud-native applications by integrating multiple security capabilities, such as workload protection, vulnerability management, and compliance monitoring, into a unified platform.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cnapp-segment.png
+code: t_cnapp
+externalId: Cloud-Native Application Protection Platform
+status: published
+parents:
+  - c_as
+tags: []
+aliases: []

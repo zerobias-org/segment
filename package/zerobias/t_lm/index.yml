@@ -1,0 +1,13 @@
+id: fc002deb-c5a0-4ef8-aeb3-b8ccb3ec26f3 # Unique UUID
+name: Log Management
+description: Log Management tools collect, store, and analyze log data from various sources to support security monitoring, compliance, and forensic investigations.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_lm-segment.png
+code: t_lm
+externalId: Log Management
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []
