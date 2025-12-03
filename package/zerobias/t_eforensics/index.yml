@@ -1,0 +1,13 @@
+id: 861bffd3-52d6-4c61-8857-2f0c18c1cddd # Unique UUID
+name: Endpoint Forensics
+description: Endpoint Forensics tools support the investigation of individual devices (e.g., computers, smartphones) connected to a network to identify evidence of compromise, malware, or unauthorized activity.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_eforensics-segment.png
+code: t_eforensics
+externalId: Endpoint Forensics
+status: published
+parents:
+  - c_es
+tags: []
+aliases: []

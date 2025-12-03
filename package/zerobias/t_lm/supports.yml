@@ -1,0 +1,12 @@
+# To link a segment to compliance features, use the following structure. 
+# supports:
+#   - complianceFeature: f_acm
+#     status: supported
+#     strength: high
+#   - complianceFeature: f_rta
+#     status: supported
+#     strength: high
+supports:
+  - complianceFeature: f_lm
+    status: supported
+    strength: high

@@ -1,0 +1,13 @@
+id: 475dfd5b-4cf5-413d-9fef-03a430cb797c # Unique UUID
+name: Extended Log Retention
+description: Extended Log Retention tools can store large volumes of log data for extended periods, in a cost-effective manner, to meet compliance requirements and support forensic investigations.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_elr-segment.png
+code: t_elr
+externalId: Extended Log Retention
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []

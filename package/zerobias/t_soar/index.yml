@@ -1,0 +1,13 @@
+id: caad7ebe-87d7-4ad2-b3ab-ef843cf5fa56 # Unique UUID
+name: Security Orchestration, Automation, and Response (SOAR)
+description: Security Orchestration, Automation, and Response (SOAR) tools combine threat management and incident response by connecting disparate security tools, automating repetitive tasks, and streamlining workflows.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_soar-segment.png
+code: t_soar
+externalId: Security Orchestration, Automation, and Response
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []
