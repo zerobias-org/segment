@@ -529,7 +529,7 @@ npm shrinkwrap
 - **[ContentArtifacts.md](../../ContentArtifacts.md)** - Content catalog system
 - **[zerobias-org/product/CLAUDE.md](../product/CLAUDE.md)** - Product definitions
 - **[zerobias-org/vendor/CLAUDE.md](../vendor/CLAUDE.md)** - Vendor catalog
-- **[auditmation/platform/dataloader/CLAUDE.md](../../auditmation/platform/dataloader/CLAUDE.md)** - Dataloader import
+- **[com/platform/dataloader/CLAUDE.md](../../com/platform/dataloader/CLAUDE.md)** - Dataloader import
 - **[README.md](README.md)** - Repository overview
 - **[Conventional Commits](https://www.conventionalcommits.org/)** - Commit message format
 
