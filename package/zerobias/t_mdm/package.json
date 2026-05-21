@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_mdm",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Mobile Device Management (MDM) segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -12,8 +12,7 @@
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
     "prepublishtest": "../../../scripts/prepublish.sh",
-    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../scripts/validate.ts"
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
