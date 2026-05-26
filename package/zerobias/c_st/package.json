@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_st",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Specialized Tools segment artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -12,8 +12,7 @@
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
     "prepublishtest": "../../../scripts/prepublish.sh",
-    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
-    "validate": "ts-node ../../../scripts/validate.ts"
+    "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
