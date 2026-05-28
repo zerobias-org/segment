@@ -1,0 +1,13 @@
+id: 47b0ab05-cc94-4a4d-b843-68d4bf6c33b4 # Unique UUID
+name: Managed Detection and Response (MDR)
+description: Managed Detection and Response (MDR) services provide organizations with outsourced threat detection, incident response, and continuous monitoring capabilities through a team of security experts.
+segmentType: service
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_mdr-segment.png
+code: s_mdr
+externalId: Managed Detection and Response
+status: published
+parents:
+  - c_es
+tags: []
+aliases: []

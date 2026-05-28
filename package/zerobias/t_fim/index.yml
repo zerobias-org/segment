@@ -1,0 +1,13 @@
+id: 32f7e929-3f14-4c67-9db1-8956a18a517a # Unique UUID
+name: File Integrity Monitoring (FIM)
+description: File Integrity Monitoring (FIM) tools monitor and detect changes to critical system files, configurations, and content to identify potential security breaches or unauthorized modifications.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_fim-segment.png
+code: t_fim
+externalId: File Integrity Monitoring
+status: published
+parents:
+  - c_em
+tags: []
+aliases: []

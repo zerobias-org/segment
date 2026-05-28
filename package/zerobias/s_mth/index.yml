@@ -1,0 +1,13 @@
+id: cb0c405d-8fb8-448b-b729-2fcbc054723f # Unique UUID
+name: Managed Threat Hunting
+description: Managed Threat Hunting services provide organisations with expert security analysts who proactively search for threats and indicators of compromise within their IT environments.
+segmentType: service
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_mth-segment.png
+code: s_mth
+externalId: Managed Threat Hunting
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []

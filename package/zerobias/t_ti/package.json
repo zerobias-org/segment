@@ -1,0 +1,37 @@
+{
+  "name": "@zerobias-org/segment-zerobias-t_ti",
+  "version": "0.0.0",
+  "description": "Threat Intelligence segment artifact",
+  "author": "opignault@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/segment.git",
+    "directory": "package/zerobias/t_ti/"
+  },
+  "scripts": {
+    "nx:publish": "../../../scripts/publish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
+    "validate": "ts-node ../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "index.yml",
+    "logo.png",
+    "supports.yml"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.4.5",
+    "import-artifact": "segment",
+    "package": "zerobias.t_ti.segment"
+  },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/compliance_feature-zerobias-f_ti": "latest",
+    "@zerobias-org/segment-zerobias-c_spao": "latest",
+    "@zerobias-org/segment_type-zerobias": "latest"
+  }
+}

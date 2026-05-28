@@ -1,0 +1,13 @@
+id: f665acb0-fa4d-405b-af5b-3a49a9ecad7d # Unique UUID
+name: Threat Intelligence
+description: Threat Intelligence tools collect, analyze, and disseminate information about current and emerging cyber threats to help organizations proactively defend against attacks.
+segmentType: tool
+ownerId: 00000000-0000-0000-0000-000000000000
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_ti-segment.png
+code: t_ti
+externalId: Threat Intelligence
+status: published
+parents:
+  - c_spao
+tags: []
+aliases: []
