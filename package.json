@@ -24,8 +24,5 @@
     "@commitlint/config-conventional": "^12.0.1",
     "husky": "^5.1.3",
     "tsx": "^4.21.0"
-  },
-  "workspaces": [
-    "package/**"
-  ]
+  }
 }
