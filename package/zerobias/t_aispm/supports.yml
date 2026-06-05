@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_aispm
+    status: supported
+    strength: high
