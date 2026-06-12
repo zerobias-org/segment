@@ -6,6 +6,18 @@ version: "1.0.0"
 # as vendor / tag / module). The task creates and deletes its own branch
 # via the Neon API.
 env:
+  # ZeroBias platform API key. The dataloader-service /branches call
+  # (NeonDataloaderTask) authenticates with this; it also satisfies the
+  # pkg.zerobias.org registry. `source: env` whitelists it through zbb's
+  # hermetic seal (gate's BASE_CREDS contract does NOT include it).
+  # Must be a superuser or org-admin principal, else the service returns 403.
+  ZB_TOKEN:
+    type: string
+    source: env
+    description: ZeroBias platform API key for the dataloader-service and ZB registry
+    required: true
+    mask: true
+
   NEON_API_KEY:
     source: vault
     vault: "operations-kv/neon/content.api-key"
