@@ -1,0 +1,12 @@
+id: 7828c010-a239-456e-9a98-f410dab48263
+name: Software Development
+description: Custom software, application, and data engineering services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_swdev-segment.svg
+code: c_swdev
+externalId: Software Development
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

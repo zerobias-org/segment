@@ -1,0 +1,12 @@
+id: a8ea3275-4509-4a34-add9-d66b94f2239c
+name: Human Resources
+description: Staffing, recruiting, and human resources services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_hr-segment.svg
+code: c_hr
+externalId: Human Resources
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

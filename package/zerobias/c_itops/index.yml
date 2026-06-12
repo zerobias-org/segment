@@ -1,0 +1,12 @@
+id: cbf47aa0-3aca-4834-90d5-0f50aa895237
+name: IT Operations
+description: Managed IT operations and end-user support services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_itops-segment.svg
+code: c_itops
+externalId: IT Operations
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

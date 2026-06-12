@@ -1,0 +1,12 @@
+id: dbfb680e-56d4-4145-80a9-68fd94558010
+name: Application Security
+description: Application and software security services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_appsec-segment.svg
+code: c_appsec
+externalId: Application Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

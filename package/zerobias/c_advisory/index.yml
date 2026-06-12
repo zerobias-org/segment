@@ -1,0 +1,12 @@
+id: 0a67ce37-899e-4ba9-ac82-5bbac591491a
+name: Advisory and Consulting
+description: Business strategy, process, and financial advisory services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_advisory-segment.svg
+code: c_advisory
+externalId: Advisory and Consulting
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 949ff01a-b201-4d30-879a-8aad46502c3d
+name: OT and IoT Security
+description: Operational technology and IoT security services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_otsec-segment.svg
+code: c_otsec
+externalId: OT and IoT Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 84127017-82d0-4c08-ab20-4d6250bfb63e
+name: Communications
+description: Telecommunications and managed communications services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_commsvc-segment.svg
+code: c_commsvc
+externalId: Communications
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 6f1e42c3-f7e1-4613-ba89-8927a2314549
+name: Accessibility Compliance
+description: Accessibility auditing and remediation services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_accessibility-segment.svg
+code: c_accessibility
+externalId: Accessibility Compliance
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

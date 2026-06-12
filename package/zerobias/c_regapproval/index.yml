@@ -1,0 +1,12 @@
+id: 4d521f20-a56b-4925-832f-5d7afe9d4f43
+name: Regulatory Approvals and Licensing
+description: Regulatory approval, licensing, and product certification services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_regapproval-segment.svg
+code: c_regapproval
+externalId: Regulatory Approvals and Licensing
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 6651c613-1a6e-4585-97e7-d064bec432bc
+name: Endpoint and Device Security
+description: Endpoint detection, response, and device security services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_endpoint-segment.svg
+code: c_endpoint
+externalId: Endpoint and Device Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

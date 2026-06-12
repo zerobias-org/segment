@@ -1,0 +1,12 @@
+id: c0a361d0-0c6e-451d-88ac-182afc62386c
+name: Cryptography and Key Management
+description: Encryption, key management, and PKI services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_crypto-segment.svg
+code: c_crypto
+externalId: Cryptography and Key Management
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 0f9c6042-2f83-4db8-a794-c2609154f7d5
+name: Audit and Certification
+description: Compliance audit, framework readiness, and certification services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_audit-segment.svg
+code: c_audit
+externalId: Audit and Certification
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

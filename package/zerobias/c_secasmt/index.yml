@@ -1,0 +1,12 @@
+id: a65940d6-4353-4b3f-bb88-8dcb04637b01
+name: Security Testing and Assessment
+description: Offensive and evaluative security testing and assessment services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_secasmt-segment.svg
+code: c_secasmt
+externalId: Security Testing and Assessment
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

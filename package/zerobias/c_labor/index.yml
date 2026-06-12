@@ -1,0 +1,12 @@
+id: 87dc303e-f01a-40d6-9a4d-e1c9a994928a
+name: Employment and Labor Compliance
+description: Employment, labor, and immigration compliance services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_labor-segment.svg
+code: c_labor
+externalId: Employment and Labor Compliance
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 6aa63a8b-279a-4b2d-b793-496189e1ac4e
+name: Proposals and Procurement
+description: Proposal, grant writing, and procurement support services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_procurement-segment.svg
+code: c_procurement
+externalId: Proposals and Procurement
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: d457568f-f1d0-4917-8666-42b023f0a6b4
+name: Financial Crime Compliance
+description: KYC, AML, and sanctions compliance services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_fincrime-segment.svg
+code: c_fincrime
+externalId: Financial Crime Compliance
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

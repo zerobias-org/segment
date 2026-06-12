@@ -1,0 +1,12 @@
+id: 7eb9a477-0fae-4228-857c-4e51ab9c5fb6
+name: Project and Program Management
+description: Project and program management services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_pmo-segment.svg
+code: c_pmo
+externalId: Project and Program Management
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

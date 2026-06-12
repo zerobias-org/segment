@@ -1,0 +1,12 @@
+id: 3faff6f3-9cdf-492c-9c36-0a27f97919c6
+name: Insurance and Bonding
+description: Insurance advisory, surety, and bonding services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_insurance-segment.svg
+code: c_insurance
+externalId: Insurance and Bonding
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

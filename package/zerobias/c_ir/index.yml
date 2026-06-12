@@ -1,0 +1,12 @@
+id: 1acacc9d-d8aa-4ead-8c52-51e23853a198
+name: Incident Response and Forensics
+description: Incident response, digital forensics, and breach recovery services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ir-segment.svg
+code: c_ir
+externalId: Incident Response and Forensics
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

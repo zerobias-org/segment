@@ -1,0 +1,12 @@
+id: 006020c2-0477-4880-83e6-b30dc7a21c9d
+name: AI Governance and Security
+description: Artificial intelligence governance and security services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ai-segment.svg
+code: c_ai
+externalId: AI Governance and Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []
