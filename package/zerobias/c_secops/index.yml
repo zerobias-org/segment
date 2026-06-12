@@ -1,0 +1,12 @@
+id: 31ba90f1-29a1-430f-a55a-f62d442c8f68
+name: Security Operations
+description: Managed security monitoring, detection, and operations services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_secops-segment.svg
+code: c_secops
+externalId: Security Operations
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 73eca602-a66e-48c8-861c-ab4e890e74eb
+name: Training and Education
+description: Security awareness and technical training services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_train-segment.svg
+code: c_train
+externalId: Training and Education
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

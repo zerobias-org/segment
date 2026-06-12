@@ -1,0 +1,12 @@
+id: b2b2d2b6-02ca-4a70-9849-b87d1a49b291
+name: Cloud Security
+description: Cloud security posture and protection services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_cloudsec-segment.svg
+code: c_cloudsec
+externalId: Cloud Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

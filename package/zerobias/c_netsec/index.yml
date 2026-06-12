@@ -1,0 +1,12 @@
+id: 98db93ac-9494-4de7-8c1e-31a7621b423c
+name: Network Security
+description: Network security management and protection services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_netsec-segment.svg
+code: c_netsec
+externalId: Network Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

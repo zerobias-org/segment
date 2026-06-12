@@ -1,0 +1,12 @@
+id: ba949857-6c4a-4f8b-88ef-af0e5e364bb7
+name: Business Certifications and Registrations
+description: Business certification, registration, and eligibility services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_bizcert-segment.svg
+code: c_bizcert
+externalId: Business Certifications and Registrations
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

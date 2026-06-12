@@ -1,0 +1,12 @@
+id: e7765948-0afd-4981-abea-719a02bb5566
+name: Data Protection and Privacy
+description: Data protection, privacy, and loss-prevention services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_dataprivacy-segment.svg
+code: c_dataprivacy
+externalId: Data Protection and Privacy
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

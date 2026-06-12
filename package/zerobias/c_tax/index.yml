@@ -1,0 +1,12 @@
+id: c1cb8e0e-7d64-4874-982a-4afbdbfbaad7
+name: Tax and Accounting
+description: Tax, accounting, bookkeeping, and financial audit services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_tax-segment.svg
+code: c_tax
+externalId: Tax and Accounting
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

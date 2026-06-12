@@ -1,0 +1,12 @@
+id: 88fdf71f-fa57-433c-a861-69f17efdd1a9
+name: Business Resilience
+description: Backup, disaster recovery, and business continuity services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_resilience-segment.svg
+code: c_resilience
+externalId: Business Resilience
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

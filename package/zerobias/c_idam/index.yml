@@ -1,0 +1,12 @@
+id: 58ff442b-e82a-4fe2-bc9b-f87588f1b172
+name: Identity and Access
+description: Identity and access management services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_idam-segment.svg
+code: c_idam
+externalId: Identity and Access
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

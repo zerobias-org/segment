@@ -1,0 +1,12 @@
+id: 3167a110-02bb-4a50-adf1-d99ec0a6324c
+name: Physical and Environmental Security
+description: Physical security, facility access, and environmental controls services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_physical-segment.svg
+code: c_physical
+externalId: Physical and Environmental Security
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

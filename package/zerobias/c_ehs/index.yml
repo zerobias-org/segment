@@ -1,0 +1,12 @@
+id: 0ec08ade-722f-4877-9cd6-9e0a87d246aa
+name: Environmental, Health and Safety
+description: Environmental, occupational safety, and ESG services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ehs-segment.svg
+code: c_ehs
+externalId: Environmental, Health and Safety
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

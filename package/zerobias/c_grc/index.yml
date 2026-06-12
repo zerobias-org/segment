@@ -1,0 +1,12 @@
+id: 2f04935a-1d4b-45d9-8228-4ebb5ee09d1b
+name: Governance, Risk and Compliance
+description: Governance, risk management, and compliance advisory services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_grc-segment.svg
+code: c_grc
+externalId: Governance, Risk and Compliance
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

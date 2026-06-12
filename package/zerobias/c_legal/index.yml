@@ -1,0 +1,12 @@
+id: 79fb747b-619d-484c-b1d9-77ab558feba5
+name: Legal and Regulatory
+description: Legal, regulatory, and compliance counsel services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_legal-segment.svg
+code: c_legal
+externalId: Legal and Regulatory
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []

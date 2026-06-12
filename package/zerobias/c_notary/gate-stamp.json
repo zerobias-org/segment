@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-uat.0",
+  "branch": "feat/service-segments-l1-categories",
+  "sourceHash": "4c56b8a6534b896d266fa28603f2595b0896be2dc7d44a0ccd056b0ffe21fbff",
+  "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "tasks": {
+    "validate": "passed",
+    "lint": "passed",
+    "compile": "passed",
+    "test": "passed",
+    "testDirect": "passed",
+    "testDocker": "passed",
+    "testDataloader": "passed",
+    "buildArtifacts": "passed"
+  },
+  "tests": {
+      "unit": { "expected": 0, "ran": 0, "status": "skipped" },
+      "integration": { "expected": 0, "ran": 0, "status": "skipped" },
+      "e2e": { "expected": 0, "ran": 0, "status": "skipped" }
+  }
+}

@@ -1,0 +1,12 @@
+id: 915c0783-f4e0-4077-b12c-f726504d78c2
+name: Validation and Certification
+description: Product validation, independent verification, and certification services.
+segmentType: category
+imageUrl: https://cdn.auditmation.io/logos/zerobias-c_validation-segment.svg
+code: c_validation
+externalId: Validation and Certification
+status: published
+parents:
+  - d_svc
+tags: []
+aliases: []
