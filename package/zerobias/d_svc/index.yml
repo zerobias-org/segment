@@ -1,0 +1,11 @@
+id: 4160e9a9-90d9-4de0-89b0-ca8e213298f3
+name: Services
+description: Professional and managed services offered by providers in the marketplace.
+segmentType: domain
+imageUrl: https://cdn.auditmation.io/logos/zerobias-d_svc-segment.svg
+code: d_svc
+externalId: Services
+status: published
+parents: []
+tags: []
+aliases: []
