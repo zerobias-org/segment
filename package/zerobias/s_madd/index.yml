@@ -1,0 +1,12 @@
+id: b7454b83-5d43-4af5-bf9c-e6a71531eaf9
+name: Mergers, Acquisitions and Due Diligence
+description: Mergers, acquisitions, and due diligence advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_madd-segment.svg
+code: s_madd
+externalId: Mergers, Acquisitions and Due Diligence
+status: published
+parents:
+  - c_advisory
+tags: []
+aliases: []

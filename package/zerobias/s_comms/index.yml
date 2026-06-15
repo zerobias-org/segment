@@ -1,0 +1,12 @@
+id: 5fc98ead-f01d-4127-bd7b-3bb7e09096e2
+name: Telco and Communications
+description: Telecommunications and managed communications services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_comms-segment.svg
+code: s_comms
+externalId: Telco and Communications
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []

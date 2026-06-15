@@ -1,0 +1,12 @@
+id: 0f64688d-8b63-4621-9d01-6d14900997c2
+name: Contact Center Services (CCaaS)
+description: Contact center as a service.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_ccaas-segment.svg
+code: s_ccaas
+externalId: Contact Center Services (CCaaS)
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []

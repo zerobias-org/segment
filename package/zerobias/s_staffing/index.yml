@@ -1,0 +1,12 @@
+id: 518c74d5-cade-47a3-a1a3-c80fe98a76b8
+name: Staffing and Recruiting
+description: Staffing and recruiting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_staffing-segment.svg
+code: s_staffing
+externalId: Staffing and Recruiting
+status: published
+parents:
+  - c_hr
+tags: []
+aliases: []

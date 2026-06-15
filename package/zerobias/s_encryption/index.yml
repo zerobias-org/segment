@@ -1,0 +1,12 @@
+id: b48d8bc6-3cc9-4fa9-a82a-d412247ed5c7
+name: Encryption Services
+description: Data encryption implementation and management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_encryption-segment.svg
+code: s_encryption
+externalId: Encryption Services
+status: published
+parents:
+  - c_crypto
+tags: []
+aliases: []

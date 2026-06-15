@@ -1,0 +1,12 @@
+id: b35b047b-38ff-4d39-8f49-e9db9db15b96
+name: Security Awareness Training
+description: Security awareness training services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_awareness-segment.svg
+code: s_awareness
+externalId: Security Awareness Training
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

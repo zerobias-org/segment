@@ -1,0 +1,12 @@
+id: 88348b97-7e29-4231-854e-7db6d53aa37c
+name: AI and ML Security
+description: AI and machine learning security services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_aisec-segment.svg
+code: s_aisec
+externalId: AI and ML Security
+status: published
+parents:
+  - c_ai
+tags: []
+aliases: []

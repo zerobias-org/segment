@@ -1,0 +1,12 @@
+id: 393b84f0-7a54-419c-b21a-decd15c749b7
+name: Policy and Program Development
+description: Security policy and program development services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_policy-segment.svg
+code: s_policy
+externalId: Policy and Program Development
+status: published
+parents:
+  - c_grc
+tags: []
+aliases: []

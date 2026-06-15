@@ -1,0 +1,12 @@
+id: 84e76d15-05d4-4225-a6d3-0ee4a911dbbb
+name: Disaster Recovery as a Service (DRaaS)
+description: Disaster recovery as a service.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_draas-segment.svg
+code: s_draas
+externalId: Disaster Recovery as a Service (DRaaS)
+status: published
+parents:
+  - c_resilience
+tags: []
+aliases: []

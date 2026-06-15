@@ -1,0 +1,12 @@
+id: 70e7e778-8f7a-40f6-86d6-0477f5be90cb
+name: Product Certification
+description: Product certification services (CE, UL, FCC).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_prodcert-segment.svg
+code: s_prodcert
+externalId: Product Certification
+status: published
+parents:
+  - c_regapproval
+tags: []
+aliases: []

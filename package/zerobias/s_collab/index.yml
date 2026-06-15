@@ -1,0 +1,12 @@
+id: a77543be-c020-4d0e-b68b-b8d7ab48a59d
+name: Collaboration Platform Management
+description: Collaboration platform management services (Slack, Teams, Zoom).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_collab-segment.svg
+code: s_collab
+externalId: Collaboration Platform Management
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []

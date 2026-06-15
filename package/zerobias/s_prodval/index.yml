@@ -1,0 +1,12 @@
+id: 672d0310-e202-4781-a8f9-6740df1d77ea
+name: Product Validation and Testing
+description: Product validation and testing services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_prodval-segment.svg
+code: s_prodval
+externalId: Product Validation and Testing
+status: published
+parents:
+  - c_validation
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 7fcddbf0-1875-4cb8-a4fa-13f7aaf911c7
+name: Threat Hunting
+description: Proactive threat hunting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_threathunt-segment.svg
+code: s_threathunt
+externalId: Threat Hunting
+status: published
+parents:
+  - c_secops
+tags: []
+aliases: []

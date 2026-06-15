@@ -1,0 +1,12 @@
+id: 1106eb7a-52b3-4b40-ad54-c6d83cb86802
+name: Management and Strategy Consulting
+description: Management and strategy consulting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_strategy-segment.svg
+code: s_strategy
+externalId: Management and Strategy Consulting
+status: published
+parents:
+  - c_advisory
+tags: []
+aliases: []

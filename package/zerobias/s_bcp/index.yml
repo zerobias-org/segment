@@ -1,0 +1,12 @@
+id: 465aeedd-1141-40df-a912-0a796f0ceac0
+name: Business Continuity Planning
+description: Business continuity planning and advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bcp-segment.svg
+code: s_bcp
+externalId: Business Continuity Planning
+status: published
+parents:
+  - c_resilience
+tags: []
+aliases: []

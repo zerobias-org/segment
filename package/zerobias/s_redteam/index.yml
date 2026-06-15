@@ -1,0 +1,12 @@
+id: 5429e2a9-8096-4eb2-bb7a-3e527ddfc07d
+name: Red Team and Adversary Emulation
+description: Red team and adversary emulation engagements.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_redteam-segment.svg
+code: s_redteam
+externalId: Red Team and Adversary Emulation
+status: published
+parents:
+  - c_secasmt
+tags: []
+aliases: []

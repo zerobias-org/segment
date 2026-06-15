@@ -1,0 +1,12 @@
+id: 089d1778-dbe7-4068-a52d-80f9a8516deb
+name: Health and Safety Training
+description: Health, safety, and OSHA workplace training services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_safetytrain-segment.svg
+code: s_safetytrain
+externalId: Health and Safety Training
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

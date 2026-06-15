@@ -1,0 +1,12 @@
+id: 78ca4555-956c-4fc5-8304-cf7e639c5b7a
+name: QA and Software Testing
+description: Software quality assurance and testing services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_swtest-segment.svg
+code: s_swtest
+externalId: QA and Software Testing
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []

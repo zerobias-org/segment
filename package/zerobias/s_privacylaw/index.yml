@@ -1,0 +1,12 @@
+id: acac96f4-beae-4a9a-8ed7-b35e44bfcc5e
+name: Privacy and Data Protection Law
+description: Privacy and data protection legal services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_privacylaw-segment.svg
+code: s_privacylaw
+externalId: Privacy and Data Protection Law
+status: published
+parents:
+  - c_legal
+tags: []
+aliases: []

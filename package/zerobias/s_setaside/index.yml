@@ -1,0 +1,12 @@
+id: 5017eaee-350a-44a2-a59f-21926205a610
+name: Set-Aside Certification
+description: Set-aside certification services (MBE, WBE, DBE, 8a).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_setaside-segment.svg
+code: s_setaside
+externalId: Set-Aside Certification
+status: published
+parents:
+  - c_bizcert
+tags: []
+aliases: []

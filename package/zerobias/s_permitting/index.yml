@@ -1,0 +1,12 @@
+id: ba4a4a91-72d6-4ae7-a08c-9c432c1e2db9
+name: Permitting and Licensing
+description: Permitting and licensing services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_permitting-segment.svg
+code: s_permitting
+externalId: Permitting and Licensing
+status: published
+parents:
+  - c_regapproval
+tags: []
+aliases: []

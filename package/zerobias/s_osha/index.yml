@@ -1,0 +1,12 @@
+id: 98d0ed3a-304c-42b3-b094-87c573eaa110
+name: Occupational Health and Safety
+description: Occupational health and safety (OSHA) services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_osha-segment.svg
+code: s_osha
+externalId: Occupational Health and Safety
+status: published
+parents:
+  - c_ehs
+tags: []
+aliases: []

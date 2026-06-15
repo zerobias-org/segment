@@ -1,0 +1,12 @@
+id: 1e6b672d-7d35-4233-bcfe-4c34b8261c17
+name: Data Loss Prevention
+description: Managed data loss prevention services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_dlp-segment.svg
+code: s_dlp
+externalId: Data Loss Prevention
+status: published
+parents:
+  - c_dataprivacy
+tags: []
+aliases: []

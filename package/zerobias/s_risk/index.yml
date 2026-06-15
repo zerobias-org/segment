@@ -1,0 +1,12 @@
+id: 814ea3bd-2a1f-474d-b3e5-174c8da10f80
+name: Risk Assessment
+description: Risk assessment and advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_risk-segment.svg
+code: s_risk
+externalId: Risk Assessment
+status: published
+parents:
+  - c_grc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 8172b196-9cfb-41cc-82da-91790ade61ed
+name: Proposal and RFP Writing
+description: Proposal and RFP writing services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_proposalwriting-segment.svg
+code: s_proposalwriting
+externalId: Proposal and RFP Writing
+status: published
+parents:
+  - c_procurement
+tags: []
+aliases: []

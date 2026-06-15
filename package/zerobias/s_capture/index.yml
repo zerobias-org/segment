@@ -1,0 +1,12 @@
+id: af72b7ce-b47c-4b1a-911c-5b45968e7809
+name: Capture and Bid Management
+description: Capture and bid management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_capture-segment.svg
+code: s_capture
+externalId: Capture and Bid Management
+status: published
+parents:
+  - c_procurement
+tags: []
+aliases: []

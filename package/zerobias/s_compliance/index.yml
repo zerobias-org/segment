@@ -1,0 +1,12 @@
+id: 222abdbd-0c07-4dee-afda-e4a2ff8feca1
+name: Compliance Monitoring
+description: Compliance monitoring and assessment services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_compliance-segment.svg
+code: s_compliance
+externalId: Compliance Monitoring
+status: published
+parents:
+  - c_grc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 8947bfbe-a981-4241-ac50-9eab14ad9b6b
+name: Due Diligence Investigations
+description: Due diligence investigation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_duediligence-segment.svg
+code: s_duediligence
+externalId: Due Diligence Investigations
+status: published
+parents:
+  - c_screening
+tags: []
+aliases: []

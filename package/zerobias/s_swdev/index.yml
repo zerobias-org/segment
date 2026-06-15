@@ -1,0 +1,12 @@
+id: ef2b2a1b-ed56-47e2-acec-2d1455349cc8
+name: Custom Software Development
+description: Custom software development services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_swdev-segment.svg
+code: s_swdev
+externalId: Custom Software Development
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []

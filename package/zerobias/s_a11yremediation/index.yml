@@ -1,0 +1,12 @@
+id: d1155a47-902d-415e-ae20-efa2e1fab1e2
+name: Accessibility Remediation
+description: Accessibility remediation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_a11yremediation-segment.svg
+code: s_a11yremediation
+externalId: Accessibility Remediation
+status: published
+parents:
+  - c_accessibility
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 1eea9f2f-e895-46cb-96c9-a633151acb0e
+name: Software Asset Management
+description: Software asset and license management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_sam-segment.svg
+code: s_sam
+externalId: Software Asset Management
+status: published
+parents:
+  - c_asset
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 492854e1-b26c-4d91-82e0-8129ee2b0f45
+name: Digital Forensics
+description: Digital forensics and investigation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_forensics-segment.svg
+code: s_forensics
+externalId: Digital Forensics
+status: published
+parents:
+  - c_ir
+tags: []
+aliases: []

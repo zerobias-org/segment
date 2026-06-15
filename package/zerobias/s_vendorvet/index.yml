@@ -1,0 +1,12 @@
+id: 13964aa4-2f4f-4c62-9e35-c712f18de033
+name: Vendor and Supplier Vetting
+description: Vendor and supplier vetting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_vendorvet-segment.svg
+code: s_vendorvet
+externalId: Vendor and Supplier Vetting
+status: published
+parents:
+  - c_screening
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 8a104362-8ae3-4692-b95d-688d2f7ebddc
+name: Identity Governance (IGA)
+description: Identity governance and administration services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_iga-segment.svg
+code: s_iga
+externalId: Identity Governance (IGA)
+status: published
+parents:
+  - c_idam
+tags: []
+aliases: []

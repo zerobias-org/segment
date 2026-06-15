@@ -1,0 +1,12 @@
+id: 47e0f154-3ed3-48d4-9abc-ba381a23c52c
+name: Cyber Insurance Advisory
+description: Cyber insurance advisory and placement services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_cyberins-segment.svg
+code: s_cyberins
+externalId: Cyber Insurance Advisory
+status: published
+parents:
+  - c_insurance
+tags: []
+aliases: []

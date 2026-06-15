@@ -1,0 +1,12 @@
+id: e7e4ec6a-ddb9-490f-ba15-0676334c2c88
+name: Workers Compensation
+description: Workers compensation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_workerscomp-segment.svg
+code: s_workerscomp
+externalId: Workers Compensation
+status: published
+parents:
+  - c_labor
+tags: []
+aliases: []

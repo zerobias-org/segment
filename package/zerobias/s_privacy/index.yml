@@ -1,0 +1,12 @@
+id: e7ceffdc-4739-44da-9232-7b66748c91e0
+name: Data Privacy Consulting
+description: Data privacy consulting services (GDPR, CCPA).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_privacy-segment.svg
+code: s_privacy
+externalId: Data Privacy Consulting
+status: published
+parents:
+  - c_dataprivacy
+tags: []
+aliases: []

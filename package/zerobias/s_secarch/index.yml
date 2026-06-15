@@ -1,0 +1,12 @@
+id: 6b47d61e-0e21-47e9-90df-21e6a46b0d07
+name: Security Architecture Review
+description: Security architecture design and review services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_secarch-segment.svg
+code: s_secarch
+externalId: Security Architecture Review
+status: published
+parents:
+  - c_secasmt
+tags: []
+aliases: []

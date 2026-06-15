@@ -1,0 +1,12 @@
+id: 520ca6a0-e9f6-48eb-911a-59ece0c55275
+name: Sanctions Screening
+description: Sanctions screening services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_sanctions-segment.svg
+code: s_sanctions
+externalId: Sanctions Screening
+status: published
+parents:
+  - c_fincrime
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 82d3eb64-fd36-4e72-ad30-7958fd556d5e
+name: Business Licensing and Incorporation
+description: Business licensing and incorporation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bizlicense-segment.svg
+code: s_bizlicense
+externalId: Business Licensing and Incorporation
+status: published
+parents:
+  - c_bizcert
+tags: []
+aliases: []

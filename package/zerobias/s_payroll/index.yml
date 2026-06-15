@@ -1,0 +1,12 @@
+id: 6c9838a6-3f68-4339-a6f1-0bee15b6894b
+name: Payroll and Benefits Administration
+description: Payroll and benefits administration services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_payroll-segment.svg
+code: s_payroll
+externalId: Payroll and Benefits Administration
+status: published
+parents:
+  - c_hr
+tags: []
+aliases: []

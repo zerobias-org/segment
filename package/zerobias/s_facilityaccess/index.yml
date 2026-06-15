@@ -1,0 +1,12 @@
+id: d3b0da7d-a5e2-4ab9-86eb-c487a2a82d9e
+name: Facility Access Control
+description: Facility access control services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_facilityaccess-segment.svg
+code: s_facilityaccess
+externalId: Facility Access Control
+status: published
+parents:
+  - c_physical
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: f5ceb37f-bb27-46b2-b194-a7fd153b6dac
+name: AI Governance
+description: Artificial intelligence governance and risk services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_aigov-segment.svg
+code: s_aigov
+externalId: AI Governance
+status: published
+parents:
+  - c_ai
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: f50c6a99-6d5b-4f94-b026-974da4573c7f
+name: Third-Party Risk Management
+description: Third-party and vendor risk management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_tprm-segment.svg
+code: s_tprm
+externalId: Third-Party Risk Management
+status: published
+parents:
+  - c_grc
+tags: []
+aliases: []

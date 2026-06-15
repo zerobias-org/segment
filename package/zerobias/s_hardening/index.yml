@@ -1,0 +1,12 @@
+id: 121879fa-a3ec-46e0-bf42-284cc422651a
+name: Secure Configuration and Hardening
+description: Secure configuration and system hardening services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_hardening-segment.svg
+code: s_hardening
+externalId: Secure Configuration and Hardening
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

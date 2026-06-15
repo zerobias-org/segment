@@ -1,0 +1,12 @@
+id: 9958668d-b97f-4696-9ff3-a94d037385a6
+name: Intellectual Property and Licensing
+description: Intellectual property and licensing legal services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_iplaw-segment.svg
+code: s_iplaw
+externalId: Intellectual Property and Licensing
+status: published
+parents:
+  - c_legal
+tags: []
+aliases: []

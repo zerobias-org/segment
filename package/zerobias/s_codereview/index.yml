@@ -1,0 +1,12 @@
+id: cc44fa5f-bacd-4dfb-8bc6-acf018383936
+name: Secure Code Review
+description: Secure code review services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_codereview-segment.svg
+code: s_codereview
+externalId: Secure Code Review
+status: published
+parents:
+  - c_appsec
+tags: []
+aliases: []

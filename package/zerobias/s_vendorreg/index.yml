@@ -1,0 +1,12 @@
+id: 73ce23b4-edee-4956-86a6-954c70091278
+name: Vendor Registration and Qualification
+description: Vendor registration and qualification services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_vendorreg-segment.svg
+code: s_vendorreg
+externalId: Vendor Registration and Qualification
+status: published
+parents:
+  - c_procurement
+tags: []
+aliases: []

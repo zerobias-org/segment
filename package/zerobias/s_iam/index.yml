@@ -1,0 +1,12 @@
+id: 8cec43d8-94ba-404e-825c-57af0297e906
+name: Managed IAM
+description: Managed identity and access management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_iam-segment.svg
+code: s_iam
+externalId: Managed IAM
+status: published
+parents:
+  - c_idam
+tags: []
+aliases: []

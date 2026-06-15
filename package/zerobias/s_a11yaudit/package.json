@@ -1,0 +1,17 @@
+{
+  "name": "@zerobias-org/segment-zerobias-s_a11yaudit",
+  "version": "1.0.0-rc.1",
+  "description": "Accessibility auditing services (ADA, Section 508, WCAG).",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": { "type": "git", "url": "git@github.com:zerobias-org/segment.git", "directory": "package/zerobias/s_a11yaudit/" },
+  "scripts": { "nx:publish": "../../../scripts/publish.sh", "prepublishtest": "../../../scripts/prepublish.sh", "correct:deps": "ts-node ../../../scripts/correctDeps.ts", "validate": "ts-node ../../../scripts/validate.ts" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "files": [ "index.yml" ],
+  "auditmation": { "dataloader-version": "3.29.26", "import-artifact": "segment", "package": "zerobias.s_a11yaudit.segment" },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/segment-zerobias-c_accessibility": "latest",
+    "@zerobias-org/segment_type-zerobias": "latest"
+  }
+}

@@ -1,0 +1,12 @@
+id: dd509c8e-5e41-4db0-9fb2-d86cdb162bd9
+name: Security Operations Center (SOC)
+description: Managed security monitoring and operations (SOC).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_soc-segment.svg
+code: s_soc
+externalId: Security Operations Center (SOC)
+status: published
+parents:
+  - c_secops
+tags: []
+aliases: []

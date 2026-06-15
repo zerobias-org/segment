@@ -1,0 +1,12 @@
+id: b78e80aa-e04d-43a8-95dd-7e05cea205b8
+name: Mobile Device Management
+description: Mobile device management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_mdm-segment.svg
+code: s_mdm
+externalId: Mobile Device Management
+status: published
+parents:
+  - c_endpoint
+tags: []
+aliases: []

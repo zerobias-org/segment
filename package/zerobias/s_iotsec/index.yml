@@ -1,0 +1,12 @@
+id: 309a7f90-a0d1-4899-ae41-0e8d8755a665
+name: IoT Security
+description: Internet of Things security services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_iotsec-segment.svg
+code: s_iotsec
+externalId: IoT Security
+status: published
+parents:
+  - c_otsec
+tags: []
+aliases: []

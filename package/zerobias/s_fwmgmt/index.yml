@@ -1,0 +1,12 @@
+id: 7d6f74a2-89fb-400c-9c3f-e973c35831f2
+name: Firewall Management
+description: Managed firewall services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_fwmgmt-segment.svg
+code: s_fwmgmt
+externalId: Firewall Management
+status: published
+parents:
+  - c_netsec
+tags: []
+aliases: []

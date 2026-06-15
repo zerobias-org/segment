@@ -1,0 +1,12 @@
+id: 1196e17e-16c0-4da8-9601-7e4eff9c0e24
+name: Web Application Development
+description: Web application development services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_webdev-segment.svg
+code: s_webdev
+externalId: Web Application Development
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 1eb9e9b7-58ad-4f9e-b26a-bb78d5f0a401
+name: SIEM Management
+description: Managed SIEM deployment and operations.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_siemmgmt-segment.svg
+code: s_siemmgmt
+externalId: SIEM Management
+status: published
+parents:
+  - c_secops
+tags: []
+aliases: []

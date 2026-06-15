@@ -1,0 +1,12 @@
+id: 5a77a67e-ebe8-43dd-9af3-b1179d1f6fce
+name: Cloud Security Services
+description: Cloud security implementation and management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_cloudsec-segment.svg
+code: s_cloudsec
+externalId: Cloud Security Services
+status: published
+parents:
+  - c_cloudsec
+tags: []
+aliases: []

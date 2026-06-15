@@ -1,0 +1,12 @@
+id: 7e2815f9-34ea-4fcd-a10d-b48078faba71
+name: API and Integration Development
+description: API and systems integration development services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_apidev-segment.svg
+code: s_apidev
+externalId: API and Integration Development
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []
