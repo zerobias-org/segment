@@ -1,0 +1,12 @@
+id: fd826573-0b37-481b-b6a9-d36cd533caf8
+name: Mobile Application Development
+description: Mobile application development services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_mobiledev-segment.svg
+code: s_mobiledev
+externalId: Mobile Application Development
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []

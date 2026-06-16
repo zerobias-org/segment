@@ -1,0 +1,12 @@
+id: ede17228-746f-4532-837c-134e0960149b
+name: Liability Insurance Advisory
+description: Liability and coverage insurance advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_liabilityins-segment.svg
+code: s_liabilityins
+externalId: Liability Insurance Advisory
+status: published
+parents:
+  - c_insurance
+tags: []
+aliases: []

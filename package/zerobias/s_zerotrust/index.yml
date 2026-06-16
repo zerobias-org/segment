@@ -1,0 +1,12 @@
+id: ab53d006-5e16-404e-a114-54bb4d72c098
+name: Zero Trust and Segmentation
+description: Zero trust architecture and network segmentation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_zerotrust-segment.svg
+code: s_zerotrust
+externalId: Zero Trust and Segmentation
+status: published
+parents:
+  - c_netsec
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 7cfdc792-a871-4fa8-a0ae-a31ee0882be4
+name: Help Desk and End-User Support
+description: Help desk and end-user support services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_helpdesk-segment.svg
+code: s_helpdesk
+externalId: Help Desk and End-User Support
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

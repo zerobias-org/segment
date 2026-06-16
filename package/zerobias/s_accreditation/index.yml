@@ -1,0 +1,12 @@
+id: 243c05b6-4121-4b0a-be0d-3a2cd6aaf682
+name: Accreditation and Certification
+description: Accreditation and certification body services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_accreditation-segment.svg
+code: s_accreditation
+externalId: Accreditation and Certification
+status: published
+parents:
+  - c_validation
+tags: []
+aliases: []

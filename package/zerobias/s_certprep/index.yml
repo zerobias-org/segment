@@ -1,0 +1,12 @@
+id: 8b8fd727-25c2-4410-853c-89a6a661c690
+name: Certification Preparation
+description: Certification preparation and support services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_certprep-segment.svg
+code: s_certprep
+externalId: Certification Preparation
+status: published
+parents:
+  - c_audit
+tags: []
+aliases: []

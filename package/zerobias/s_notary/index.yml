@@ -1,0 +1,12 @@
+id: 309b7981-b905-4489-b286-20a330fe11a3
+name: Notarization
+description: Notarization services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_notary-segment.svg
+code: s_notary
+externalId: Notarization
+status: published
+parents:
+  - c_notary
+tags: []
+aliases: []

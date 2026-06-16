@@ -1,0 +1,12 @@
+id: 0cc27217-4099-4f18-9962-427b0846d439
+name: Employment Eligibility
+description: Employment eligibility verification services (I-9, E-Verify).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_empeligibility-segment.svg
+code: s_empeligibility
+externalId: Employment Eligibility
+status: published
+parents:
+  - c_labor
+tags: []
+aliases: []

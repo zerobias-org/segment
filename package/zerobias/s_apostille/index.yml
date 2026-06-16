@@ -1,0 +1,12 @@
+id: d567d204-aa71-4be5-863b-edfb49e05d53
+name: Apostille and Document Authentication
+description: Apostille and document authentication services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_apostille-segment.svg
+code: s_apostille
+externalId: Apostille and Document Authentication
+status: published
+parents:
+  - c_notary
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 10ef04ef-807a-42af-b9e5-d619c7dc52b5
+name: DevSecOps Consulting
+description: DevSecOps and secure SDLC consulting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_devsecops-segment.svg
+code: s_devsecops
+externalId: DevSecOps Consulting
+status: published
+parents:
+  - c_appsec
+tags: []
+aliases: []

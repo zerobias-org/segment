@@ -1,0 +1,12 @@
+id: bce43eb6-5ef5-4da2-9049-9fb7c528a1ee
+name: IT Service Management (ITSM)
+description: IT service management and ITIL process services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_itsm-segment.svg
+code: s_itsm
+externalId: IT Service Management (ITSM)
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

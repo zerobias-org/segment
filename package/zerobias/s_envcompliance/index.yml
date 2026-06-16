@@ -1,0 +1,12 @@
+id: 717e7e46-de25-48b0-a72b-1a3f7aa25fb9
+name: Environmental Compliance
+description: Environmental compliance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_envcompliance-segment.svg
+code: s_envcompliance
+externalId: Environmental Compliance
+status: published
+parents:
+  - c_ehs
+tags: []
+aliases: []

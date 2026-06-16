@@ -1,0 +1,12 @@
+id: 5726a700-2ce7-4349-a09f-387a59b5765f
+name: KYC and KYB
+description: Know-your-customer and know-your-business services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_kyc-segment.svg
+code: s_kyc
+externalId: KYC and KYB
+status: published
+parents:
+  - c_fincrime
+tags: []
+aliases: []

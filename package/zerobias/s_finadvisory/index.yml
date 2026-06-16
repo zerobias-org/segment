@@ -1,0 +1,12 @@
+id: 4ffc6262-9126-461e-aad3-137725bf3a60
+name: Financial and Accounting Advisory
+description: Financial and accounting advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_finadvisory-segment.svg
+code: s_finadvisory
+externalId: Financial and Accounting Advisory
+status: published
+parents:
+  - c_advisory
+tags: []
+aliases: []

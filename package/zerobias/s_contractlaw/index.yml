@@ -1,0 +1,12 @@
+id: 527519b4-2eaf-4d16-b7dd-3f5f46978556
+name: Contract and Commercial Law
+description: Contract and commercial legal services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_contractlaw-segment.svg
+code: s_contractlaw
+externalId: Contract and Commercial Law
+status: published
+parents:
+  - c_legal
+tags: []
+aliases: []

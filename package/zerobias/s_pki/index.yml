@@ -1,0 +1,12 @@
+id: 94be7e54-eeaa-4146-9bc5-dd972fbbc449
+name: Key Management and PKI
+description: Key management and public key infrastructure services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_pki-segment.svg
+code: s_pki
+externalId: Key Management and PKI
+status: published
+parents:
+  - c_crypto
+tags: []
+aliases: []

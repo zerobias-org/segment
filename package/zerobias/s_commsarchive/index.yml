@@ -1,0 +1,12 @@
+id: 8a4f7b7c-9877-48c2-8d09-e9d20256f92f
+name: Communications Archiving and Surveillance
+description: Regulated communications archiving and surveillance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_commsarchive-segment.svg
+code: s_commsarchive
+externalId: Communications Archiving and Surveillance
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []

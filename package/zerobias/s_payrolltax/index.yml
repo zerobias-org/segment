@@ -1,0 +1,12 @@
+id: e7c4dd76-ae77-4bf8-8532-496a8e6c93f3
+name: Payroll Tax and Compliance
+description: Payroll tax and compliance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_payrolltax-segment.svg
+code: s_payrolltax
+externalId: Payroll Tax and Compliance
+status: published
+parents:
+  - c_tax
+tags: []
+aliases: []

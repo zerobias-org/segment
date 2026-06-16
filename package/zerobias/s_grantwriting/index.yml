@@ -1,0 +1,12 @@
+id: 88ac7b0f-50ab-4d46-82f5-8c4709f2a4f6
+name: Grant Writing
+description: Grant writing services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_grantwriting-segment.svg
+code: s_grantwriting
+externalId: Grant Writing
+status: published
+parents:
+  - c_procurement
+tags: []
+aliases: []

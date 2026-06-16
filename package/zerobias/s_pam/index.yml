@@ -1,0 +1,12 @@
+id: 8f76e8eb-9106-45bb-9396-fa7d2cc98f3e
+name: Privileged Access Management (PAM)
+description: Privileged access management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_pam-segment.svg
+code: s_pam
+externalId: Privileged Access Management (PAM)
+status: published
+parents:
+  - c_idam
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 27fa3899-199d-4980-acca-fcd195c4cc92
+name: AML and BSA Compliance
+description: Anti-money-laundering and BSA compliance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_aml-segment.svg
+code: s_aml
+externalId: AML and BSA Compliance
+status: published
+parents:
+  - c_fincrime
+tags: []
+aliases: []

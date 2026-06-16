@@ -1,0 +1,12 @@
+id: 07c742aa-1c66-4fef-9c15-7302b8dc2c9d
+name: Application Security Testing
+description: Application security testing services (SAST, DAST, IAST).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_appsectest-segment.svg
+code: s_appsectest
+externalId: Application Security Testing
+status: published
+parents:
+  - c_appsec
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 860cc313-8add-40f2-a68c-a4cc05e5c47f
+name: Regulatory and Privacy Training
+description: Regulatory and privacy compliance training services (HIPAA, PCI, GDPR, and related).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_regtrain-segment.svg
+code: s_regtrain
+externalId: Regulatory and Privacy Training
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

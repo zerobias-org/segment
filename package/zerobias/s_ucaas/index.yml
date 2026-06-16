@@ -1,0 +1,12 @@
+id: a1d48c2e-49c0-466e-9556-6512883f9271
+name: Unified Communications (UCaaS)
+description: Unified communications as a service.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_ucaas-segment.svg
+code: s_ucaas
+externalId: Unified Communications (UCaaS)
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []

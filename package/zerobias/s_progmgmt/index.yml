@@ -1,0 +1,12 @@
+id: 786b7858-61a7-4689-b8f3-0a65c649e315
+name: Program Management
+description: Program management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_progmgmt-segment.svg
+code: s_progmgmt
+externalId: Program Management
+status: published
+parents:
+  - c_pmo
+tags: []
+aliases: []

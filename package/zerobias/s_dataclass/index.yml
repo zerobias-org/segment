@@ -1,0 +1,12 @@
+id: 88f8da99-0aae-4f6f-b0d8-c88792c33e30
+name: Data Classification and Handling
+description: Data classification and handling services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_dataclass-segment.svg
+code: s_dataclass
+externalId: Data Classification and Handling
+status: published
+parents:
+  - c_dataprivacy
+tags: []
+aliases: []

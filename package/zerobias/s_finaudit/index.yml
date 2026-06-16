@@ -1,0 +1,12 @@
+id: f0d2747a-5e96-4383-aabe-2be33978b9c1
+name: Financial Statement Audit
+description: Financial statement audit and assurance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_finaudit-segment.svg
+code: s_finaudit
+externalId: Financial Statement Audit
+status: published
+parents:
+  - c_tax
+tags: []
+aliases: []

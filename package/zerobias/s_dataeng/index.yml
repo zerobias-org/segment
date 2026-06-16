@@ -1,0 +1,12 @@
+id: 1e8f65f2-5f08-4e32-96c2-156cdedb0bb4
+name: Data Engineering and Analytics
+description: Data engineering and analytics services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_dataeng-segment.svg
+code: s_dataeng
+externalId: Data Engineering and Analytics
+status: published
+parents:
+  - c_swdev
+tags: []
+aliases: []

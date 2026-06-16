@@ -1,0 +1,12 @@
+id: 7011b12c-4fb1-43e9-bd7f-fd34589ba1ce
+name: IT Asset Management
+description: IT asset management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_itam-segment.svg
+code: s_itam
+externalId: IT Asset Management
+status: published
+parents:
+  - c_asset
+tags: []
+aliases: []

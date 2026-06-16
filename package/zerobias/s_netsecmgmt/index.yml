@@ -1,0 +1,12 @@
+id: 81533a86-0dbe-4e0c-ac9f-65dc86705fd6
+name: Network Security Management
+description: Managed network security services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_netsecmgmt-segment.svg
+code: s_netsecmgmt
+externalId: Network Security Management
+status: published
+parents:
+  - c_netsec
+tags: []
+aliases: []

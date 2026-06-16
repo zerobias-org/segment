@@ -1,0 +1,12 @@
+id: 65509c4e-8452-459f-b495-48e6f094dd9f
+name: OT and ICS Security
+description: Operational technology and industrial control system security services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_otsec-segment.svg
+code: s_otsec
+externalId: OT and ICS Security
+status: published
+parents:
+  - c_otsec
+tags: []
+aliases: []

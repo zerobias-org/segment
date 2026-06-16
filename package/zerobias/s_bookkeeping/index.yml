@@ -1,0 +1,12 @@
+id: d57429b3-f127-4350-ac60-8c1ce5343003
+name: Bookkeeping and Accounting
+description: Bookkeeping and accounting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bookkeeping-segment.svg
+code: s_bookkeeping
+externalId: Bookkeeping and Accounting
+status: published
+parents:
+  - c_tax
+tags: []
+aliases: []

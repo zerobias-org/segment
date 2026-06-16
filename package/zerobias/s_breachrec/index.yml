@@ -1,0 +1,12 @@
+id: e0d5d1ca-3904-4158-bd5d-007dd285c00c
+name: Breach and Ransomware Recovery
+description: Breach and ransomware recovery services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_breachrec-segment.svg
+code: s_breachrec
+externalId: Breach and Ransomware Recovery
+status: published
+parents:
+  - c_ir
+tags: []
+aliases: []

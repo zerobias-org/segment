@@ -1,0 +1,12 @@
+id: 114c5ed4-0183-4221-9a81-3b85f8cbfcc2
+name: Cyber Range and Hands-on Lab Training
+description: Cyber range and hands-on lab training services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_cyberrange-segment.svg
+code: s_cyberrange
+externalId: Cyber Range and Hands-on Lab Training
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

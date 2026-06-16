@@ -1,0 +1,12 @@
+id: 0b0bfcbc-6cd3-4855-84b9-3bc91d9e8c5b
+name: Environmental Monitoring
+description: Environmental controls monitoring services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_envmon-segment.svg
+code: s_envmon
+externalId: Environmental Monitoring
+status: published
+parents:
+  - c_physical
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: ebdc516c-16ee-40d2-9417-bdb6febccdae
+name: Project Management and PMO
+description: Project management and PMO services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_pmo-segment.svg
+code: s_pmo
+externalId: Project Management and PMO
+status: published
+parents:
+  - c_pmo
+tags: []
+aliases: []

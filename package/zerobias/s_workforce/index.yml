@@ -1,0 +1,12 @@
+id: 7c5338be-a887-45ff-a49e-0f4318504773
+name: Workforce and Talent Management
+description: Workforce and talent management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_workforce-segment.svg
+code: s_workforce
+externalId: Workforce and Talent Management
+status: published
+parents:
+  - c_hr
+tags: []
+aliases: []

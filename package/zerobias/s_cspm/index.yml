@@ -1,0 +1,12 @@
+id: 7fa06560-dc24-41f3-85bf-27dd636f56e5
+name: Cloud Posture Management (CSPM)
+description: Managed cloud security posture management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_cspm-segment.svg
+code: s_cspm
+externalId: Cloud Posture Management (CSPM)
+status: published
+parents:
+  - c_cloudsec
+tags: []
+aliases: []

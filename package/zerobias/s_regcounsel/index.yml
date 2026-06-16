@@ -1,0 +1,12 @@
+id: e65150d1-2443-4d89-a5e3-a8e3c301dcfd
+name: Regulatory and Compliance Counsel
+description: Regulatory and compliance legal counsel services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_regcounsel-segment.svg
+code: s_regcounsel
+externalId: Regulatory and Compliance Counsel
+status: published
+parents:
+  - c_legal
+tags: []
+aliases: []

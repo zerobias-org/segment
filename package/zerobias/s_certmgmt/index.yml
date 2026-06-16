@@ -1,0 +1,12 @@
+id: d94a6201-f5b5-420a-a736-5d1739515195
+name: Certificate Management
+description: Digital certificate management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_certmgmt-segment.svg
+code: s_certmgmt
+externalId: Certificate Management
+status: published
+parents:
+  - c_crypto
+tags: []
+aliases: []

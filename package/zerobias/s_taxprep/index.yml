@@ -1,0 +1,12 @@
+id: f0167f54-8eb2-47e8-bad8-2b434d7bc113
+name: Tax Preparation and Planning
+description: Tax preparation and planning services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_taxprep-segment.svg
+code: s_taxprep
+externalId: Tax Preparation and Planning
+status: published
+parents:
+  - c_tax
+tags: []
+aliases: []

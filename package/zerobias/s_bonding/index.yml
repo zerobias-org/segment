@@ -1,0 +1,12 @@
+id: a9ac3760-2f34-4f93-a31a-a1c66f2cdee5
+name: Surety and Bonding
+description: Surety and bonding services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bonding-segment.svg
+code: s_bonding
+externalId: Surety and Bonding
+status: published
+parents:
+  - c_insurance
+tags: []
+aliases: []

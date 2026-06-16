@@ -1,0 +1,12 @@
+id: 1af317da-f3a5-46f7-8945-8a1ca9d9cd8a
+name: Vulnerability Assessment
+description: Vulnerability assessment and scanning services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_vulnassess-segment.svg
+code: s_vulnassess
+externalId: Vulnerability Assessment
+status: published
+parents:
+  - c_secasmt
+tags: []
+aliases: []

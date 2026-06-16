@@ -1,0 +1,12 @@
+id: e2a939bd-f366-473b-a2a6-d1ca8bc4b7e6
+name: Immigration and Visa
+description: Immigration and visa services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_immigration-segment.svg
+code: s_immigration
+externalId: Immigration and Visa
+status: published
+parents:
+  - c_labor
+tags: []
+aliases: []

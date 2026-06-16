@@ -1,0 +1,12 @@
+id: 67a707c9-8e34-4d45-84f3-570d375c73f5
+name: vCISO and Security Advisory
+description: Virtual CISO and security advisory services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_vciso-segment.svg
+code: s_vciso
+externalId: vCISO and Security Advisory
+status: published
+parents:
+  - c_grc
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: cd2eb38f-c33c-4966-b408-952c11637e03
+name: Framework Readiness Assessment
+description: Framework readiness assessment services (CMMC, FedRAMP).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_readiness-segment.svg
+code: s_readiness
+externalId: Framework Readiness Assessment
+status: published
+parents:
+  - c_audit
+tags: []
+aliases: []

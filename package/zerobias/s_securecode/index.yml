@@ -1,0 +1,12 @@
+id: bd3e1dfc-44f9-4f8d-99f1-4203828c831f
+name: Secure Coding and Developer Security Training
+description: Secure coding and developer security training services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_securecode-segment.svg
+code: s_securecode
+externalId: Secure Coding and Developer Security Training
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

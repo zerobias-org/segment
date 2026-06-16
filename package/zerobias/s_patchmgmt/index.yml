@@ -1,0 +1,12 @@
+id: 601bc440-18e2-4b98-90de-ab919bd821a0
+name: Patch Management
+description: Managed patch management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_patchmgmt-segment.svg
+code: s_patchmgmt
+externalId: Patch Management
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

@@ -1,0 +1,12 @@
+id: 93231618-46f7-4b05-9983-f432336fa78c
+name: Independent Verification and Validation
+description: Independent verification and validation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_ivv-segment.svg
+code: s_ivv
+externalId: Independent Verification and Validation
+status: published
+parents:
+  - c_validation
+tags: []
+aliases: []

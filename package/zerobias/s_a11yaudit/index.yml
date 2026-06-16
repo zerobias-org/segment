@@ -1,0 +1,12 @@
+id: 271b2f74-1582-498e-a940-1574ce957bd8
+name: Accessibility Auditing
+description: Accessibility auditing services (ADA, Section 508, WCAG).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_a11yaudit-segment.svg
+code: s_a11yaudit
+externalId: Accessibility Auditing
+status: published
+parents:
+  - c_accessibility
+tags: []
+aliases: []

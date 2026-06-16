@@ -1,0 +1,12 @@
+id: f4b272fa-1b79-43b5-a5ca-559a116b9428
+name: ESG and Sustainability Reporting
+description: ESG and sustainability reporting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_esg-segment.svg
+code: s_esg
+externalId: ESG and Sustainability Reporting
+status: published
+parents:
+  - c_ehs
+tags: []
+aliases: []

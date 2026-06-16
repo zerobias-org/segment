@@ -1,0 +1,12 @@
+id: bcc4a38b-67d6-4f63-a589-e5303a3ad2f3
+name: Litigation and eDiscovery Support
+description: Litigation support and eDiscovery services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_litsupport-segment.svg
+code: s_litsupport
+externalId: Litigation and eDiscovery Support
+status: published
+parents:
+  - c_legal
+tags: []
+aliases: []

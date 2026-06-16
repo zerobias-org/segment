@@ -1,0 +1,12 @@
+id: 465d8cbe-3bef-49c6-ad3c-a05563d17c67
+name: Backup and Disaster Recovery
+description: Backup and disaster recovery managed services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bdr-segment.svg
+code: s_bdr
+externalId: Backup and Disaster Recovery
+status: published
+parents:
+  - c_resilience
+tags: []
+aliases: []

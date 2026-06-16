@@ -1,0 +1,12 @@
+id: f1f87c7b-0840-411e-9946-ab88bebd5859
+name: Business Process Consulting
+description: Business process and operations consulting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bizprocess-segment.svg
+code: s_bizprocess
+externalId: Business Process Consulting
+status: published
+parents:
+  - c_advisory
+tags: []
+aliases: []

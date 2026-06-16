@@ -1,0 +1,12 @@
+id: e70aeade-ce73-47fe-9769-194de76f191d
+name: Server and Infrastructure Management
+description: Server, network, and infrastructure management services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_inframgmt-segment.svg
+code: s_inframgmt
+externalId: Server and Infrastructure Management
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

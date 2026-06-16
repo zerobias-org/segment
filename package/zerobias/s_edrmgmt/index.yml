@@ -1,0 +1,12 @@
+id: 3bf493f3-1783-46ea-be17-dc14155a92bb
+name: Managed Endpoint Detection and Response
+description: Managed endpoint detection and response services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_edrmgmt-segment.svg
+code: s_edrmgmt
+externalId: Managed Endpoint Detection and Response
+status: published
+parents:
+  - c_endpoint
+tags: []
+aliases: []

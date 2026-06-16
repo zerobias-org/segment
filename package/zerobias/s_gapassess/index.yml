@@ -1,0 +1,12 @@
+id: 109def4e-bc6f-44dc-b274-7ecc12e2b5d7
+name: Gap Assessment
+description: Compliance and security gap assessment services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_gapassess-segment.svg
+code: s_gapassess
+externalId: Gap Assessment
+status: published
+parents:
+  - c_audit
+tags: []
+aliases: []

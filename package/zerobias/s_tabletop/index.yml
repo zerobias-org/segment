@@ -1,0 +1,12 @@
+id: 0ef6c7c4-ad33-46c0-9a27-7aad52525a39
+name: Tabletop Exercises
+description: Incident response tabletop exercise services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_tabletop-segment.svg
+code: s_tabletop
+externalId: Tabletop Exercises
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

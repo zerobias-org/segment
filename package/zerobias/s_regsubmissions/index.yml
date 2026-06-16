@@ -1,0 +1,12 @@
+id: 322f2b69-1c0b-4811-aee6-769a1fae6274
+name: Regulatory Submissions
+description: Regulatory submission services (FDA and others).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_regsubmissions-segment.svg
+code: s_regsubmissions
+externalId: Regulatory Submissions
+status: published
+parents:
+  - c_regapproval
+tags: []
+aliases: []

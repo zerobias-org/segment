@@ -1,0 +1,12 @@
+id: 27d41502-0ba0-4bb9-ad81-95c2943b03b7
+name: Network Operations Center (NOC)
+description: Managed network monitoring and operations (NOC).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_noc-segment.svg
+code: s_noc
+externalId: Network Operations Center (NOC)
+status: published
+parents:
+  - c_itops
+tags: []
+aliases: []

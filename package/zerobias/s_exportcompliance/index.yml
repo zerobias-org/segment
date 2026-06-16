@@ -1,0 +1,12 @@
+id: 0b2f1663-8848-49cb-b5c1-d42247ea8322
+name: Export Compliance
+description: Export compliance services (ITAR, EAR).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_exportcompliance-segment.svg
+code: s_exportcompliance
+externalId: Export Compliance
+status: published
+parents:
+  - c_regapproval
+tags: []
+aliases: []

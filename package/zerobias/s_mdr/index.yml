@@ -1,0 +1,12 @@
+id: 5f0bbca1-cdef-4a46-8a5d-924dcab03f2e
+name: Managed Detection and Response (MDR)
+description: Managed threat detection and response services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_mdr-segment.svg
+code: s_mdr
+externalId: Managed Detection and Response (MDR)
+status: published
+parents:
+  - c_secops
+tags: []
+aliases: []

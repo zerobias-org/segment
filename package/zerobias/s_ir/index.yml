@@ -1,0 +1,12 @@
+id: 3fec3965-abd2-47f9-9dec-e95584ae4be6
+name: Incident Response
+description: Security incident response services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_ir-segment.svg
+code: s_ir
+externalId: Incident Response
+status: published
+parents:
+  - c_ir
+tags: []
+aliases: []

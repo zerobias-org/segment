@@ -1,0 +1,12 @@
+id: bae54f07-4dd1-4356-ba2b-ff5c9e10656c
+name: Background Checks
+description: Background check services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_bgcheck-segment.svg
+code: s_bgcheck
+externalId: Background Checks
+status: published
+parents:
+  - c_screening
+tags: []
+aliases: []

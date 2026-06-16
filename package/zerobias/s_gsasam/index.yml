@@ -1,0 +1,12 @@
+id: b80c4dd5-58cb-493a-befd-dbb359b9f3a3
+name: GSA Schedule and SAM Registration
+description: GSA Schedule and SAM registration services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_gsasam-segment.svg
+code: s_gsasam
+externalId: GSA Schedule and SAM Registration
+status: published
+parents:
+  - c_bizcert
+tags: []
+aliases: []

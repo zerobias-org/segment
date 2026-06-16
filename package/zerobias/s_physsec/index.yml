@@ -1,0 +1,12 @@
+id: 46d52984-7e28-482d-926f-0689ac57522b
+name: Physical Security Assessment
+description: Physical security assessment services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_physsec-segment.svg
+code: s_physsec
+externalId: Physical Security Assessment
+status: published
+parents:
+  - c_physical
+tags: []
+aliases: []

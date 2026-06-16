@@ -1,0 +1,12 @@
+id: b6fd6c4c-f40f-4bd4-a3d3-efc44c347d0e
+name: Labor Law Compliance
+description: Labor law compliance services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_laborlaw-segment.svg
+code: s_laborlaw
+externalId: Labor Law Compliance
+status: published
+parents:
+  - c_labor
+tags: []
+aliases: []

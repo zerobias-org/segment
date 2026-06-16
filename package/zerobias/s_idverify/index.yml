@@ -1,0 +1,12 @@
+id: 741e09e8-2bc5-4afa-a214-62ddcca341cb
+name: Identity Verification
+description: Identity verification services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_idverify-segment.svg
+code: s_idverify
+externalId: Identity Verification
+status: published
+parents:
+  - c_screening
+tags: []
+aliases: []

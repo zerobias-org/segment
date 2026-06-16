@@ -1,0 +1,12 @@
+id: d1a11fc8-1a2b-4808-aba5-3491ebfb466f
+name: Certification Training and Exam Prep
+description: Certification training and exam preparation services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_certtrain-segment.svg
+code: s_certtrain
+externalId: Certification Training and Exam Prep
+status: published
+parents:
+  - c_train
+tags: []
+aliases: []

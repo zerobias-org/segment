@@ -1,0 +1,12 @@
+id: f3c71b47-6820-4428-828f-d1ccc68b20b4
+name: HR Consulting
+description: Human resources consulting services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_hrconsulting-segment.svg
+code: s_hrconsulting
+externalId: HR Consulting
+status: published
+parents:
+  - c_hr
+tags: []
+aliases: []

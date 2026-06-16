@@ -1,0 +1,12 @@
+id: 75f95150-1f89-43af-9732-4829a9dc1958
+name: Quality Management Systems
+description: Quality management systems services (ISO 9001).
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_qms-segment.svg
+code: s_qms
+externalId: Quality Management Systems
+status: published
+parents:
+  - c_validation
+tags: []
+aliases: []

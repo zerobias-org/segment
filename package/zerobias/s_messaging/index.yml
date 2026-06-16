@@ -1,0 +1,12 @@
+id: 5e506820-acf8-4282-87dc-c637f98b3869
+name: Managed Email and Messaging
+description: Managed email and messaging services.
+segmentType: service
+imageUrl: https://cdn.auditmation.io/logos/zerobias-s_messaging-segment.svg
+code: s_messaging
+externalId: Managed Email and Messaging
+status: published
+parents:
+  - c_commsvc
+tags: []
+aliases: []
