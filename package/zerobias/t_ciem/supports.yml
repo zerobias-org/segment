@@ -1,0 +1,7 @@
+supports:
+  - complianceFeature: f_ciem
+    status: supported
+    strength: high
+  - complianceFeature: f_rep
+    status: supported
+    strength: high

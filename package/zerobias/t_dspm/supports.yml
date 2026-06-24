@@ -1,0 +1,4 @@
+supports:
+  - complianceFeature: f_dspm
+    status: supported
+    strength: high
