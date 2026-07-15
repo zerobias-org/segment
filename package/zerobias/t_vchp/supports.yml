@@ -20,6 +20,9 @@ supports:
   - complianceFeature: f_chfcr
     status: supported
     strength: high
+  - complianceFeature: f_crfcr
+    status: supported
+    strength: high
   - complianceFeature: f_cs2
     status: supported
     strength: high
