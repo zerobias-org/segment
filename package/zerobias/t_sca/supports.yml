@@ -1,0 +1,28 @@
+supports:
+  - complianceFeature: f_aufsd
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_cicd
+    status: supported
+    strength: medium
+  - complianceFeature: f_iw_vcs
+    status: supported
+    strength: high
+  - complianceFeature: f_rp
+    status: supported
+    strength: medium
+  - complianceFeature: f_rs
+    status: supported
+    strength: medium
+  - complianceFeature: f_safsd
+    status: supported
+    strength: high
+  - complianceFeature: f_sbomg
+    status: supported
+    strength: high
+  - complianceFeature: f_slm2
+    status: supported
+    strength: medium
+  - complianceFeature: f_vs
+    status: supported
+    strength: high

@@ -1,0 +1,13 @@
+supports:
+  - complianceFeature: f_cbam
+    status: supported
+    strength: high
+  - complianceFeature: f_cvm2
+    status: supported
+    strength: high
+  - complianceFeature: f_rc
+    status: supported
+    strength: high
+  - complianceFeature: f_vhad
+    status: supported
+    strength: high

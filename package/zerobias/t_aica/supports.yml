@@ -1,0 +1,16 @@
+supports:
+  - complianceFeature: f_aicg
+    status: supported
+    strength: high
+  - complianceFeature: f_aipf
+    status: supported
+    strength: high
+  - complianceFeature: f_atg
+    status: supported
+    strength: medium
+  - complianceFeature: f_iw_des
+    status: supported
+    strength: high
+  - complianceFeature: f_iw_vcs
+    status: supported
+    strength: medium
