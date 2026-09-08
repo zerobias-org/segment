@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-{code}",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "{segmentName}",
   "author": "team@zerobias.com",
   "license": "ISC",
@@ -16,7 +16,7 @@
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org/"
   },
   "files": [
     "index.yml"
@@ -29,5 +29,8 @@
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
     "@zerobias-org/segment_type-zerobias": "latest"
+  },
+  "zerobias": {
+    "orgId": "{target-org-uuid}"
   }
 }
