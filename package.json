@@ -7,7 +7,7 @@
     "postinstall": "husky install"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "repository": {
     "type": "git",
