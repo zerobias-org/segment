@@ -15,11 +15,12 @@
     "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
     "index.yml",
     "logo.svg",
+    "npm-shrinkwrap.json",
     "supports.yml"
   ],
   "auditmation": {
@@ -28,19 +29,19 @@
     "package": "zerobias.t_cspm.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_acm": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ca": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_cadai": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_cm3": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ri": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rp": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rta": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_spe": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_vmm": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_vr": "latest",
-    "@zerobias-org/segment-zerobias-c_sg": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_acm": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ca": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_cadai": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_cm3": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_cvwd": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ri": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rp": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rta": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_spe": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_vmm": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_vr": "*",
+    "@zerobias-org/segment-zerobias-c_sg": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   }
 }
