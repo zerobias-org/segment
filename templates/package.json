@@ -16,10 +16,11 @@
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
-    "registry": "https://pkg.zerobias.org/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
-    "index.yml"
+    "index.yml",
+    "npm-shrinkwrap.json"
   ],
   "auditmation": {
     "dataloader-version": "3.29.26",
@@ -27,8 +28,8 @@
     "package": "zerobias.{code}.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   },
   "zerobias": {
     "orgId": "{target-org-uuid}"

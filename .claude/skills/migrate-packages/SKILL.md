@@ -19,10 +19,10 @@ Identity is **verbatim** (underscores in `<code>` preserved). The validator (`bu
 ## Per-package loop
 
 1. Drop `package/<v>/<c>/build.gradle.kts` = `plugins { id("zb.content") }`.
-2. Ensure `.npmrc`.
+2. Ensure `.npmrc` — byte-identical to the repo-root `.npmrc` (`cp .npmrc package/<v>/<c>/.npmrc`; never from a sibling). Set every `dependencies` spec to `"*"` (`npm run correct:deps`), then regenerate `npm-shrinkwrap.json` with zero `"resolved"` entries — `npm install --package-lock-only --no-workspaces && mv package-lock.json npm-shrinkwrap.json` inside the package — and make sure it is listed in `package.json` `files[]`. `git add` all of it BEFORE the gate (untracked files are invisible to the stamp's `sourceHash`).
 3. `./gradlew :<v>:<c>:gate` (writes the mandatory `gate-stamp.json`).
 4. Major-bump (`1.x → 2.0.0`, `0.x → 1.0.0`, `2.x → no-op`).
-5. Commit per package: `feat(segment-<v>-<c>)!: migrate to gradle pipeline (<old> → <new>)`. Stage marker + `gate-stamp.json` + `package.json` + drift fixes.
+5. Commit per package: `feat(segment-<v>-<c>)!: migrate to gradle pipeline (<old> → <new>)`. Stage marker + `gate-stamp.json` + `package.json` + `.npmrc` + `npm-shrinkwrap.json` + drift fixes.
 
 Common drift: `package.json name` not `@zerobias-org/segment-<v>-<c>`; `zerobias.package` not `<v>.<c>.segment`; `zerobias.import-artifact` not `segment`; duplicate `id` UUID (`:validateUniqueIds`).
 

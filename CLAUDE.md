@@ -14,7 +14,7 @@ On the **gradle + zbb publish reusable workflow** pipeline. Lerna/nx removed. Si
 ./gradlew :<vendor>:<code>:validateContent   # file-shape only
 ./gradlew :<vendor>:<code>:gate              # full gate
 ./gradlew validateUniqueIds                  # repo-wide id cross-cut
-cd package/<vendor>/<code> && npm run correct:deps   # reset deps to latest (tsx)
+cd package/<vendor>/<code> && npm run correct:deps   # reset dep specs to "*" (tsx); the shrinkwrap pins versions
 ```
 
 `gate` writes `gate-stamp.json` (publish preflight requires it).
@@ -27,11 +27,11 @@ cd package/<vendor>/<code> && npm run correct:deps   # reset deps to latest (tsx
 | npm `name` | `@zerobias-org/segment-<vendor>-<code>` (verbatim) |
 | `zerobias.package` | `<vendor>.<code>.segment` |
 
-Each package carries real `dependencies` (its vendor, parent segment, and segment_type), so per-package `npm-shrinkwrap.json` is kept (mirrors `org/product`).
+Each package carries real `dependencies` (its vendor, parent segment, and segment_type) with the `"*"` spec, pinned by a shipped `npm-shrinkwrap.json` (listed in `files[]`, no `resolved` URLs — the `.npmrc` flag `omit-lockfile-registry-resolved=true` keeps it that way). Regenerate it with `npm install --package-lock-only --no-workspaces && mv package-lock.json npm-shrinkwrap.json`; refresh pins with `npm update --package-lock-only --no-workspaces`.
 
 ### Required files per package
 - `index.yml` — segment metadata
-- `package.json` (with `dependencies` + `zerobias` block), `.npmrc`, `npm-shrinkwrap.json`
+- `package.json` (with `dependencies` + `zerobias` block), `.npmrc` (byte-identical copy of the repo-root one), `npm-shrinkwrap.json`
 - `build.gradle.kts` (`plugins { id("zb.content") }`), `gate-stamp.json`
 
 ## Validator philosophy

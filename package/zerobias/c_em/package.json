@@ -15,12 +15,13 @@
     "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
     "index.yml",
-    "supports.yml",
-    "logo.*"
+    "logo.*",
+    "npm-shrinkwrap.json",
+    "supports.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.4.5",
@@ -28,10 +29,10 @@
     "package": "zerobias.c_em.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
-    "@zerobias-org/segment-zerobias-d_cs": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ma": "*",
+    "@zerobias-org/segment-zerobias-d_cs": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   }
 }

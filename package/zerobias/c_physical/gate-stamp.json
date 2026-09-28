@@ -1,7 +1,7 @@
 {
   "version": "1.0.0-uat.0",
-  "branch": "feat/service-segments-l1-categories",
-  "sourceHash": "a44ff346886c0b305ae518514e99bdadacc50be52ecfeea3eac9baaeb9e11d2a",
+  "branch": "build/npmrc-canonical",
+  "sourceHash": "c0b868d8f06ce96d37c3080caeb101297743e6a601d2101a638ceeecb7352d1d",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",

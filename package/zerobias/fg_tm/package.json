@@ -15,11 +15,12 @@
     "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
     "index.yml",
     "logo.svg",
+    "npm-shrinkwrap.json",
     "supports.yml"
   ],
   "auditmation": {
@@ -28,23 +29,23 @@
     "package": "zerobias.fg_tm.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ec": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_hbm": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ilm": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_nta": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rbpa": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_sa": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_sbtd": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ueba": "latest",
-    "@zerobias-org/segment-zerobias-t_cbids": "latest",
-    "@zerobias-org/segment-zerobias-t_cspm": "latest",
-    "@zerobias-org/segment-zerobias-t_edr": "latest",
-    "@zerobias-org/segment-zerobias-t_hids": "latest",
-    "@zerobias-org/segment-zerobias-t_ids": "latest",
-    "@zerobias-org/segment-zerobias-t_rasp": "latest",
-    "@zerobias-org/segment-zerobias-t_siem": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ec": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_hbm": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ilm": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ma": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_nta": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rbpa": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_sa": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_sbtd": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ueba": "*",
+    "@zerobias-org/segment-zerobias-t_cbids": "*",
+    "@zerobias-org/segment-zerobias-t_cspm": "*",
+    "@zerobias-org/segment-zerobias-t_edr": "*",
+    "@zerobias-org/segment-zerobias-t_hids": "*",
+    "@zerobias-org/segment-zerobias-t_ids": "*",
+    "@zerobias-org/segment-zerobias-t_rasp": "*",
+    "@zerobias-org/segment-zerobias-t_siem": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   }
 }
