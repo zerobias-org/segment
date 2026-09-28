@@ -1,0 +1,22 @@
+id: 5350fc30-7f80-4de1-9987-c57ec2fc22a3
+name: Real-Time Location System (RTLS)
+description: >-
+  Real-Time Location Systems (RTLS) track the physical position of people and
+  equipment inside a facility using badges or tags carried by the tracked
+  subject and fixed sensors or receivers that detect them. Position data feeds
+  asset utilisation and loss prevention, workflow and process analytics, staff
+  duress and safety, and contact tracing. Deployments are typically on premises,
+  since the sensor network is part of the building. Common in healthcare,
+  manufacturing, logistics, and warehousing.
+segmentType: tool
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rtls-segment.svg
+code: t_rtls
+externalId: Real-Time Location System (RTLS)
+status: published
+parents:
+  - c_bpao
+tags: []
+aliases:
+  - RTLS
+  - Real-Time Locating System
+  - Indoor Positioning System
