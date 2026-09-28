@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-s_prodcert",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Product certification services (CE, UL, FCC).",
   "author": "team@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-s_pki",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Key management and public key infrastructure services.",
   "author": "team@zerobias.com",
   "license": "ISC",
