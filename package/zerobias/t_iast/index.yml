@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iast-segment.svg
 code: t_iast
 externalId: Interactive Application Security Testing
 status: published
-parents: 
+parents:
   - c_as
 created: '2025-04-09T22:33:52.360463Z'
 updated: '2025-04-09T22:33:52.360463Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_iast.svg

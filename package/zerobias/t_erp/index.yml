@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_erp-segment.svg
 code: t_erp
 externalId: Enterprise Resource Planning
 status: published
-parents: 
+parents:
   - c_bpao
 created: '2025-03-31T07:10:04.333288Z'
 updated: '2025-04-02T04:42:33.893000Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_erp.svg

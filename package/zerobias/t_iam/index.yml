@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_iam-segment.svg
 code: t_iam
 externalId: Identity and Access Management
 status: published
-parents: 
+parents:
   - c_itg
 created: '2025-04-02T04:23:40.200235Z'
 updated: '2025-04-02T04:23:40.200235Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_iam.svg

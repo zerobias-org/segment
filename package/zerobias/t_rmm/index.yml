@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rmm-segment.svg
 code: t_rmm
 externalId: Remote Monitoring and Management
 status: published
-parents: 
+parents:
   - c_nasa
   - c_devices
 created: '2025-04-02T04:23:36.383143Z'
@@ -16,3 +16,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_rmm.svg

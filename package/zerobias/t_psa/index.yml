@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_psa-segment.svg
 code: t_psa
 externalId: Professional Services Automation
 status: published
-parents: 
+parents:
   - c_itpao
 created: '2025-04-02T04:23:34.769728Z'
 updated: '2025-04-02T04:23:34.769728Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_psa.svg

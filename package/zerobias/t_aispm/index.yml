@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_aispm-segment.svg
 code: t_aispm
 externalId: Artificial Intelligence Security Posture Management
 status: published
-parents: 
+parents:
   - c_sg
 created: '2025-04-09T22:33:59.213462Z'
 updated: '2025-04-09T22:33:59.213462Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_aispm.svg
