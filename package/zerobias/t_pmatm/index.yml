@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pmatm-segment.svg
 code: t_pmatm
 externalId: Project Management and Task Management
 status: published
-parents: 
+parents:
   - c_op
   - c_capm
 created: '2025-03-31T07:10:04.935309Z'
@@ -16,3 +16,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_pmatm.svg

@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_crm-segment.svg
 code: t_crm
 externalId: Customer Relationship Management
 status: published
-parents: 
+parents:
   - c_bpao
 created: '2025-03-31T07:10:04.404927Z'
 updated: '2025-04-02T04:42:34.082000Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_crm.svg

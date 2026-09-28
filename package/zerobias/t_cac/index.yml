@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_cac-segment.svg
 code: t_cac
 externalId: Collaboration and Communication
 status: published
-parents: 
+parents:
   - c_op
   - c_capm
 created: '2025-03-31T07:10:04.868795Z'
@@ -16,3 +16,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_cac.svg

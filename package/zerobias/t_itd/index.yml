@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_itd-segment.svg
 code: t_itd
 externalId: IT Documentation
 status: published
-parents: 
+parents:
   - c_itpao
   - c_capm
 created: '2025-04-02T04:23:35.726984Z'
@@ -16,3 +16,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_itd.svg

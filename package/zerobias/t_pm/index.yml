@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_pm-segment.svg
 code: t_pm
 externalId: Patch Management
 status: published
-parents: 
+parents:
   - c_nasa
   - c_devices
 created: '2025-04-02T04:23:37.446659Z'
@@ -16,3 +16,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_pm.svg

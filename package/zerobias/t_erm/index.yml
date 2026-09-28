@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_erm-segment.svg
 code: t_erm
 externalId: Enterprise Risk Management
 status: published
-parents: 
+parents:
   - c_bsap
 created: '2025-03-31T07:10:04.738940Z'
 updated: '2025-04-02T04:42:35.098000Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_erm.svg

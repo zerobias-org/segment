@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-t_apisec-segment.svg
 code: t_apisec
 externalId: API Security
 status: published
-parents: 
+parents:
   - c_as
 created: '2025-04-09T22:33:54.434298Z'
 updated: '2025-04-09T22:33:54.434298Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-t_apisec.svg
