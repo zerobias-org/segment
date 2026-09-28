@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_apa",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-t_apa",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "*",
@@ -71,24 +71,24 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_em": {
-      "version": "2.0.0",
-      "integrity": "sha512-2KlWCaZ2tM1R1t6X0U/kbT5CXYaDtHNcuF68TUMle2vD645rNXxA5msv1O2GUyNEPpO+CI2DlPef95pNXy8cnA==",
+      "version": "2.0.1",
+      "integrity": "sha512-iGYiNU7btnffrNb26wYJEEnk26K9QLpLLkBQXhxFuLmpayQxQLCRlegcAxZGczjQl+oEeDZrjkC0sQeWYGwgsA==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_ma": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_cs": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_iw_cp": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_ma": "*",
+        "@zerobias-org/segment_type-zerobias": "*",
+        "@zerobias-org/segment-zerobias-d_cs": "*"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-d_cs": {
-      "version": "2.0.0",
-      "integrity": "sha512-Yl6XANt/1ACUO81EFzkVI3WJJx+vVSXMXztpndt+kEMd3Lp3gcEfczHgt+t8Q8twe+T+GPiX8B5vk4KMNg+P4w==",
+      "version": "2.0.1",
+      "integrity": "sha512-KNwjrxo/T0GIMwFcl5K9LBKtzhGKlpGE1+rljB8uOPzx7/V1updJ2z5Q22zhr9lTOYsPoovdR4YdiNutCbFhdQ==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*"
       }
     }
   }

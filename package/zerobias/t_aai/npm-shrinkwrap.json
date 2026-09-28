@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_aai",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-t_aai",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "*",
@@ -28,22 +28,22 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_op": {
-      "version": "2.0.0",
-      "integrity": "sha512-qCI9Rqf/X+j6MxUgSi11ozmIeN7Lc2CF8C9Bnw838IF7RrJt4zm288BPi09QDThNE8ZE0nOHsFFHOxpk7pUpoQ==",
+      "version": "2.0.1",
+      "integrity": "sha512-UDN0+B91Cv+TIlyln5VUmNm4724fgCKac0ON9H7cIsoK9z+znmkZ6bpJ9w2KKFWZl/dMVkCGbATqNxQjyoDV+A==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_ba": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*",
+        "@zerobias-org/segment-zerobias-d_ba": "*"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-d_ba": {
-      "version": "2.0.0",
-      "integrity": "sha512-8TkZavm0Ib1wOyk5A2aWucal1cwOADSMVE2/7hIl4PM2jSUCItZMgh4vJnHBu/wdbHR+ZPcn1Cgcx2uBO4Empw==",
+      "version": "2.0.1",
+      "integrity": "sha512-qHEF8TzU9H/yMGXP3OVhxYLc3jiRNBSfmQxDAxWdmxwqg25T2mQor+duqJIIKq/axkd6wiV3mjjSCsGCeziihg==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*"
       }
     }
   }

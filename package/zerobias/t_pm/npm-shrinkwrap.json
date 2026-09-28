@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/segment-zerobias-t_pm",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-t_pm",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "*",
@@ -65,32 +65,32 @@
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_devices": {
-      "version": "2.0.0",
-      "integrity": "sha512-Yxel34LYdtGN0/6i5S/BysP0JUCp+/FI7y92342baPBV56mVGon2DznJgvvbru10jdImoUaefrzFRLR4T/HH1Q==",
+      "version": "2.0.1",
+      "integrity": "sha512-cF92IH0e+WhwWVqGQyT6nRh5xyAOB0uWyF3A4vCo7HUHaTY53IeDkSYeZ+2ambodJZiTfJ7B2i2gnseNE34ocA==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_itm": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*",
+        "@zerobias-org/segment-zerobias-d_itm": "*"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_nasa": {
-      "version": "2.0.0",
-      "integrity": "sha512-Bwy2qEPJsMaM4S4GwFd5VkwQXxPHYKs2KjnCqdhD+/5mRJ2J1briXphNX9qbsfRtv/NnIxzQ9HpA8V/M3Pj9Xw==",
+      "version": "2.0.1",
+      "integrity": "sha512-P9jJPzS4mcTqrv4wzFSAqZtNjdHjIRRqb7OWzP4dn1ol9s0MlKDk/7FiC46ipTfysjYEdkw6iWeFN28MmZ1+cQ==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_itm": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*",
+        "@zerobias-org/segment-zerobias-d_itm": "*"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-d_itm": {
-      "version": "2.0.0",
-      "integrity": "sha512-ed7iIekrRoadJQcfOOHTVkESPyp4XICxwxHtTY9n55IF2yzNXJ7qrLdJcWLpJTFJkEiUhxGt0eL9A8BvxQ1C9A==",
+      "version": "2.0.1",
+      "integrity": "sha512-CMfJF4vbWs//eZcFTIDRRzibTFZn2g0OACQCQnFZY6aOuiyw9hTdjbQzo8HiDqW61o6KNnh5GV9s3Dd4kLROYA==",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/segment_type-zerobias": "*"
       }
     }
   }

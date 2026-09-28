@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "branch": "build/npmrc-canonical",
-  "sourceHash": "e4a7ca84c63f15e0ddfa24f879bd931d76620dc461c6e93d6af2907199abe6e3",
+  "version": "2.0.1-uat.0",
+  "branch": "build/npmrc-segment-2-refresh",
+  "sourceHash": "90e5bff2e01a51e358ee5d818b255a03690b8f965f7d4151f53b187cee330a8c",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "tasks": {
     "validate": "passed",
