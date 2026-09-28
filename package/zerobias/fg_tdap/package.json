@@ -15,11 +15,12 @@
     "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
     "index.yml",
     "logo.svg",
+    "npm-shrinkwrap.json",
     "supports.yml"
   ],
   "auditmation": {
@@ -28,13 +29,13 @@
     "package": "zerobias.fg_tdap.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rd": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_sqlip": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_uap": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_xssp": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_zdp": "latest",
-    "@zerobias-org/segment-zerobias-t_rasp": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rd": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_sqlip": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_uap": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_xssp": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_zdp": "*",
+    "@zerobias-org/segment-zerobias-t_rasp": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   }
 }

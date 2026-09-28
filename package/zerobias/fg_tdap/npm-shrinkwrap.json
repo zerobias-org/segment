@@ -1,193 +1,104 @@
 {
   "name": "@zerobias-org/segment-zerobias-fg_tdap",
-  "version": "1.0.4",
-  "lockfileVersion": 2,
+  "version": "2.0.0",
+  "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/segment-zerobias-fg_tdap",
-      "version": "1.0.4",
+      "version": "2.0.0",
       "license": "ISC",
       "dependencies": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_rd": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_sqlip": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_uap": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_xssp": "latest",
-        "@zerobias-org/compliance_feature-zerobias-f_zdp": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-t_rasp": "latest"
+        "@auditlogic/vendor-zerobias": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_rd": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_sqlip": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_uap": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_xssp": "*",
+        "@zerobias-org/compliance_feature-zerobias-f_zdp": "*",
+        "@zerobias-org/segment_type-zerobias": "*",
+        "@zerobias-org/segment-zerobias-t_rasp": "*"
       }
     },
     "node_modules/@auditlogic/vendor-zerobias": {
       "version": "1.0.0",
-      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
-      "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
+      "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw==",
+      "license": "ISC"
     },
     "node_modules/@zerobias-org/compliance_feature-zerobias-f_rd": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_rd/-/compliance_feature-zerobias-f_rd-1.0.1.tgz",
-      "integrity": "sha512-eyHqbIFacyid4ukE0Nmw4KITblE5mp+tjfa2HFq/tVnqCyL1vBtN65KV3uQ6tw7V7VEmJfrE4x/Rj0Sw9En2Qg==",
+      "version": "2.0.0",
+      "integrity": "sha512-cbPIahcnleK6Y7LMQWot/vqVvDlSN8mCdaT2bFRrxCuQbEp5CkrQbC6WrkxWvurYGpBX8SpnJGfnDCilpiZaLw==",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/compliance_feature-zerobias-f_sqlip": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_sqlip/-/compliance_feature-zerobias-f_sqlip-1.0.1.tgz",
-      "integrity": "sha512-V9bmAEJich31mOjlfm+EqcpRWmsDj+FWJW4mBp2SYdvhhKGbgEvh7kUYf+5sC86647WNxpg7tgKsCjBYZf/ivw==",
+      "version": "2.0.0",
+      "integrity": "sha512-rk8rwL0HGGeXVZstNH1C7kIllA1HNHk9gE6ywXXvV6+bOpeISnog3x/ZpmxcEJ2Teq8olVIuTEZeEbuaXOtKGA==",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/compliance_feature-zerobias-f_uap": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_uap/-/compliance_feature-zerobias-f_uap-1.0.1.tgz",
-      "integrity": "sha512-8/0rjv68bhStLu2SPwWUDleJfjTghr7ZnvRvW+7uinxHjJzBlWR9ad3ETvxu44QeGeZZ9XsG1YW/iwAXO8NudA==",
+      "version": "2.0.0",
+      "integrity": "sha512-Ou+A0obhYBTZxTma8DFPG5boARR6CMb8e1NIxsRrsNEFi13w4BR/66DlY6Ml8ImZMEzo2IBBUIjHzWGPXCHYQA==",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/compliance_feature-zerobias-f_xssp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_xssp/-/compliance_feature-zerobias-f_xssp-1.0.1.tgz",
-      "integrity": "sha512-PGhbuhPg7Beq7owq0Bk/8RWcVzS8fyRMCPGy6sZf3RUUlXmIRRJKuaG1IVn1HjjsGeT+C+5gjWghsZ2+lYXtQg==",
+      "version": "2.0.0",
+      "integrity": "sha512-TcIHavi6ReTwn+2p8RKnzjWWEdiibH5HMXsOKZRovTDDMcP/qhvH/hb8dwYTsbOLU2gijYwP6QEzTKk0EWYYCA==",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/compliance_feature-zerobias-f_zdp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_zdp/-/compliance_feature-zerobias-f_zdp-1.0.1.tgz",
-      "integrity": "sha512-el7lRXun/GS2fiQtqVZf7XBR/6Og0HFJUAFVfEnr2LLm9GFA6M72SE4wnEij3MACgMlKXY12y7/5zWWbmev/EQ==",
+      "version": "2.0.0",
+      "integrity": "sha512-SSjq7t5jFG9xZGIl8HUXoZWRdo0bsDFOOYrSDJeZMxAAJIGbaHuJiNEUIIQNGmNg3ccriPP4VETSueMNjyr3RA==",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/segment_type-zerobias": {
-      "version": "1.0.14",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.14.tgz",
-      "integrity": "sha512-oYwwUq/7FcvLBS8JLlgG93tuRepHYa2qPfrCpe+gxzC+1mFYvbUcXifRKCAOtK/UOVcZMgPdbmpZppDlE3MkzQ==",
+      "version": "1.0.15",
+      "integrity": "sha512-nYJGXCMnk0LEkogHobbS7+HwRr4aSY2yj1wiG9HqZ6aCKDja2PSha5AVzQFUUY4nN5QlCJoDdKiQPKiqxPf4uw==",
+      "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-c_as": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_as/-/segment-zerobias-c_as-1.0.1.tgz",
-      "integrity": "sha512-gi9vOeUgrOq0IaBC73ljGSoh2yM8l1ZSegSyAFQN23Haj5ga+5OtaCksx7xI5u/qqQfb1RF+/GBeH5Xy5vSaGQ==",
+      "version": "2.0.0",
+      "integrity": "sha512-gUEe9Qyz95wOwOY0j9J+uumcG4XhBkwaNkNVAu8ufqvsJ5/kuvfgc28ktAdkJ0m9M1dNXOeLxrLngY8Z4Fz9HQ==",
+      "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_cs": "^1.0.1"
+        "@zerobias-org/segment-zerobias-d_cs": "latest"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-d_cs": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_cs/-/segment-zerobias-d_cs-1.0.1.tgz",
-      "integrity": "sha512-JQwWlUnpuSmfhLngnors9M7sCpQbPSGsq8d91l+fF8qodBBvMF1uDdM/SkZjYKzkPCBej0sKXSrEqx4PZHEGLQ==",
+      "version": "2.0.0",
+      "integrity": "sha512-Yl6XANt/1ACUO81EFzkVI3WJJx+vVSXMXztpndt+kEMd3Lp3gcEfczHgt+t8Q8twe+T+GPiX8B5vk4KMNg+P4w==",
+      "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
         "@zerobias-org/segment_type-zerobias": "latest"
       }
     },
     "node_modules/@zerobias-org/segment-zerobias-t_rasp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-t_rasp/-/segment-zerobias-t_rasp-1.0.1.tgz",
-      "integrity": "sha512-EaErHmgPzNwNb4znjPJLvdjPKMt8/h0hjv8RQEyOhrcVLXBdTR2CV5RfaC2ksYHZ40CcwT39PkRrrpp/DaUbPA==",
+      "version": "2.0.0",
+      "integrity": "sha512-YCKOJPuE49i+Q+EVbHNJ57KuQA3eKAHmiIDEyFnQX3/z9OePnqgCCFPb9jUGw5H5RV+hx/Uhu8tS4dQkXZsM4w==",
+      "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "latest",
         "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-c_as": "^1.0.1"
-      }
-    }
-  },
-  "dependencies": {
-    "@auditlogic/vendor-zerobias": {
-      "version": "1.0.0",
-      "resolved": "https://pkg.zerobias.org/@auditlogic/vendor-zerobias/-/e051a99849948ce67721da0d5215aae8e293906e",
-      "integrity": "sha512-+rgU3lJDY04mkQxk8jwKWtCTDVUIDxH5YitnJbp3gNecFqCIIaq6GUXH06ZMSi8pcivWMOuYilyXPYdVlmT2Gw=="
-    },
-    "@zerobias-org/compliance_feature-zerobias-f_rd": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_rd/-/compliance_feature-zerobias-f_rd-1.0.1.tgz",
-      "integrity": "sha512-eyHqbIFacyid4ukE0Nmw4KITblE5mp+tjfa2HFq/tVnqCyL1vBtN65KV3uQ6tw7V7VEmJfrE4x/Rj0Sw9En2Qg==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/compliance_feature-zerobias-f_sqlip": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_sqlip/-/compliance_feature-zerobias-f_sqlip-1.0.1.tgz",
-      "integrity": "sha512-V9bmAEJich31mOjlfm+EqcpRWmsDj+FWJW4mBp2SYdvhhKGbgEvh7kUYf+5sC86647WNxpg7tgKsCjBYZf/ivw==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/compliance_feature-zerobias-f_uap": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_uap/-/compliance_feature-zerobias-f_uap-1.0.1.tgz",
-      "integrity": "sha512-8/0rjv68bhStLu2SPwWUDleJfjTghr7ZnvRvW+7uinxHjJzBlWR9ad3ETvxu44QeGeZZ9XsG1YW/iwAXO8NudA==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/compliance_feature-zerobias-f_xssp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_xssp/-/compliance_feature-zerobias-f_xssp-1.0.1.tgz",
-      "integrity": "sha512-PGhbuhPg7Beq7owq0Bk/8RWcVzS8fyRMCPGy6sZf3RUUlXmIRRJKuaG1IVn1HjjsGeT+C+5gjWghsZ2+lYXtQg==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/compliance_feature-zerobias-f_zdp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/compliance_feature-zerobias-f_zdp/-/compliance_feature-zerobias-f_zdp-1.0.1.tgz",
-      "integrity": "sha512-el7lRXun/GS2fiQtqVZf7XBR/6Og0HFJUAFVfEnr2LLm9GFA6M72SE4wnEij3MACgMlKXY12y7/5zWWbmev/EQ==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/segment_type-zerobias": {
-      "version": "1.0.14",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment_type-zerobias/-/segment_type-zerobias-1.0.14.tgz",
-      "integrity": "sha512-oYwwUq/7FcvLBS8JLlgG93tuRepHYa2qPfrCpe+gxzC+1mFYvbUcXifRKCAOtK/UOVcZMgPdbmpZppDlE3MkzQ==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "^1.0.0"
-      }
-    },
-    "@zerobias-org/segment-zerobias-c_as": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-c_as/-/segment-zerobias-c_as-1.0.1.tgz",
-      "integrity": "sha512-gi9vOeUgrOq0IaBC73ljGSoh2yM8l1ZSegSyAFQN23Haj5ga+5OtaCksx7xI5u/qqQfb1RF+/GBeH5Xy5vSaGQ==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-d_cs": "^1.0.1"
-      }
-    },
-    "@zerobias-org/segment-zerobias-d_cs": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-d_cs/-/segment-zerobias-d_cs-1.0.1.tgz",
-      "integrity": "sha512-JQwWlUnpuSmfhLngnors9M7sCpQbPSGsq8d91l+fF8qodBBvMF1uDdM/SkZjYKzkPCBej0sKXSrEqx4PZHEGLQ==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest"
-      }
-    },
-    "@zerobias-org/segment-zerobias-t_rasp": {
-      "version": "1.0.1",
-      "resolved": "https://pkg.zerobias.org/@zerobias-org/segment-zerobias-t_rasp/-/segment-zerobias-t_rasp-1.0.1.tgz",
-      "integrity": "sha512-EaErHmgPzNwNb4znjPJLvdjPKMt8/h0hjv8RQEyOhrcVLXBdTR2CV5RfaC2ksYHZ40CcwT39PkRrrpp/DaUbPA==",
-      "requires": {
-        "@auditlogic/vendor-zerobias": "latest",
-        "@zerobias-org/segment_type-zerobias": "latest",
-        "@zerobias-org/segment-zerobias-c_as": "^1.0.1"
+        "@zerobias-org/segment-zerobias-c_as": "latest"
       }
     }
   }
