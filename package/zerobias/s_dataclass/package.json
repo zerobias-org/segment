@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-s_dataclass",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Data classification and handling services.",
   "author": "team@zerobias.com",
   "license": "ISC",
