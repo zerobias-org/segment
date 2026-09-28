@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0-uat.0",
+  "version": "2.0.1",
   "branch": "build/npmrc-canonical",
   "sourceHash": "383764ae45534052e1777895dfb87433778e44399cdb576c79c0f50ec230e983",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",

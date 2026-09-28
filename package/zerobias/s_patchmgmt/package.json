@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-s_patchmgmt",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Managed patch management services.",
   "author": "team@zerobias.com",
   "license": "ISC",
