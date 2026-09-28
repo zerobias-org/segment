@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-c_ci-segment.svg
 code: c_ci
 externalId: Cloud Infrastructure
 status: published
-parents: 
+parents:
   - d_itm
 created: '2025-04-02T04:23:38.229217Z'
 updated: '2025-04-02T04:23:38.229217Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-c_ci.svg

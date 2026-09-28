@@ -18,3 +18,4 @@ aliases:
   - EXPOSURE MANAGEMENT
 environment: dev
 hostname: 'https://api.ci.zerobias.com'
+logo: https://cdn.auditmation.io/logos/zerobias-c_em.svg

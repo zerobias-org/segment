@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tdap-segment.svg
 code: fg_tdap
 externalId: Threat Detection and Prevention
 status: published
-parents: 
+parents:
   - t_rasp
 created: '2025-04-09T22:33:53.092248Z'
 updated: '2025-04-09T22:33:53.092248Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-fg_tdap.svg

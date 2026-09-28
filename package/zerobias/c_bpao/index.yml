@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-c_bpao-segment.svg
 code: c_bpao
 externalId: Business Processes and Operations
 status: published
-parents: 
+parents:
   - d_ba
 created: '2025-03-31T07:10:04.264227Z'
 updated: '2025-04-02T04:42:33.711000Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-c_bpao.svg
