@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-s_a11yaudit",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Accessibility auditing services (ADA, Section 508, WCAG).",
   "author": "team@zerobias.com",
   "license": "ISC",

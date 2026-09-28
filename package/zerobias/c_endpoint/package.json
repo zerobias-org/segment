@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/segment-zerobias-c_endpoint",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.1",
   "description": "Endpoint detection, response, and device security services.",
   "author": "team@zerobias.com",
   "license": "ISC",

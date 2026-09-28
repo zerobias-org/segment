@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-fg_tm-segment.svg
 code: fg_tm
 externalId: Threat Monitoring
 status: published
-parents: 
+parents:
   - t_siem
   - t_ids
   - t_hids
@@ -21,3 +21,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-fg_tm.svg

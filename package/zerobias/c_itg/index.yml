@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-c_itg-segment.svg
 code: c_itg
 externalId: IT Governance
 status: published
-parents: 
+parents:
   - d_itm
 created: '2025-04-02T04:23:40.036639Z'
 updated: '2025-04-02T04:23:40.036639Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-c_itg.svg
