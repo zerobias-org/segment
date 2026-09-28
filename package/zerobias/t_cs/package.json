@@ -15,11 +15,12 @@
     "correct:deps": "tsx ../../../scripts/correctDeps.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org"
   },
   "files": [
     "index.yml",
     "logo.svg",
+    "npm-shrinkwrap.json",
     "supports.yml"
   ],
   "auditmation": {
@@ -28,18 +29,18 @@
     "package": "zerobias.t_cs.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_cfw": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_dspc": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ir": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_isav": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_ns": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rbac": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rbpa": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_rtm": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_sr": "latest",
-    "@zerobias-org/compliance_feature-zerobias-f_vs": "latest",
-    "@zerobias-org/segment-zerobias-c_is": "latest",
-    "@zerobias-org/segment_type-zerobias": "latest"
+    "@auditlogic/vendor-zerobias": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_cfw": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_dspc": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ir": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_isav": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_ns": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rbac": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rbpa": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_rtm": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_sr": "*",
+    "@zerobias-org/compliance_feature-zerobias-f_vs": "*",
+    "@zerobias-org/segment-zerobias-c_is": "*",
+    "@zerobias-org/segment_type-zerobias": "*"
   }
 }
