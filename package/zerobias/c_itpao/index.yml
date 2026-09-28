@@ -7,7 +7,7 @@ imageUrl: https://cdn.auditmation.io/logos/zerobias-c_itpao-segment.svg
 code: c_itpao
 externalId: IT Processes and Operations
 status: published
-parents: 
+parents:
   - d_itm
 created: '2025-04-02T04:23:32.023054Z'
 updated: '2025-04-02T04:23:32.023054Z'
@@ -15,3 +15,4 @@ tags: []
 environment: prod
 hostname: https://api.app.zerobias.com
 aliases: []
+logo: https://cdn.auditmation.io/logos/zerobias-c_itpao.svg
