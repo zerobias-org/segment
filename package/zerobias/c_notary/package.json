@@ -20,7 +20,9 @@
   },
   "files": [
     "index.yml",
-    "npm-shrinkwrap.json"
+    "npm-shrinkwrap.json",
+    "supports.yml",
+    "logo.*"
   ],
   "auditmation": {
     "dataloader-version": "3.29.26",
@@ -28,8 +30,8 @@
     "package": "zerobias.c_notary.segment"
   },
   "dependencies": {
-    "@auditlogic/vendor-zerobias": "*",
     "@zerobias-org/segment-zerobias-d_svc": "*",
-    "@zerobias-org/segment_type-zerobias": "*"
+    "@zerobias-org/segment_type-zerobias": "*",
+    "@zerobias-org/vendor-zerobias": "*"
   }
 }

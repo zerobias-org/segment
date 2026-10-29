@@ -1,12 +1,17 @@
 id: 4081a9b0-28d1-4c4b-a2e1-9ce2e4da5dc8
 name: Notary and Document Authentication
-description: Notarization and document authentication services.
-segmentType: category
-imageUrl: https://cdn.auditmation.io/logos/zerobias-c_notary-segment.svg
 code: c_notary
-externalId: Notary and Document Authentication
+description: Notarization and document-authentication services.
 status: published
+externalId: Notary and Document Authentication
+imageUrl: images/resourceType/segment_version.svg
+ownerId: 00000000-0000-0000-0000-000000000000
+tags: []
 parents:
   - d_svc
-tags: []
-aliases: []
+segmentType: category
+aliases:
+  - Notary and Document Authentication
+  - c_notary
+environment: dev
+hostname: http://cs-dev-dana:3000
