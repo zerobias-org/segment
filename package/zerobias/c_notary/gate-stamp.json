@@ -1,9 +1,8 @@
 {
-  "version": "1.0.1-dev.0",
-  "branch": "dev",
-  "sourceHash": "3761849b72fce5a66ac6f1920df99f075094531b2e1c4abd320b943db630caf9",
+  "version": "1.0.1",
+  "branch": "build/npmrc-canonical",
+  "sourceHash": "ffdccb91b72015eeaf3d1f4426c0ab4ae22939b1325a13c0855e52358f78cdcf",
   "testHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "dataloaderEnv": "dev",
   "tasks": {
     "validate": "passed",
     "lint": "passed",
@@ -12,8 +11,7 @@
     "testDirect": "passed",
     "testDocker": "passed",
     "testDataloader": "passed",
-    "buildArtifacts": "passed",
-    "dataloaderExec": "passed"
+    "buildArtifacts": "passed"
   },
   "tests": {
       "unit": { "expected": 0, "ran": 0, "status": "skipped" },
