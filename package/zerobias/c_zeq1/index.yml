@@ -1,0 +1,13 @@
+id: 8f3893c9-6b72-49df-8672-98a3f5537ff4
+name: zz e2e queue 1
+code: c_zeq1
+description: e2e queue test 1 (platform#224); safe to remove
+status: published
+externalId: zz e2e queue 1
+ownerId: 00000000-0000-0000-0000-000000000000
+tags: []
+parents: []
+segmentType: category
+aliases:
+  - zz e2e queue 1
+  - c_zeq1
