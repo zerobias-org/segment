@@ -25,6 +25,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "segment",
-    "package": "zerobias.c_zeq1.segment"
+    "package": "zerobias.c_zeq1.segment",
+    "promote-to-public": true
   }
 }
