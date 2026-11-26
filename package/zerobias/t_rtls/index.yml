@@ -1,0 +1,17 @@
+id: 5350fc30-7f80-4de1-9987-c57ec2fc22a3
+name: Real-Time Location System (RTLS)
+description: >-
+  Systems that track the real-time location of people and equipment inside a
+  facility using tags and fixed sensors.
+segmentType: tool
+imageUrl: https://cdn.auditmation.io/logos/zerobias-t_rtls-segment.svg
+code: t_rtls
+externalId: Real-Time Location System
+status: published
+parents:
+  - c_bpao
+tags: []
+aliases:
+  - RTLS
+  - Real-Time Locating System
+  - Indoor Positioning System
